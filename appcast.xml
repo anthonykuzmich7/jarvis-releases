@@ -3,6 +3,23 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Tue, 21 Jul 2026 09:10:45 +0200</pubDate>
+            <sparkle:version>501</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.5.1</h2>
+<ul>
+  <li>Clearer, simpler wording on the Meetings card.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.1.dmg" length="557460404" type="application/octet-stream" sparkle:edSignature="+MMGuaS5D3RfkethXSCF/x5FlJ5Alekyf/LOHCdd1K4Jdpf84GGwx4LsGLRxzbFTLPUxBCye6hvlrd7p7NSUAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis501-500.delta" sparkle:deltaFrom="500" length="395746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mia8eBOBN5WlpSU2bfMtkpGgax3JNacV+ce5TBNF1AnaG+rHyeV1mD/FKuWrKIQufKQ8ywoP0sY7vO9Mw1ERDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 20 Jul 2026 23:59:53 +0200</pubDate>
             <sparkle:version>500</sparkle:version>

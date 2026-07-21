@@ -3,6 +3,32 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.7.1</title>
+            <pubDate>Tue, 21 Jul 2026 15:06:36 +0200</pubDate>
+            <sparkle:version>701</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.7.1</h2>
+<p><b>Stability fix.</b> Resolves a crash that could occur right after updating the
+app (a race in the Telegram engine during the brief overlap between the old and
+new app instance).</p>
+<ul>
+  <li>The Telegram engine now starts its update listener only when it's actually
+      needed, eliminating a startup race.</li>
+  <li>Jarvis now ensures only one copy of the app runs at a time — a second
+      launch hands over to the running one.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.7.1.dmg" length="558014192" type="application/octet-stream" sparkle:edSignature="ELVT3W6LujNRMzqPWR7+/ybQAUwGdvPHNCtVVNWyrpFcoqOkPFUfZQm3ptUwGIfvY/OXc89SiFa6jvVp+pwxBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis701-700.delta" sparkle:deltaFrom="700" length="1882262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ol7o/2w3jjsbgDtlHInG4h45uiYTunvEZsx6ANJ+B95UXUBJrid1k4bttJVT61rMoefaPtr0jp6QDlQjhqNACA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis701-600.delta" sparkle:deltaFrom="600" length="3264546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w0IP7KxRMac7QQFpR8/7a1degKo1kdP80Z9Qc4IUt5R/4LHfjBepo1kWMUIf7eixsDlAtx/Gs7Y3FrCOW8sVCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis701-501.delta" sparkle:deltaFrom="501" length="3416346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZP5mnmhI1c5FYy/f043FSj590lYS/LN5HfPkGC4ESeT9PDuQINwSHoSUMWrVFWJ1Ph733UQBN2t6MezDDq1FCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis701-500.delta" sparkle:deltaFrom="500" length="3413102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RgLxXH6XlCugbtQ2XW7yTdnQrKshzgDe4imKnoLvjH7F+osIAKNMUzgs0x6/7IyBYORDX1QL3H6UQv0a7SXbDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Tue, 21 Jul 2026 13:48:35 +0200</pubDate>
             <sparkle:version>700</sparkle:version>
@@ -61,15 +87,6 @@ actually need to do — who asked, what you promised, and the evidence behind ea
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-501.delta" sparkle:deltaFrom="501" length="3002278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yHD0m2hRsawhJB+vncWcKlhd7zlyxs3Ky5eOSj/Pn7WBlgOipgS7mFiHAW0VB67ip+pgvHzcSSI/OZ+a8XceCA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-500.delta" sparkle:deltaFrom="500" length="2999554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fy84Kypw4H5DKxpxLfq+IvI9tWfs/p0b+4HUQP6pIBl6xM7XA6ndys1/qGovSMWrFS1IgfVD35xeaev+ROWmCw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.5.1</title>
-            <pubDate>Tue, 21 Jul 2026 09:55:36 +0200</pubDate>
-            <sparkle:version>501</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.1.dmg" length="557460404" type="application/octet-stream" sparkle:edSignature="+MMGuaS5D3RfkethXSCF/x5FlJ5Alekyf/LOHCdd1K4Jdpf84GGwx4LsGLRxzbFTLPUxBCye6hvlrd7p7NSUAA=="/>
         </item>
     </channel>
 </rss>

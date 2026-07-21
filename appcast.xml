@@ -3,6 +3,37 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Tue, 21 Jul 2026 13:48:35 +0200</pubDate>
+            <sparkle:version>700</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.7.0</h2>
+<p><b>Your day, complete.</b> The task loop closes: Jarvis now shows the tasks it
+finds in your world — and notices when you've finished them.</p>
+<ul>
+  <li><b>"Your day"</b> — a new home for your tasks: things people asked of you,
+      things you promised, and suggestions Jarvis noticed, each backed by the
+      verbatim message it came from. A live badge shows what needs you.</li>
+  <li><b>Task details</b> — open any task to see the source conversation, jump to
+      it in Slack/Gmail/Meetings, mark done, snooze, or dismiss.</li>
+  <li><b>"Looks done?"</b> — when you post that you've finished something
+      ("shipped it", "sent it over"), Jarvis suggests marking the task done —
+      with the exact message as evidence. You confirm with one click; Jarvis
+      never closes a task by itself.</li>
+  <li><b>For agents</b> — a new <code>list_tasks</code> MCP tool so Claude Code
+      and other agents can see your open tasks.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.7.0.dmg" length="557999289" type="application/octet-stream" sparkle:edSignature="dEt6RGnee0UJlRaWqOG3perq5wIlXdT1QrGco1hrno7brV7DGe0ijI2/FgSzsC2yWvKZgG9GaZlgLVSb+Z3qBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-600.delta" sparkle:deltaFrom="600" length="3218202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VUagj97DKh+1G1DIeeSYHu80I4gtJe9zCSKuImsIG7szx3YEx7Dx12zJvj/Ewwd1aqNaCqMZA5h739J+AncFCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-501.delta" sparkle:deltaFrom="501" length="3453614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4YFCXUSjDIXzQfZPrF40sSQnrtDdNXgCIy0+G1kTIkmbM8dfcT4q9hRsdepieOq5Kqdh9h0W7u24dUN+pfaBBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-500.delta" sparkle:deltaFrom="500" length="3445142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cp9PCeD/Je4lpQjpGXz7lbMbJpxOJKhS1MQJ/OZDriMJnAyDRWCCpwcebduX2fe60Lz6iGTCPzHlBtigj9CoAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Tue, 21 Jul 2026 09:56:38 +0200</pubDate>
             <sparkle:version>600</sparkle:version>
@@ -39,15 +70,6 @@ actually need to do — who asked, what you promised, and the evidence behind ea
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.1.dmg" length="557460404" type="application/octet-stream" sparkle:edSignature="+MMGuaS5D3RfkethXSCF/x5FlJ5Alekyf/LOHCdd1K4Jdpf84GGwx4LsGLRxzbFTLPUxBCye6hvlrd7p7NSUAA=="/>
-        </item>
-        <item>
-            <title>0.5.0</title>
-            <pubDate>Tue, 21 Jul 2026 09:54:32 +0200</pubDate>
-            <sparkle:version>500</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.0.dmg" length="557460963" type="application/octet-stream" sparkle:edSignature="Lek9C3bz4ggNMyB7EaZSzj8ggUNFx0anVWVCaVh7h3+Cnj/ke7VPJalibxcFjH22vY7zOZigvKxWTw5yB7oICQ=="/>
         </item>
     </channel>
 </rss>

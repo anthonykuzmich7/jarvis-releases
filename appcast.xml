@@ -3,36 +3,50 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Tue, 21 Jul 2026 09:56:38 +0200</pubDate>
+            <sparkle:version>600</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.6.0</h2>
+<p><b>Jarvis now finds your tasks.</b> A new on-device task engine reads your synced
+Slack, Gmail, Granola, and meeting context after each sync and works out what you
+actually need to do — who asked, what you promised, and the evidence behind each task.</p>
+<ul>
+  <li><b>Task extraction engine</b> — asks directed at you, commitments you made, and
+      suggested follow-ups, each backed by a verbatim quote from the source message.</li>
+  <li><b>Meetings included</b> — things you agreed to in a recorded meeting become
+      tasks too ("Me"/"Them" transcript lines are understood).</li>
+  <li><b>New <code>jarvis tasks</code> CLI</b> — see your inferred tasks in the
+      terminal (<code>--json</code> for scripting).</li>
+  <li>Quality-gated: extraction ships behind a live evaluation harness
+      (precision/recall/hallucination gates all green).</li>
+</ul>
+<p>Task UI in the app arrives in the next release; this update lays the engine.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.6.0.dmg" length="557728910" type="application/octet-stream" sparkle:edSignature="iyX4PoN+uxFmlzJ29MUYTJQjTVQ1O5GOwJaA0qT3agikl/rj1VAFSxAPqgwrWF0+zLbGXlfJarviNdfBM4FSDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-501.delta" sparkle:deltaFrom="501" length="3002278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yHD0m2hRsawhJB+vncWcKlhd7zlyxs3Ky5eOSj/Pn7WBlgOipgS7mFiHAW0VB67ip+pgvHzcSSI/OZ+a8XceCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-500.delta" sparkle:deltaFrom="500" length="2999554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fy84Kypw4H5DKxpxLfq+IvI9tWfs/p0b+4HUQP6pIBl6xM7XA6ndys1/qGovSMWrFS1IgfVD35xeaev+ROWmCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.1</title>
-            <pubDate>Tue, 21 Jul 2026 09:10:45 +0200</pubDate>
+            <pubDate>Tue, 21 Jul 2026 09:55:36 +0200</pubDate>
             <sparkle:version>501</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.5.1</h2>
-<ul>
-  <li>Clearer, simpler wording on the Meetings card.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.1.dmg" length="557460404" type="application/octet-stream" sparkle:edSignature="+MMGuaS5D3RfkethXSCF/x5FlJ5Alekyf/LOHCdd1K4Jdpf84GGwx4LsGLRxzbFTLPUxBCye6hvlrd7p7NSUAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis501-500.delta" sparkle:deltaFrom="500" length="395746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mia8eBOBN5WlpSU2bfMtkpGgax3JNacV+ce5TBNF1AnaG+rHyeV1mD/FKuWrKIQufKQ8ywoP0sY7vO9Mw1ERDA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.5.0</title>
-            <pubDate>Mon, 20 Jul 2026 23:59:53 +0200</pubDate>
+            <pubDate>Tue, 21 Jul 2026 09:54:32 +0200</pubDate>
             <sparkle:version>500</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.5.0</h2>
-<ul>
-  <li>Jarvis is now signed and notarized by Apple — installing is just download, drag to Applications, and double-click. No Terminal, no "Open Anyway", no security dialogs.</li>
-  <li>Jarvis keeps itself up to date: it checks for new versions automatically and offers them with one click (or use the Jarvis menu → Check for Updates…).</li>
-  <li>Upgrading from an older build? Trash the old copy first, then grant Screen Recording &amp; Accessibility once more — macOS sees the new Apple signature as a fresh app. This is a one-time step; future updates keep your permissions.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.5.0.dmg" length="557460963" type="application/octet-stream" sparkle:edSignature="Lek9C3bz4ggNMyB7EaZSzj8ggUNFx0anVWVCaVh7h3+Cnj/ke7VPJalibxcFjH22vY7zOZigvKxWTw5yB7oICQ=="/>
         </item>
     </channel>

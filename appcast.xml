@@ -3,6 +3,29 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.7.2</title>
+            <pubDate>Tue, 21 Jul 2026 16:26:16 +0200</pubDate>
+            <sparkle:version>702</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.7.2</h2>
+<p><b>Telegram stability fix.</b> Fixes the crash some users hit when the Telegram
+connection closed (disconnecting, reconnecting, or the engine restarting itself).
+Root-caused from crash reports: Jarvis was reading from the Telegram engine while
+it was shutting down internally. It now stands clear the moment a shutdown begins,
+and waits out a safety window before reconnecting.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.7.2.dmg" length="558019264" type="application/octet-stream" sparkle:edSignature="YP16PdMahb6Azos8q29+QpWN6IU4zj/NCHzf57lYUq5YP6reKLMgs5ENWLD9j8eob9d9B8Fdmu8ECQJNRyagBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis702-701.delta" sparkle:deltaFrom="701" length="1890722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ade8NSy3zSdog1GzUEP+txvNkFFLegTW4gNoimt51FOxFqob541wsjn8CAzUx7xJ8Gae+iwY2gky4hqe10VWAQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis702-700.delta" sparkle:deltaFrom="700" length="2172894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q6z6d5yL3mnUVrkC6THAL0v+DgaSj0R4SmbIvaO/m3OK6CjUi/cIh9ANa6svoG/sqHY6NAoG7n85sh2TPTsEAw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis702-600.delta" sparkle:deltaFrom="600" length="3311390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jORXf27qwtgqU0b3dG1ACpgBEWZC1n37qOH9w26j+0hvfB59pL5QT3KLbc4Q15dBpIH5ZHuM7zagl17dYviuCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis702-501.delta" sparkle:deltaFrom="501" length="3468298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZDfhL9EnEMjIMK/pVPUEf5ZRO8eZpkdyBBPzkUbcK318jw7UZjROFLejSb5sK2wXiR4UgB8p/K9qT8AsQUkoDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis702-500.delta" sparkle:deltaFrom="500" length="3479018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BBvDc1TiK1zGELfETfKc/n0h+k2ITc6AwdML/S4qOLa7Hzp90HGEks+ZZ9C5c0kJnmjO8Pf9hsBggrJ14OofAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7.1</title>
             <pubDate>Tue, 21 Jul 2026 15:06:36 +0200</pubDate>
             <sparkle:version>701</sparkle:version>
@@ -57,35 +80,6 @@ finds in your world — and notices when you've finished them.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-600.delta" sparkle:deltaFrom="600" length="3218202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VUagj97DKh+1G1DIeeSYHu80I4gtJe9zCSKuImsIG7szx3YEx7Dx12zJvj/Ewwd1aqNaCqMZA5h739J+AncFCg=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-501.delta" sparkle:deltaFrom="501" length="3453614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4YFCXUSjDIXzQfZPrF40sSQnrtDdNXgCIy0+G1kTIkmbM8dfcT4q9hRsdepieOq5Kqdh9h0W7u24dUN+pfaBBA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis700-500.delta" sparkle:deltaFrom="500" length="3445142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cp9PCeD/Je4lpQjpGXz7lbMbJpxOJKhS1MQJ/OZDriMJnAyDRWCCpwcebduX2fe60Lz6iGTCPzHlBtigj9CoAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Tue, 21 Jul 2026 09:56:38 +0200</pubDate>
-            <sparkle:version>600</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.6.0</h2>
-<p><b>Jarvis now finds your tasks.</b> A new on-device task engine reads your synced
-Slack, Gmail, Granola, and meeting context after each sync and works out what you
-actually need to do — who asked, what you promised, and the evidence behind each task.</p>
-<ul>
-  <li><b>Task extraction engine</b> — asks directed at you, commitments you made, and
-      suggested follow-ups, each backed by a verbatim quote from the source message.</li>
-  <li><b>Meetings included</b> — things you agreed to in a recorded meeting become
-      tasks too ("Me"/"Them" transcript lines are understood).</li>
-  <li><b>New <code>jarvis tasks</code> CLI</b> — see your inferred tasks in the
-      terminal (<code>--json</code> for scripting).</li>
-  <li>Quality-gated: extraction ships behind a live evaluation harness
-      (precision/recall/hallucination gates all green).</li>
-</ul>
-<p>Task UI in the app arrives in the next release; this update lays the engine.</p>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.6.0.dmg" length="557728910" type="application/octet-stream" sparkle:edSignature="iyX4PoN+uxFmlzJ29MUYTJQjTVQ1O5GOwJaA0qT3agikl/rj1VAFSxAPqgwrWF0+zLbGXlfJarviNdfBM4FSDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-501.delta" sparkle:deltaFrom="501" length="3002278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yHD0m2hRsawhJB+vncWcKlhd7zlyxs3Ky5eOSj/Pn7WBlgOipgS7mFiHAW0VB67ip+pgvHzcSSI/OZ+a8XceCA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis600-500.delta" sparkle:deltaFrom="500" length="2999554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fy84Kypw4H5DKxpxLfq+IvI9tWfs/p0b+4HUQP6pIBl6xM7XA6ndys1/qGovSMWrFS1IgfVD35xeaev+ROWmCw=="/>
             </sparkle:deltas>
         </item>
     </channel>

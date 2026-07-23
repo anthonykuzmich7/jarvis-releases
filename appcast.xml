@@ -3,6 +3,31 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.8.3</title>
+            <pubDate>Thu, 23 Jul 2026 12:55:37 +0200</pubDate>
+            <sparkle:version>803</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.8.3</h2>
+<p><b>Granola sync has been removed.</b> Jarvis records and summarizes your
+meetings on its own now, so the separate Granola connection is no longer
+needed. If you had connected Granola, it simply disappears from your
+sources — there's nothing you need to do.</p>
+<p>Any sign-in tokens Granola left behind are cleaned off your Mac
+automatically the next time Jarvis launches. Your other sources — Slack,
+Gmail, and Telegram — are unchanged.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.3.dmg" length="558445497" type="application/octet-stream" sparkle:edSignature="Hnd7fSP0pVyY6fOOZj0mjrsF3Dz6d6Rl6DHCR3cJMPrL/DlJXtzKIKhA+GYjAXrmXiMpYoHBdTkuAK5RwvwjCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-802.delta" sparkle:deltaFrom="802" length="3020122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DNO7Ou4G/EptCx3nXkNxtYtLsih7BSA+iCAVWDypqIeGQoYma6iEtJXRBTfHuf2MOfeIdvn2mGkPpykULFh8BQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-801.delta" sparkle:deltaFrom="801" length="3007386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BjSzBGWm1U+5tToX9raNYbDI6yH3DGh8fnCkxC98uaumjRv//cLPwrgP0BaOzX+Ax/1+4ObbUSwSOW2umn4cBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-800.delta" sparkle:deltaFrom="800" length="3073538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CZlYNyXB7sVFwdp3JA1tmMrI9Z4QTtnHiRCWtxee9uRONVDcBz4g7v8HaUE5BCWmLimmDkn7b3nQkDNtSzQtBg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-702.delta" sparkle:deltaFrom="702" length="3787058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u6iHsLtHcf3z2FljaMeXuuEy4czrslqO9EykYOC1PwUao9pnGSwRC4IrOha0WpXFiAU+LHMv3KeBAof0MF40BA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-701.delta" sparkle:deltaFrom="701" length="3756254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FPrSLSJiE1i1HcLf024t7+mfWsRuZIkjfSoZlwh1rON0CDb6cH35BZhwoFtXIa9Qq9cBa5QbRlg2Pj21tJd7CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.2</title>
             <pubDate>Wed, 22 Jul 2026 18:58:47 +0200</pubDate>
             <sparkle:version>802</sparkle:version>
@@ -51,44 +76,6 @@ day in the Hub — is unchanged.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-701.delta" sparkle:deltaFrom="701" length="3793734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zrrYxST/FB4gAVPmi2VX8trXInHXZYeMeZCUfhUbvujBCmHbPGnJIrVuv0/SpoV+vqg+JURUwq6Ahyr6xAcoCA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-700.delta" sparkle:deltaFrom="700" length="3806930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gQKCEXfFB4QDsNWy7EgaDieQni0PHIom0NaiLtydoriQJ9bykJTyr0+9ZuMp25WEkKnfgg/ZCuN65JMDCtNODw=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-600.delta" sparkle:deltaFrom="600" length="4003254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H2nuSL8syGigJN2koYZVA5NSsBKZjz8j9fv9D9Y40UPAv93a5kYLV27W9BDVWLSV1g+1ixktjmmd3IENacFsAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.0</title>
-            <pubDate>Wed, 22 Jul 2026 16:26:57 +0200</pubDate>
-            <sparkle:version>800</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.8.0</h2>
-<p><b>The Hub, redesigned.</b> Your connected apps are now a library of purpose
-groups — Chat, Mail, Notes, Work, Sales — each a card you can read at a glance:
-what's connected, what's available, what's syncing, what needs you. Click a card
-to zoom into the group; connect new sources right there.</p>
-<p><b>Meetings moves up.</b> Meeting capture now lives next to "Your world" in the
-header — a compact control that shows when Jarvis is listening (with a live
-timer), when notes are ready, and when something needs attention. Click it for
-the remote control: start or stop listening, your recent meetings, and the full
-notes list — now organized by day, with counts, previews, and the transcript one
-click deeper.</p>
-<p><b>Your day lives in the Hub.</b> The tasks Jarvis infers from your messages
-and meetings now appear right below your apps — a short list of what actually
-needs you today, as plain to-dos. Open one to see exactly where it came from,
-with the evidence quoted from every source it was spotted in. When a task looks
-done, Jarvis asks — one click confirms.</p>
-<p><b>Quieter and more honest.</b> One attention line in the header now covers
-everything — sources, meetings, Claude Code — and clicking it takes you straight
-to the fix. Each screen states plainly what stays on your Mac and what uses your
-Anthropic key. In-app search is retired: you ask Jarvis through Claude Code, and
-that stays as fast and private as before.</p>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.0.dmg" length="558635506" type="application/octet-stream" sparkle:edSignature="pMzDnLqR2NDnjqS2o1pRUXYDjVn07q15G0IB2KxFq/7LSh5x0CpSuhOksUiu7fkSARctbV1gXd8ASOnCKnLvCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis800-702.delta" sparkle:deltaFrom="702" length="3788334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2VKXMAZvWR8wcc7xT8aNyntGe5LSL0VCBaqtDfgzf+aq7seK9wRlepsqR1Po820stNqSq9o3Y4ettR884jdGDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis800-701.delta" sparkle:deltaFrom="701" length="3799602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dz5eeIQOlyDV7e4FtvGFM0pjgm3mWNBufMcLIRv2+cNvmxkQ22Ls94BszRe1Ae68gQnfktSEqtMzVAzwoKIhBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis800-700.delta" sparkle:deltaFrom="700" length="3779470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gh9BfB/p4YmzVaB8oYN9e3YkAGApDgCmuCN5RYHu5u6Yk25iH8F5RcUhVJqcCBlnZXTA33imiiKgO58q2lvAAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis800-600.delta" sparkle:deltaFrom="600" length="4061918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LcVYorwyx9vrEsXys81PNz8OF7rqKY76fBkGY0i6/UEf3ugRjZ4MEGc0b96QJZ8w1LKG8Af/PR7/c5O0kSsDBg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis800-501.delta" sparkle:deltaFrom="501" length="4184626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fM2AobWiuzofeWwg7G4cOioVCyjW8z4tSpMo0TFKDL9iz5F7HO8oCdJLz9PoqsHCag1rDCVL4TC4uderHPvIBA=="/>
             </sparkle:deltas>
         </item>
     </channel>

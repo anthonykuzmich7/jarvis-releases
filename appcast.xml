@@ -3,8 +3,33 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.8.4</title>
+            <pubDate>Thu, 23 Jul 2026 15:15:50 +0200</pubDate>
+            <sparkle:version>804</sparkle:version>
+            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.8.4</h2>
+<p><b>Telegram sync is more reliable.</b> Telegram would often show
+&ldquo;Couldn&rsquo;t sync&rdquo; and ask you to retry &mdash; sometimes over and
+over. That&rsquo;s fixed: a normal &ldquo;nothing new to load&rdquo; signal from
+Telegram was being mistaken for an error. Telegram now syncs cleanly without the
+repeated retries.</p>
+<p>Real problems (being rate-limited or offline) still show a retry prompt, just
+as before. Your other sources &mdash; Slack and Gmail &mdash; are unchanged.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.4.dmg" length="558453537" type="application/octet-stream" sparkle:edSignature="QXT6aX9LK4wos7dzRG0TgS/fO28xjDyXN51sbp69L1IUQGkXOqnuyTtn1f6XtFL7uVoUv71uUXJg9wDYl91GAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis804-803.delta" sparkle:deltaFrom="803" length="2053126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ek2n2a8ZaDMoYBwLB51NZ0C7p7/PYtocM+HkXgq+WTZVCbP5J4c3IRyG1c1oVIxHqvk8DmcFZHGVoyrjiSsoBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis804-802.delta" sparkle:deltaFrom="802" length="3058586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="saJZs7fYKY6KL8DENXkCyK6Y1pq2s9qtxto6MMeiT0NbN0jPqJlFMWymRRXRIpBYFabUK8DYXpCn/NSB0cG+Cw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis804-801.delta" sparkle:deltaFrom="801" length="3112638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Li9K6/Ae00UbLG0Xrkvx63xGJOU5zeBsgCDKEQKNaDByajRfVN4E68pnzB7oOsMLPLIh1croRd5ezqIRBT/GAQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis804-800.delta" sparkle:deltaFrom="800" length="3077790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l7aenE+u5ReUC7/oiXJGQCbjOU7+ckFcvC6YeIgDgDo104FkxAyxcOYx1KGEpNfSf9xV9xxERuINelNIXDEgBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis804-702.delta" sparkle:deltaFrom="702" length="3736694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OORaLN1rMWKh+QLE9Lma3YNapKiOvk2VhRHP8JDT5RZgrcYkwzRM7dzx3canVrVwnDyUnhLxVWJFHDMmw1MqDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.3</title>
-            <pubDate>Thu, 23 Jul 2026 12:55:37 +0200</pubDate>
+            <pubDate>Thu, 23 Jul 2026 15:15:49 +0200</pubDate>
             <sparkle:version>803</sparkle:version>
             <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -19,17 +44,10 @@ automatically the next time Jarvis launches. Your other sources — Slack,
 Gmail, and Telegram — are unchanged.</p>
 ]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.3.dmg" length="558445497" type="application/octet-stream" sparkle:edSignature="Hnd7fSP0pVyY6fOOZj0mjrsF3Dz6d6Rl6DHCR3cJMPrL/DlJXtzKIKhA+GYjAXrmXiMpYoHBdTkuAK5RwvwjCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-802.delta" sparkle:deltaFrom="802" length="3020122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DNO7Ou4G/EptCx3nXkNxtYtLsih7BSA+iCAVWDypqIeGQoYma6iEtJXRBTfHuf2MOfeIdvn2mGkPpykULFh8BQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-801.delta" sparkle:deltaFrom="801" length="3007386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BjSzBGWm1U+5tToX9raNYbDI6yH3DGh8fnCkxC98uaumjRv//cLPwrgP0BaOzX+Ax/1+4ObbUSwSOW2umn4cBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-800.delta" sparkle:deltaFrom="800" length="3073538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CZlYNyXB7sVFwdp3JA1tmMrI9Z4QTtnHiRCWtxee9uRONVDcBz4g7v8HaUE5BCWmLimmDkn7b3nQkDNtSzQtBg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-702.delta" sparkle:deltaFrom="702" length="3787058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u6iHsLtHcf3z2FljaMeXuuEy4czrslqO9EykYOC1PwUao9pnGSwRC4IrOha0WpXFiAU+LHMv3KeBAof0MF40BA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis803-701.delta" sparkle:deltaFrom="701" length="3756254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FPrSLSJiE1i1HcLf024t7+mfWsRuZIkjfSoZlwh1rON0CDb6cH35BZhwoFtXIa9Qq9cBa5QbRlg2Pj21tJd7CA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.8.2</title>
-            <pubDate>Wed, 22 Jul 2026 18:58:47 +0200</pubDate>
+            <pubDate>Thu, 23 Jul 2026 15:15:49 +0200</pubDate>
             <sparkle:version>802</sparkle:version>
             <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -45,38 +63,6 @@ in every order of events, and both shutdown paths are covered by tests.</p>
 brief moment when it is.</p>
 ]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.2.dmg" length="558609627" type="application/octet-stream" sparkle:edSignature="TYlixMWs2cNGDfZ7egSzStmtQ1mDdVMnP8f/6dz05kZS8j4smyy8GMNUtiuYCZjbaV6X5Ym9LQ6FE1vx3xuUAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis802-801.delta" sparkle:deltaFrom="801" length="1956330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nN5Obdx4niKNyuSkZULPlYboFHE97yXR49GI6YJiOmYEoQwCjRLy11JbxXz3jwCFETs++yCOnEZBoKYiDP4uBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis802-800.delta" sparkle:deltaFrom="800" length="2111690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YGUgRohrSwXl0caqlit/IXgfjyERbcj7Hdbf9FBgupxMeXZCizL3BuiiUN6uz+7T9tXcvRQqAW4JkPS3krDCCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis802-702.delta" sparkle:deltaFrom="702" length="3833394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Eh5V/hAL2auHqW5PqXaYGcVcJQ9btvcGmjg7fcIhGiqc5uQgi8naRE0h/pYMkRUm4LW7W4ufHX+3uNUbjbR7Dg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis802-701.delta" sparkle:deltaFrom="701" length="3807450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WD7bdo0+GmFYo3oYuiwhvFC13pli6IF35pmiKDYyMHxhq7dJmNUt8vehjDP2UbQ6+aV/8mvzncnFh2cScZv1Bg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis802-700.delta" sparkle:deltaFrom="700" length="3823078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hSzIWD3oTTJDTGG+ALrPVp0Q4LzGbyA7CWR8qws6kmNqwSbnIcGxvswX4vLVnmj/QXJXMgZVDNCQ5OTq44hCCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.1</title>
-            <pubDate>Wed, 22 Jul 2026 17:43:05 +0200</pubDate>
-            <sparkle:version>801</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.8.1</h2>
-<p><b>Telegram stability fix.</b> Fixes a crash that could hit when disconnecting
-or reconnecting Telegram, or quitting Jarvis while Telegram was connected. The
-earlier safeguard from 0.7.2 could be raced by a quick shutdown; Jarvis now
-stands clear of the Telegram engine's teardown in every order of events, and
-this exact sequence is covered by tests so it stays fixed.</p>
-<p>All of the 0.8.0 redesign — the app library, the Meetings control, and your
-day in the Hub — is unchanged.</p>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.1.dmg" length="558606972" type="application/octet-stream" sparkle:edSignature="ZizqIQqyUnyLO75u7XgxuAE5cfZs9LpQX8xNeufPvxzVBUhQKlkZMtHOz/eGmvpI7FnsImTz066k6DxqQ3iRBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-800.delta" sparkle:deltaFrom="800" length="1857946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rLqN+KBPawbCrbcYRQxuKM8D+g/eDOrumrORutqrHsOd296xYrI1NRaltf0WslTpCYNulQX6hdtiNZVeYkloDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-702.delta" sparkle:deltaFrom="702" length="3762102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="95dIeMX8cKS4eHLqhT8DpdW3VQGFkarYPI/eKvzV7HKS3P5JsoVCUpRdo4kr3nOvh7uJlHyv0XgR6qmiKaKwCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-701.delta" sparkle:deltaFrom="701" length="3793734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zrrYxST/FB4gAVPmi2VX8trXInHXZYeMeZCUfhUbvujBCmHbPGnJIrVuv0/SpoV+vqg+JURUwq6Ahyr6xAcoCA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-700.delta" sparkle:deltaFrom="700" length="3806930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gQKCEXfFB4QDsNWy7EgaDieQni0PHIom0NaiLtydoriQJ9bykJTyr0+9ZuMp25WEkKnfgg/ZCuN65JMDCtNODw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis801-600.delta" sparkle:deltaFrom="600" length="4003254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H2nuSL8syGigJN2koYZVA5NSsBKZjz8j9fv9D9Y40UPAv93a5kYLV27W9BDVWLSV1g+1ixktjmmd3IENacFsAA=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>

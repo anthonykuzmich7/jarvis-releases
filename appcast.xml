@@ -3,6 +3,42 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Mon, 27 Jul 2026 20:19:16 +0200</pubDate>
+            <sparkle:version>900</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.9.0</h2>
+<p><b>Speaker Tags — your meeting notes now name who said what.</b> On a Google
+Meet call, Jarvis can tag each line of the transcript with the person who actually
+said it, instead of a generic "Them" — so notes, action items, and search all know
+who's who (e.g. "what did Sam say about the launch?").</p>
+<ul>
+  <li>A small Jarvis Chrome extension reads the participant names shown on your Meet
+      screen and streams them to the app over a local connection — no audio, nothing
+      leaves your Mac.</li>
+  <li><b>Guided setup.</b> "Set up Speaker Tags" walks you through installing the
+      extension: one click stages it and opens Chrome, an on-top panel guides the two
+      Chrome steps, and Jarvis confirms the moment it connects — no guessing.</li>
+  <li>Meeting notes now show an <b>Attendees</b> list, and far-side speakers appear by
+      name in the transcript and the summary.</li>
+  <li>Without the extension (or on a solo call) nothing changes — segments stay
+      labeled "Them". It's purely additive.</li>
+</ul>
+<p>Google Meet only for now; Zoom is planned. The transcript for the summary step is
+sent to your Anthropic key as before — audio never leaves your Mac.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.9.0.dmg" length="559090219" type="application/octet-stream" sparkle:edSignature="syizp6G5abfWbgoIRedbxkJyFe8fvLcD6o++cm7wGcG+zoQczE4lMv67aA7jf+gUcJvvwYcbPPQv+OxcxHzyBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-806.delta" sparkle:deltaFrom="806" length="3655822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6ZHOOIFdhdI8NnOnvjyOLoilHhFj2xvygnuYe+TBjcJgeWSHEKMXkRXmDgXQM5es9MKspJP09JpxsnpYwzdcBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-805.delta" sparkle:deltaFrom="805" length="3941994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gbBiKp7TbVZiAnjceuqwwdmnIZs2fnZmqEWmSFNzD0TSH7L+/fmb6FdU6zSkRlpqqW2yEk++N/W3PHbxN7ecDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-804.delta" sparkle:deltaFrom="804" length="4200838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fQHp+EOBKlEa2YynAuCkqozTmZ1wiRLYigU/CQ5fD9gu1yzkC1oi0BH+6G78GiNurxef0FBDhlyb5MjGu/TUAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-803.delta" sparkle:deltaFrom="803" length="4146030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O4FhrpEvgcLz528FAE6CmynHTi07bS+aD1KVMUA01qSIDY4wrIalRJnANsFZPddewJyAAEiMx7I2r9RHxWZ8CQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-802.delta" sparkle:deltaFrom="802" length="4176862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cYxCC3kMenJouDeVy3LKQRyoOQS4qc8z6IiqOZTAbeAODbEg+AMcHZkPHoDOsVYj/LvOd2I8MVR/pduxYKtjDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.6</title>
             <pubDate>Fri, 24 Jul 2026 11:38:01 +0200</pubDate>
             <sparkle:version>806</sparkle:version>
@@ -56,24 +92,6 @@ Slack, Gmail, and Telegram &mdash; are unchanged.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis805-801.delta" sparkle:deltaFrom="801" length="3116750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wStCuIR0qe++S7iRgkE/evLd05qxBcdqtuY4HGNCi3IEJsYG7gh3NsClMY/aAG0Wim4w0bP7MijUuEQXCtz1DA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis805-800.delta" sparkle:deltaFrom="800" length="3065670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nDFO+mYhEliBvOtE7V079aOz8VYZAQPw+ecdONkFRgyny7rXscndOTD0aaQUSlIZ0FRSW/SE+d9dGOclRLCSBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.4</title>
-            <pubDate>Thu, 23 Jul 2026 15:22:54 +0200</pubDate>
-            <sparkle:version>804</sparkle:version>
-            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.8.4</h2>
-<p><b>Telegram sync is more reliable.</b> Telegram would often show
-&ldquo;Couldn&rsquo;t sync&rdquo; and ask you to retry &mdash; sometimes over and
-over. That&rsquo;s fixed: a normal &ldquo;nothing new to load&rdquo; signal from
-Telegram was being mistaken for an error. Telegram now syncs cleanly without the
-repeated retries.</p>
-<p>Real problems (being rate-limited or offline) still show a retry prompt, just
-as before. Your other sources &mdash; Slack and Gmail &mdash; are unchanged.</p>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.8.4.dmg" length="558453537" type="application/octet-stream" sparkle:edSignature="QXT6aX9LK4wos7dzRG0TgS/fO28xjDyXN51sbp69L1IUQGkXOqnuyTtn1f6XtFL7uVoUv71uUXJg9wDYl91GAA=="/>
         </item>
     </channel>
 </rss>

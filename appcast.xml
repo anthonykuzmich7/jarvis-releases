@@ -3,6 +3,32 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.11.4</title>
+            <pubDate>Fri, 11 Sep 2026 19:13:59 +0200</pubDate>
+            <sparkle:version>1104</sparkle:version>
+            <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.11.4</h2>
+<p><b>The task finder now waits for a full answer.</b> On a busy Slack the finder's
+model can take over a minute to think; the app used to give up too early and show
+"Couldn't reach the model." It now waits long enough to finish.</p>
+<ul>
+  <li>Fixes the task finder failing with "Couldn't reach the model" on heavier
+      workloads, by giving each model call and the finder's overall run more time.</li>
+  <li>No changes to your data, your Slack connection, or what leaves your Mac.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.11.4.dmg" length="545180252" type="application/octet-stream" sparkle:edSignature="pmD/7/2XBhWjLopwUvL/hpTTzhjiXGxAzhhK8xVGV44OUSqM9k/tnZXuLUUFdBJnowfG5hDlycvdQ48nLQrsDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1103.delta" sparkle:deltaFrom="1103" length="349266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ejbX9kFHE/zSe/B8UKXZozvIX9n90WRH+x5Kz9RqhJOUJ30BB+RZMkYFuiROJ1Ir8+VQdwI29i6aQG6vJg5zAA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1102.delta" sparkle:deltaFrom="1102" length="350490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DT8MWNgtidE8MBsV0gr0ytpqku3DjvdAWsbpBCPNtegR/rVVkGxucwP8zuLQs4wMsA8b0EDs86+HsYJ8mKeJCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1101.delta" sparkle:deltaFrom="1101" length="350982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yr6eG/g70riC/XKl8ljoVWYT/SkGdKCQayNBHVRZ+D75pkCjx9gUD/Xjci5ZqLoSyCQqptamUJ5qx0FeTbNQCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1100.delta" sparkle:deltaFrom="1100" length="901642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MnuMcSqhedfsfJNUm6Giqkx0um9+jvLuZe+j61KeYTkYOh1vtyNltH0G0JInYRKC8VHr+jWKwIJNXNiPNrFpBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1000.delta" sparkle:deltaFrom="1000" length="2558490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0LAiiz4jBZaJfdl/o38L+NTSW5D1GSYzhrbG2XLWO704y7ZNfswZdeEd5moYWD+Z9frDBO/trjAZJhDsgEWaAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.11.3</title>
             <pubDate>Fri, 11 Sep 2026 18:30:43 +0200</pubDate>
             <sparkle:version>1103</sparkle:version>
@@ -54,36 +80,6 @@ shared connection — not just people using their own API key.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1102-1000.delta" sparkle:deltaFrom="1000" length="2514354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="36TZjxyWgdcHcUAIoitk2Y7m3NMQ+gVuiPLzKeS3sCGRKcBXORNYA7lUydkIfpgRjx9dYaovNy1W29X8cHByAA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1102-901.delta" sparkle:deltaFrom="901" length="4549314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2Hrv+0YhI6fdYxhP8JmNfrgyASmcYlx9ShuJ//B5YxyVbCTL+QgzL0dKN2xA25PwUdzmcfzR8ovQQAxbmNkhBQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1102-900.delta" sparkle:deltaFrom="900" length="4532534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g1QH3faUt9Ugv7B0mdQYlviugHcMhn7gIUUQgNEYi8+eaEsWQfMxcT+xAulWctAWX+Ad2M4dEUhT4GWAJP3PAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.11.1</title>
-            <pubDate>Fri, 11 Sep 2026 16:06:38 +0200</pubDate>
-            <sparkle:version>1101</sparkle:version>
-            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.11.1</h2>
-<p><b>Task finder reliability.</b> A small fix so Jarvis still finds your tasks
-when its preferred model isn't available to your API key, and tells you clearly
-when it genuinely can't reach the model.</p>
-<ul>
-  <li>If Jarvis's task finder can't use its preferred model with your key, it now
-      automatically falls back to another available model instead of quietly
-      showing an empty day.</li>
-  <li>When the finder truly can't reach the model, it now says so — "Couldn't
-      reach the model. Check your API key and its model access." — instead of the
-      misleading "Could not decide."</li>
-  <li>No changes to your data, your Slack connection, or what leaves your Mac.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.11.1.dmg" length="545180393" type="application/octet-stream" sparkle:edSignature="RfHyIcn2w4CESFX1wFLe0HI0PKj6ScQVc7tWVQWBanRtAM8yRjgsm/leZ2hPr/F7hbtNf88JkeW5R6XS/bPUDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1101-1100.delta" sparkle:deltaFrom="1100" length="926138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5IVbIuL7x3FsnAN2GZ/gS3Baix/sHSDBf4HdaLAiHeQX6x2Y5z17w6uI52BEbNYGfo+QB5MlOtWlzZHbOkisAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1101-1000.delta" sparkle:deltaFrom="1000" length="2517078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WgmFTNvzd7+Exwrk5O9BaTYg7P/ti707gV+071gjGbAkMvp09Uv1pFCUe+XfetiqVF1QdIJigAcCbyrzYw1vDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1101-901.delta" sparkle:deltaFrom="901" length="4551678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aWX+yULTXpxRsaSt6LtBvZJgApHc0Qh0PUqHXgiNuH5QIkAFfdPcp4iTenJnHYK6xR5khttg9WCi7E/FOxA6Bw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1101-900.delta" sparkle:deltaFrom="900" length="4532490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fEsISIroRyfNxk082ngj+MLQAVbm7/sYbv7nfYDuCf0HXLDrLESbRgb4j/EFzvmI2iV4xy0/zhHx6nghioMeDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1101-806.delta" sparkle:deltaFrom="806" length="4777766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pmshqnYPdiCUmqT5IbhOwasMk103xZ1KZDDXr2qZGrn0tfj1Wh29zoh3jBBRj/HvrSpp9/6p6/V+Q2q1dPXpCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

@@ -3,6 +3,43 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.11.0</title>
+            <pubDate>Fri, 11 Sep 2026 15:34:22 +0200</pubDate>
+            <sparkle:version>1100</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.11.0</h2>
+<p><b>Your real day, a tidier Settings, and a new way to connect Slack.</b>
+This release turns Focus onto your live work, moves every integration into
+Settings, and adds a fallback for connecting Slack when your workspace won't
+let you install an app.</p>
+<ul>
+  <li><b>Focus draws your real day.</b> The timeline is now built from the
+      tasks that actually need you, with an opening line written in Jarvis's
+      voice, a sensible length estimated for each task, and your working hours
+      set in Settings &rarr; Focus.</li>
+  <li><b>Settings, reorganised.</b> Slack, Gmail and Meetings are each
+      configured from a sidebar in Settings (&#8984;,), and the Context Hub is
+      now a clean status board that links to them.</li>
+  <li><b>Slack: connect with a browser session.</b> For workspaces that block
+      installing any Slack app, you can now connect by pasting your own
+      logged-in Slack session instead. Nothing is installed and no one else in
+      the workspace sees it. Settings &rarr; Slack &rarr; &ldquo;Use a browser
+      session instead&rdquo;.</li>
+  <li>Slack is still searched live and never stored on your Mac.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.11.0.dmg" length="545262266" type="application/octet-stream" sparkle:edSignature="hJ5c1EUulIrrLz42zhWO6dg5EGVS5qqS/V2EiYhQ3RSQs+1+3MbrZIXvDDnyNpNVWAM17HLju6uly0Rx7MgeBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1100-1000.delta" sparkle:deltaFrom="1000" length="2566166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v5fLHZjOA50WNfTCohRnKe451dZu9IRlXB6Rd0mYfguJoKd4hZNDGGUCxvrQ4+1idBtg5vhIFkmb6pls6Mp7CA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1100-901.delta" sparkle:deltaFrom="901" length="4502870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hZpc1YjarYkSa13M342lmQPptZ4vChnfFu+7L8i4bT3EjWtqAo+WUv9EohDp0f0ymKOQWrGooLFN1Wv5+SPLDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1100-900.delta" sparkle:deltaFrom="900" length="4479614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="21bgPYo1+pp7siOiAR+UdAOA0xtvWszPicre9B59nlLN00G2duFbziyz8Tg7GcHJRrjT1ejuEJEiNKx5L+epBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1100-806.delta" sparkle:deltaFrom="806" length="4751782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MeJkl1jw5xz+BDLYesiJtCWsnfDWNBhnPOzcQhkGbX+t0cuxx7VUjPV4wzC/tJwxBI9nNGQ1+cHorLI88plqAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1100-805.delta" sparkle:deltaFrom="805" length="4874990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DaCh3lQ0kgT2Gn+7wjmVnz7ad9JgXprjvIJcrVfDkkJtsIhJ6afy+K7wr9eyI+HVn2hLwfRrOLulLqZzqairAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.10.0</title>
             <pubDate>Thu, 10 Sep 2026 17:17:13 +0200</pubDate>
             <sparkle:version>1000</sparkle:version>
@@ -67,42 +104,6 @@ internal error — so problems get pinpointed and fixed faster.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis901-805.delta" sparkle:deltaFrom="805" length="3972254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a8oCB5GjAg+hut5qUo+kyKK/fVvTeSyvKBaxI9ikQHqcd3FaM8pG9khg8Xnj7+jS1z4FBGBr4+uuHWEgpsyJDA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis901-804.delta" sparkle:deltaFrom="804" length="4134094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5ufxvPrwQYiBSxhsE0TL75A2MGD0EKEfQlDOZ2flwgF6MvCRkww8CnEATtBZO3hTWyLym5XFkxuCaBSXgkL1CQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis901-803.delta" sparkle:deltaFrom="803" length="4123254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AI6RhrewYRvFd3ZGvMPApczf9iq2fFV7ZohBvZJB3Tn3mDrOfN0iutMTw6BiChQfHWPQiTzU+MKQQqlCbPSjBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Mon, 27 Jul 2026 20:19:16 +0200</pubDate>
-            <sparkle:version>900</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.9.0</h2>
-<p><b>Speaker Tags — your meeting notes now name who said what.</b> On a Google
-Meet call, Jarvis can tag each line of the transcript with the person who actually
-said it, instead of a generic "Them" — so notes, action items, and search all know
-who's who (e.g. "what did Sam say about the launch?").</p>
-<ul>
-  <li>A small Jarvis Chrome extension reads the participant names shown on your Meet
-      screen and streams them to the app over a local connection — no audio, nothing
-      leaves your Mac.</li>
-  <li><b>Guided setup.</b> "Set up Speaker Tags" walks you through installing the
-      extension: one click stages it and opens Chrome, an on-top panel guides the two
-      Chrome steps, and Jarvis confirms the moment it connects — no guessing.</li>
-  <li>Meeting notes now show an <b>Attendees</b> list, and far-side speakers appear by
-      name in the transcript and the summary.</li>
-  <li>Without the extension (or on a solo call) nothing changes — segments stay
-      labeled "Them". It's purely additive.</li>
-</ul>
-<p>Google Meet only for now; Zoom is planned. The transcript for the summary step is
-sent to your Anthropic key as before — audio never leaves your Mac.</p>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.9.0.dmg" length="559090219" type="application/octet-stream" sparkle:edSignature="syizp6G5abfWbgoIRedbxkJyFe8fvLcD6o++cm7wGcG+zoQczE4lMv67aA7jf+gUcJvvwYcbPPQv+OxcxHzyBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-806.delta" sparkle:deltaFrom="806" length="3655822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6ZHOOIFdhdI8NnOnvjyOLoilHhFj2xvygnuYe+TBjcJgeWSHEKMXkRXmDgXQM5es9MKspJP09JpxsnpYwzdcBQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-805.delta" sparkle:deltaFrom="805" length="3941994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gbBiKp7TbVZiAnjceuqwwdmnIZs2fnZmqEWmSFNzD0TSH7L+/fmb6FdU6zSkRlpqqW2yEk++N/W3PHbxN7ecDw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-804.delta" sparkle:deltaFrom="804" length="4200838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fQHp+EOBKlEa2YynAuCkqozTmZ1wiRLYigU/CQ5fD9gu1yzkC1oi0BH+6G78GiNurxef0FBDhlyb5MjGu/TUAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-803.delta" sparkle:deltaFrom="803" length="4146030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O4FhrpEvgcLz528FAE6CmynHTi07bS+aD1KVMUA01qSIDY4wrIalRJnANsFZPddewJyAAEiMx7I2r9RHxWZ8CQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis900-802.delta" sparkle:deltaFrom="802" length="4176862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cYxCC3kMenJouDeVy3LKQRyoOQS4qc8z6IiqOZTAbeAODbEg+AMcHZkPHoDOsVYj/LvOd2I8MVR/pduxYKtjDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

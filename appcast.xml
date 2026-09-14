@@ -3,6 +3,47 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.14.0</title>
+            <pubDate>Mon, 14 Sep 2026 20:21:13 +0200</pubDate>
+            <sparkle:version>1400</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.14.0</h2>
+<p><b>You can see Jarvis working.</b> A line now sits beside the mark at the top
+of your day and says what Jarvis is doing right now — reading Slack, opening a
+thread, thinking, planning your day, or how many new tasks it just found. It
+appears only while something is actually happening and clears itself when the
+work is done.</p>
+<ul>
+  <li><b>It only says true things.</b> Every line is a step that is really
+      running. Nothing is a progress animation playing on a timer, so a quiet
+      catch-up says less and a busy one says more.</li>
+  <li><b>Each step stays long enough to read.</b> Some of Jarvis's steps finish
+      in a fraction of a second; they now wait their turn instead of flickering
+      past.</li>
+  <li><b>Jarvis looks like he is thinking</b> — the eyes glance away and work
+      while a run is in flight, and come back to you when it ends. Move your
+      pointer and he looks at you instead.</li>
+</ul>
+<p><b>A simpler day.</b> The task list no longer prints an estimated duration
+beside every task, and Jarvis no longer spends part of its thinking guessing
+one. Your day is the work that needs you and the meetings you actually have.</p>
+<ul>
+  <li><b>Notes you send Jarvis are marked as notes</b> in the sources row, with
+      a real glyph rather than an unexplained dot.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.14.0.dmg" length="545848680" type="application/octet-stream" sparkle:edSignature="mYg81XAMdhLYEXd0iiWjMFA7M7m2famdlpD8ZdB+5MSh5rrEgHUHEjeqROz1JxJ1saSGDiBeSVUKsYCesA4CAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1300.delta" sparkle:deltaFrom="1300" length="1877734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/AwFfkdJGB54GtUkavYnO6NtzVOd7G3aDlzxiYCDzydM7VhldEbWWXE5KA20IrQ2Cb9g3/FvAv86YpXfUTEPAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1200.delta" sparkle:deltaFrom="1200" length="2296230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gTR4IpOd/r7R80TzUn4Zn7PPQNlVNzSVJjFHkZwJ81UWWRvQnDUcpwExBdNrNtOLuHctHNf6wv16HYYKgU6nDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1104.delta" sparkle:deltaFrom="1104" length="2988358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OS+JTaob/i6uN8R0a7MhypW0fZIX97pLJdQdbOApMtf0KwHaUHG1o+Vj7FOdvXuUyoEzOKrkI2YP5KFWnsmaDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1103.delta" sparkle:deltaFrom="1103" length="3000210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YaIxmbX+st2oifSv1/gYCDJJRiYYL2sIoG232FJVcZMtworJm7tmy9NUVfW5kcZObGoyVfQfsDNj8uv0vdMsAA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1102.delta" sparkle:deltaFrom="1102" length="3001762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hshVSAXeKUv9n9OtgJ0nhEF+bhAAgAbZr3dZ7IsNIUP/IyQC44D9MMUX05vBdXO5vmZ2v29ICa5bbNXvzYIxDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Mon, 14 Sep 2026 18:32:46 +0200</pubDate>
             <sparkle:version>1300</sparkle:version>
@@ -87,32 +128,6 @@ into rules it follows from then on.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1102.delta" sparkle:deltaFrom="1102" length="2795898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i/m9Nl+8Ce3UPwPOzlIbgSnnRex8n6DaXNe0y7EBwwQimfP9mtcDfBpMf+fdnpwYUQns+bgwsLppgEc+6B0BDA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1101.delta" sparkle:deltaFrom="1101" length="2798710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Xvdmb8dycb6Wk6fD4kHKTfmVf3+L59UeXsKpKRcwYAnfTca1M+tutCeS4l+k0d6id1XRkf2/E2AkdUhC0hLAQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1100.delta" sparkle:deltaFrom="1100" length="2785910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4ziPIu6afyJGSjtNZeKIxGgEVHcCHPiGYeTrkWA1RPgxXUpj5lw0y9MjWfuAkWMPp+Or8OVy6JZb1smthiICAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.11.4</title>
-            <pubDate>Fri, 11 Sep 2026 19:13:59 +0200</pubDate>
-            <sparkle:version>1104</sparkle:version>
-            <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.11.4</h2>
-<p><b>The task finder now waits for a full answer.</b> On a busy Slack the finder's
-model can take over a minute to think; the app used to give up too early and show
-"Couldn't reach the model." It now waits long enough to finish.</p>
-<ul>
-  <li>Fixes the task finder failing with "Couldn't reach the model" on heavier
-      workloads, by giving each model call and the finder's overall run more time.</li>
-  <li>No changes to your data, your Slack connection, or what leaves your Mac.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.11.4.dmg" length="545180252" type="application/octet-stream" sparkle:edSignature="pmD/7/2XBhWjLopwUvL/hpTTzhjiXGxAzhhK8xVGV44OUSqM9k/tnZXuLUUFdBJnowfG5hDlycvdQ48nLQrsDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1103.delta" sparkle:deltaFrom="1103" length="349266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ejbX9kFHE/zSe/B8UKXZozvIX9n90WRH+x5Kz9RqhJOUJ30BB+RZMkYFuiROJ1Ir8+VQdwI29i6aQG6vJg5zAA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1102.delta" sparkle:deltaFrom="1102" length="350490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DT8MWNgtidE8MBsV0gr0ytpqku3DjvdAWsbpBCPNtegR/rVVkGxucwP8zuLQs4wMsA8b0EDs86+HsYJ8mKeJCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1101.delta" sparkle:deltaFrom="1101" length="350982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yr6eG/g70riC/XKl8ljoVWYT/SkGdKCQayNBHVRZ+D75pkCjx9gUD/Xjci5ZqLoSyCQqptamUJ5qx0FeTbNQCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1100.delta" sparkle:deltaFrom="1100" length="901642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MnuMcSqhedfsfJNUm6Giqkx0um9+jvLuZe+j61KeYTkYOh1vtyNltH0G0JInYRKC8VHr+jWKwIJNXNiPNrFpBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1104-1000.delta" sparkle:deltaFrom="1000" length="2558490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0LAiiz4jBZaJfdl/o38L+NTSW5D1GSYzhrbG2XLWO704y7ZNfswZdeEd5moYWD+Z9frDBO/trjAZJhDsgEWaAg=="/>
             </sparkle:deltas>
         </item>
     </channel>

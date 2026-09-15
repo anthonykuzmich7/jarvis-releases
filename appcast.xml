@@ -3,6 +3,67 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.15.0</title>
+            <pubDate>Tue, 15 Sep 2026 11:45:24 +0200</pubDate>
+            <sparkle:version>1500</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.15.0</h2>
+<p><b>See what a task came from, and tell Jarvis how to rank it.</b> Two
+additions: a task now shows you the messages behind it, and a note you type can
+become a standing rule that changes what Jarvis treats as urgent.</p>
+
+<h3>The messages behind a task</h3>
+<ul>
+  <li>Open a task and "Where this came from" now shows the messages themselves —
+      who wrote them, when, and what they said — instead of a bare timestamp
+      link. Slack markup is rendered readable, so a mention reads as a name and
+      a link reads as its label.</li>
+  <li>The words are fetched from Slack when you open the task and held only
+      while the app is running. Nothing is written to your disk, and
+      disconnecting Slack clears them immediately.</li>
+  <li>The arrow on any message still opens it at the source, and a note you told
+      Jarvis now opens your notes log rather than doing nothing.</li>
+  <li>If Slack is disconnected or unreachable, a task looks exactly as it did
+      before — the link is still there, only the words are missing.</li>
+  <li>"How Jarvis found this" is gone; the same run is one click away from the
+      owl at the top of a task.</li>
+</ul>
+
+<h3>House rules</h3>
+<ul>
+  <li>Press ⌘K, tick "Treat this as a rule", and tell Jarvis something like
+      "anything Dana asks me for comes before everything else". The task moves
+      immediately — no sync, no waiting for the next run.</li>
+  <li>A task moved by one of your rules says so: its priority reads "your rule",
+      and opening it quotes the rule that did it, with a way to stop using it.</li>
+  <li>Every rule lives in your Told Jarvis log, and stopping one puts the task
+      back where it was.</li>
+</ul>
+
+<h3>Fixes</h3>
+<ul>
+  <li>The current-time marker on your day no longer has its clock cut off.</li>
+  <li>A task whose next step came back as runaway repeated text is repaired, and
+      Jarvis now refuses to store that kind of output in the first place.</li>
+  <li>Long notes no longer push a task off its own screen.</li>
+  <li>Citations that pointed nowhere are no longer shown.</li>
+</ul>
+
+<p>No change to what leaves your Mac: Slack is still searched live and never
+stored, and mail and meetings stay on your machine.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.0.dmg" length="546120356" type="application/octet-stream" sparkle:edSignature="BhoiFQIfH+5HoBxepEzjcpqYqTh0e/fAUhG8ZDksjEnvjTuOdaniSO4jWfAdSjAx7hJJFbQjBFgHu7uIVlRwAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1500-1400.delta" sparkle:deltaFrom="1400" length="2573754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Eq2NWfKhdBpvfvuiW1aVrgNkwoM8E+V+NSY72JTbS+xRsgTdQmyaZYiHHXDdZh8DUFTt8QDdM5mPSaKxrV88AQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1500-1300.delta" sparkle:deltaFrom="1300" length="2594506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iDEnurkKDTPZQVv5yX1nQ4MRnDqfqWF8333WfDHVfpSbfbYOo/Z8VE0h87ddwEE7osAT6RCMLKPRbT9BvFUcCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1500-1200.delta" sparkle:deltaFrom="1200" length="2863802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1S65oEk0f5LtKV8GshHu3IDiKOyenLFsNeT7BiN+fae9Nw+TcOcjn0IgfI2UvU8wnMhC048FHFPcwbEOQXuCAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1500-1104.delta" sparkle:deltaFrom="1104" length="3374914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lea734u+oTCshzoAlv27zzBM+Z65MDW1TdLUQeSAWYjOwuO4shv27R0jYVQxLEDQkJks+e4B8KDuEKXUnAIjDQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1500-1103.delta" sparkle:deltaFrom="1103" length="3311002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d7+lECqwXAIkXmbMo1PDFRu/ukelzmpZx4QkgTvjKLUzimSC+TBdVkgqJaBkuctOGHW6KftCQ9ibWnJHD4hnAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.14.0</title>
             <pubDate>Mon, 14 Sep 2026 20:21:13 +0200</pubDate>
             <sparkle:version>1400</sparkle:version>
@@ -89,45 +150,6 @@ Jarvis has.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1103.delta" sparkle:deltaFrom="1103" length="2853886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Cew96N+hwdtbXcbde3CSlq9qZnXe57hziIgJwt360uu3Kixf11OrcgSmcFrc5beESqNtU23wZm45cxxlzurxCQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1102.delta" sparkle:deltaFrom="1102" length="2850406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6wlCj3Hw6Uv5KZBQuI0RHbgKC7NAgB5mvO0t93kdUBV0944HHmkIAJ1nI2bryeHRHlYogwu3DrM8gmsSSIAJAQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1101.delta" sparkle:deltaFrom="1101" length="2859918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CPNwbSVG2y+/VReTvlIBrpCSwjl8KLfIhhcsWTsmlcqHn7fm8UcGN6HkOTjF5TqsaGpD+WL6EjI3808eHGFqCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.12.0</title>
-            <pubDate>Mon, 14 Sep 2026 14:47:39 +0200</pubDate>
-            <sparkle:version>1200</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.12.0</h2>
-<p><b>Tell Jarvis.</b> One place to hand Jarvis what it cannot see — a call on
-a platform it does not sync, a decision made in a corridor, or a standing
-instruction about what matters to you. It sorts what you write into tasks and
-into rules it follows from then on.</p>
-<ul>
-  <li><b>Press ⌘J, or the ＋ on Focus's title bar.</b> A box arrives over your
-      day. Paste a call transcript or type a line, press Return, and Jarvis
-      answers in its own voice with what it added.</li>
-  <li><b>It takes standing instructions, not just events.</b> "This channel
-      matters most right now" or "her requests come before anyone else's"
-      becomes a rule that shapes every day Jarvis builds for you afterwards.</li>
-  <li><b>Your context</b>, behind the history button, holds everything you have
-      told it — each note, what it became, and every rule still in force. It is
-      also the only place a rule can be removed.</li>
-  <li><b>One Undo.</b> Takes back the tasks, the rules and the note itself. If
-      anything fails to save, Jarvis says so plainly and hands your words back
-      rather than claiming it saved them.</li>
-  <li>Notes never leave your Mac. They are stored and searched exactly like
-      your synced mail and meetings, and become searchable by your coding
-      agents through the same local connection.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.12.0.dmg" length="545755625" type="application/octet-stream" sparkle:edSignature="XxovJA4JHwvRi2GagOWS/zuBIC+/3Ya8hqsofGzUn0oKESwNAe913kczmBeA+Gryu404CbFo64wnO8P/jPJeAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1104.delta" sparkle:deltaFrom="1104" length="2772174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qzBrCg2Spd60NQBepG7Xp9k+gPArkGofs24ooT/83uH87rQTdvIu4BupIP4l2QWp4ar1aL/XGJ89V5/7BmOYDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1103.delta" sparkle:deltaFrom="1103" length="2803898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pbfwNQeYoRDKVMWc9f+u7LM0AwbaFKQZrynfWriiwrHx/s9hN1ZPW2AgzyLowJgjlTNE7F1dNIG+/HTJQjZFBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1102.delta" sparkle:deltaFrom="1102" length="2795898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i/m9Nl+8Ce3UPwPOzlIbgSnnRex8n6DaXNe0y7EBwwQimfP9mtcDfBpMf+fdnpwYUQns+bgwsLppgEc+6B0BDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1101.delta" sparkle:deltaFrom="1101" length="2798710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Xvdmb8dycb6Wk6fD4kHKTfmVf3+L59UeXsKpKRcwYAnfTca1M+tutCeS4l+k0d6id1XRkf2/E2AkdUhC0hLAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1200-1100.delta" sparkle:deltaFrom="1100" length="2785910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4ziPIu6afyJGSjtNZeKIxGgEVHcCHPiGYeTrkWA1RPgxXUpj5lw0y9MjWfuAkWMPp+Or8OVy6JZb1smthiICAA=="/>
             </sparkle:deltas>
         </item>
     </channel>

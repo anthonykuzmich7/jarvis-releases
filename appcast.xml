@@ -3,6 +3,52 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.15.1</title>
+            <pubDate>Tue, 15 Sep 2026 17:38:38 +0200</pubDate>
+            <sparkle:version>1501</sparkle:version>
+            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.15.1</h2>
+<p><b>A task Jarvis found, and then quietly dropped.</b> Two fixes: one recovers
+work that was being lost between deciding and telling you, the other makes the
+app say what it can be clicked.</p>
+
+<h3>Tasks that were found and then lost</h3>
+<ul>
+  <li>When Jarvis weighed a message, decided it was yours, and then failed to
+      list it, nothing caught the contradiction — the task simply never
+      appeared, with no sign anywhere that it had been found. Jarvis now
+      notices and asks itself again before finishing the run.</li>
+  <li>Someone naming you in a channel is choosing you out of everyone there, so
+      a direct mention that asks a question, reports a problem, or requests
+      something now counts as yours unless the conversation shows it was
+      already answered.</li>
+  <li>A task you already marked done is never reopened by this.</li>
+</ul>
+
+<h3>The pointer</h3>
+<ul>
+  <li>Everything clickable now shows the hand cursor — your tasks on the day,
+      the messages behind a task, the buttons in a task, and controls across
+      the Hub, meetings, settings and the notes log.</li>
+  <li>A control with nothing to open keeps the plain arrow, so the hand always
+      means a click will do something.</li>
+</ul>
+
+<p>No change to what leaves your Mac: Slack is still searched live and never
+stored, and mail and meetings stay on your machine.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.1.dmg" length="546328994" type="application/octet-stream" sparkle:edSignature="h+75VhzftNZvxtOFYhut1oMNEwab8/HNbrHQzdOQzDUpdDFdSYCGhfi9L+5oeT3fgRyh9j0q7acUSOM+37pmAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1501-1500.delta" sparkle:deltaFrom="1500" length="2059666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wzSgyjBqO6dRbd22RAqKN3h5k6x/7QYyXebAZ2wPnSR9kbrA7DKGItRDAoDZLCyQrMdRgP2ZEy31lPdBU7hBDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1501-1400.delta" sparkle:deltaFrom="1400" length="2967294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GSgZb8tCyEUIDY+P/SAcZzSlRgpfrqwakmpjusWNX1PCZoKVFpaY5kiSDb3mFctQV21IZ2IATykGbh5GwbZxBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1501-1300.delta" sparkle:deltaFrom="1300" length="3052650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eMw2QWbQEJG/K8cARjkj7e9hFnnUf/q/HVzr+GCQJaG2TFcW7OwFn1dJ5PYwRuUa4kYqyt4M31gFq/lQyVZBBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1501-1200.delta" sparkle:deltaFrom="1200" length="3231262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G+csRleXGbdbl0Q9cF/2Hmm80tcbkkYzTJDsSMeetOcIzLy7RytNZbIQw3xYcbGVa7ZH9eiROmvQHYawOHFPCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1501-1104.delta" sparkle:deltaFrom="1104" length="3642710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cK/KhMgHrETII1HF0F/zXpvHYZXv1OqPP2pkNqinXbJS/ejBhxL+0jjNQsz8EgCJCoxD4TbB/cfXYDkLdyjxCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.15.0</title>
             <pubDate>Tue, 15 Sep 2026 11:45:24 +0200</pubDate>
             <sparkle:version>1500</sparkle:version>
@@ -102,54 +148,6 @@ one. Your day is the work that needs you and the meetings you actually have.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1104.delta" sparkle:deltaFrom="1104" length="2988358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OS+JTaob/i6uN8R0a7MhypW0fZIX97pLJdQdbOApMtf0KwHaUHG1o+Vj7FOdvXuUyoEzOKrkI2YP5KFWnsmaDw=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1103.delta" sparkle:deltaFrom="1103" length="3000210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YaIxmbX+st2oifSv1/gYCDJJRiYYL2sIoG232FJVcZMtworJm7tmy9NUVfW5kcZObGoyVfQfsDNj8uv0vdMsAA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1400-1102.delta" sparkle:deltaFrom="1102" length="3001762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hshVSAXeKUv9n9OtgJ0nhEF+bhAAgAbZr3dZ7IsNIUP/IyQC44D9MMUX05vBdXO5vmZ2v29ICa5bbNXvzYIxDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.13.0</title>
-            <pubDate>Mon, 14 Sep 2026 18:32:46 +0200</pubDate>
-            <sparkle:version>1300</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.13.0</h2>
-<p><b>Join the call from your day.</b> Every meeting on your Focus calendar is
-now a button. Click one and Jarvis shows you who is in it, which account it
-came from, and a Join button that opens the call — no hunting through the
-invite. Where two meetings overlap and share a band, each gets its own Join.</p>
-<ul>
-  <li><b>Only a real link.</b> Jarvis opens the conferencing link the organiser
-      set, or a room the invite points at directly. It will not guess from an
-      agenda document buried in the description, and a meeting with no link
-      simply has no button rather than a dead one.</li>
-  <li><b>When your calendar cannot be read, it says so.</b> A calendar that is
-      disconnected, or an account whose access has lapsed, now shows on the day
-      itself with a way to fix it — and on the Gmail account it belongs to.
-      Mail and calendar can fail independently, and one silently empty calendar
-      used to look exactly like a day with no meetings.</li>
-</ul>
-<p><b>Catch up on everything, now.</b> Jarvis looks for new work when you open
-it and when you come back to it — not on a clock ticking in the background. So
-there is a key for asking it to look right now, and it is the shortest one
-Jarvis has.</p>
-<ul>
-  <li><b>⌘J catches up</b>, from any screen — your day, your sources, a task
-      you have open. Mail, Slack, new tasks and finished ones, all in one
-      press. ⌘⇧S still does the same thing.</li>
-  <li><b>⌥⌘J does it from anywhere else.</b> Press it while you are in Slack,
-      your browser or your editor and Jarvis catches up in the background
-      without taking your screen.</li>
-  <li><b>Tell Jarvis has moved to ⌘K</b> — the key command bars use everywhere
-      else. The ＋ on Focus still opens it, and the box itself now shows the
-      new key.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.13.0.dmg" length="545896029" type="application/octet-stream" sparkle:edSignature="HlzM7/6uo8AenBoEs0j9BnbVJmlyrst9J1DpAvTh4EE0Zr2JWMb54q9KBtvfTjsDfYDCq8aGSMync5wQ/6XuBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1200.delta" sparkle:deltaFrom="1200" length="2059106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sJ5BQJnVE7ltMq0/2qZ3HlXO8YBcDL2azHyMwMDSfgKRR/j4gGMOvn5DZ/rlGocGV9NbJTNGciR1qy+MyaAHDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1104.delta" sparkle:deltaFrom="1104" length="2914398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2xgW8fwfJ7jhId1hTwKXJyTPz49Wj906pZxu9yk709AYFc9koh4csAcs43bGu2W/748gt/2mYr6jApq9TBwfAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1103.delta" sparkle:deltaFrom="1103" length="2853886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Cew96N+hwdtbXcbde3CSlq9qZnXe57hziIgJwt360uu3Kixf11OrcgSmcFrc5beESqNtU23wZm45cxxlzurxCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1102.delta" sparkle:deltaFrom="1102" length="2850406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6wlCj3Hw6Uv5KZBQuI0RHbgKC7NAgB5mvO0t93kdUBV0944HHmkIAJ1nI2bryeHRHlYogwu3DrM8gmsSSIAJAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1300-1101.delta" sparkle:deltaFrom="1101" length="2859918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CPNwbSVG2y+/VReTvlIBrpCSwjl8KLfIhhcsWTsmlcqHn7fm8UcGN6HkOTjF5TqsaGpD+WL6EjI3808eHGFqCw=="/>
             </sparkle:deltas>
         </item>
     </channel>

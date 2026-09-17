@@ -3,57 +3,68 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.15.5</title>
+            <pubDate>Fri, 18 Sep 2026 00:52:06 +0200</pubDate>
+            <sparkle:version>1505</sparkle:version>
+            <sparkle:shortVersionString>0.15.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.15.5</h2>
+<p><b>"Could not decide." should have been a task.</b> When Jarvis looked through
+your Slack for what needs you, it sometimes came back with nothing at all — the
+run showed the messages it had read and then stopped on "Could not decide."
+Three runs in twelve ended that way.</p>
+
+<h3>What was happening</h3>
+<ul>
+  <li>Jarvis answers in a fixed shape, and that shape let it hand back one
+      completely blank task — no title, no reason, nothing cited. A blank task
+      is not a task, so it was thrown away, and the run had nothing left to
+      show.</li>
+  <li>The shape now requires a title, a reason and at least one cited message
+      on every task. Finding nothing is still a perfectly good answer; saying
+      nothing with a blank placeholder is no longer possible.</li>
+  <li>Nothing was ever lost: a run that ends this way does not count as this
+      hour's look, so the next one starts fresh. It just meant an hour of
+      silence that looked like a fault.</li>
+</ul>
+
+<h3>Also</h3>
+<ul>
+  <li>When the model behind a run is refused, the reason is now written to the
+      log instead of a bare error code — so a run that quietly falls back to
+      the second model can actually be explained.</li>
+</ul>
+
+<p>No change to what leaves your Mac: Slack is searched live and never stored,
+and mail, meetings and notes stay local.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.5.dmg" length="546375382" type="application/octet-stream" sparkle:edSignature="NLILrinYBR4a2asJMX+xv8KPon00ViAeLer7dGMYeksJhoiKgP6TQgN9/MXzVBAhAhlNutaGHjremo+fptYKAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1505-1504.delta" sparkle:deltaFrom="1504" length="1573282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a8hx0r0Sc1F+4YLqGwKKBaoP9GGCITK54qXfSIWGmL6M+yAl9RDdH13kHnQAVfZlniE65sBAzv4ttgKo37ybAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1505-1503.delta" sparkle:deltaFrom="1503" length="1593686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8oMzR3TjBYlwVYsc4UteFMqmEVZvjSdL2HQkGKu4Blta9AdZMsLj6Qpfh+9Y4LY++jAT3yB/0h7qG3fOhQDnDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1505-1502.delta" sparkle:deltaFrom="1502" length="1601126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zOQQt89FiwCiXxES3+grzGhT+tn8q9O84UV/PjqS0geMDALu0sfgPXmaH4VPKM1MxxqTbhPnwI0MOaXSKVcCBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1505-1501.delta" sparkle:deltaFrom="1501" length="1878514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="upQPT/mYA/SVw2vEOmgFNhM0okVF7j30hur2MFolhv3zWrH7Tk/5ed5WYgwfGQrIlVQS6aJGGJYauBatOzOCAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1505-1500.delta" sparkle:deltaFrom="1500" length="2283830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nzBpPw2hPY65vlRA/6ZBYUXVOqH3J0PSv6InyIFUFFlFRcDxReuGVAIKH1ZNAn+feVap5ajf3nTWUP+dXUmABA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.15.4</title>
-            <pubDate>Thu, 17 Sep 2026 19:25:03 +0200</pubDate>
+            <pubDate>Fri, 18 Sep 2026 00:38:54 +0200</pubDate>
             <sparkle:version>1504</sparkle:version>
             <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.15.4</h2>
-
-<p><b>Jarvis starts on macOS Sonoma again.</b> On macOS 14 the app quit before it
-ever drew a window — macOS showed only "Jarvis can't be opened", with no reason.
-Anyone still on Sonoma could install Jarvis and never see it run.</p>
-
-<h3>What was wrong</h3>
-<ul>
-  <li>Two floating panels — the sync overlay and the "start a transcript?"
-      meeting prompt — were built at launch, while the main window was still
-      being constructed. On macOS 15 and later that is harmless. On macOS 14 it
-      trips an assertion deep inside SwiftUI and the app stops instantly.</li>
-  <li>Both panels are now created the first time they are actually shown, which
-      is long after the window exists.</li>
-</ul>
-
-<p>Nothing else changed: same screens, same data, same sync. If you are on macOS
-15 or later you were never affected and will notice no difference.</p>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.4.dmg" length="546333011" type="application/octet-stream" sparkle:edSignature="rx6Njcnbo6DUefHhbGAVh3sjzGhJ9IPHmWGAXXmubpX+boZZUzm7E6uoXd+WBZRe3GAy3FoMf8g1lhtLdNy6Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1504-1503.delta" sparkle:deltaFrom="1503" length="875174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oyWBHBz9BFh+l1nL1ckNca0a3zoHWWHOIO04hdkFZ77vJGjTKkk9mAxFzeztrnAao2WoUbuhWzbr3AqBg+f6Cw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1504-1502.delta" sparkle:deltaFrom="1502" length="853998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wxksk+yPZsFSx5HrDIJcZL235D9qkI/hoYcL7VJVXCXLqfghX5on7mhiSzhGvq7/D1+o0eiotE/rKLOS/epVAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1504-1501.delta" sparkle:deltaFrom="1501" length="1717658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wsAjXMrkW7X1EBB50Y8gnSkv+hX0K7vt5cK2yFg2tX4N0iy1V3MHAH6mAlUmpFWctZg8eWFYGQnUKDxNue5FAA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1504-1500.delta" sparkle:deltaFrom="1500" length="2292278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SvsoZ0HVg1ils2RoPdwvqXedaAVBulHPbxdVfPTiS3ThFuzL4qyXek6BqNKpYcBFDnrXzO4dkLlY9oa+CmxpDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1504-1400.delta" sparkle:deltaFrom="1400" length="3019182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/B8V+cYogxfnB3F66LExKfkQv2/4S12G1IeComQmlm4eRQc3XW5JyyZKBaZi+qQTB0HiWHJ2iAAJMvqbdOZkCw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.15.3</title>
-            <pubDate>Thu, 17 Sep 2026 19:11:30 +0200</pubDate>
+            <pubDate>Fri, 18 Sep 2026 00:38:06 +0200</pubDate>
             <sparkle:version>1503</sparkle:version>
             <sparkle:shortVersionString>0.15.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.3.dmg" length="546366195" type="application/octet-stream" sparkle:edSignature="BCh89drYNIYfyBomRiKMJl12aDkXgEo6O15coSm0YJabFjeDPQCGaNNpgJKZ/RXKbHjnJjM/kUApGb0N/TkPCQ=="/>
-        </item>
-        <item>
-            <title>0.15.2</title>
-            <pubDate>Thu, 17 Sep 2026 19:10:31 +0200</pubDate>
-            <sparkle:version>1502</sparkle:version>
-            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.2.dmg" length="546366473" type="application/octet-stream" sparkle:edSignature="nHxd1sXsncilm3vQS9YXL/lZ06Wb750JyAWHBTZnRyBjSASMRJd1Lzs/PizuyF2/732azOzaMnW/nsWHkfXZBw=="/>
         </item>
     </channel>
 </rss>

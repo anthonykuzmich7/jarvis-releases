@@ -3,6 +3,38 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.16.0</title>
+            <pubDate>Fri, 18 Sep 2026 14:02:44 +0200</pubDate>
+            <sparkle:version>1600</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.16.0</h2>
+<p><b>Microsoft Teams joins your context.</b> Connect Teams in Settings and your
+1:1 and group chats answer questions the same way Slack does — read live, never
+stored. And when a source stops working, Jarvis now says so instead of quietly
+returning less.</p>
+<ul>
+  <li><b>Microsoft Teams (new).</b> Settings → Microsoft Teams, sign in, pick the
+      chats Jarvis may read. Nothing from Teams is written to your Mac — every
+      answer is fetched live and forgotten.</li>
+  <li>Chats only, not channels: reading Teams channels always requires your
+      admin's approval, so Jarvis does not ask for it.</li>
+  <li><b>A source that stops working now says so.</b> A connection that expires
+      or starts failing shows up on your day instead of silently going quiet.</li>
+  <li>No changes to what leaves your Mac beyond the Teams chats you pick.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.16.0.dmg" length="546793249" type="application/octet-stream" sparkle:edSignature="KZuLhQvIvWCkz2TnjbxOPXslw1tkCbNkPDII8t9mPFetvTTvWom1KCFBXEZUmpQXzUBdaDcbf8ul3wzvkva8Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1600-1506.delta" sparkle:deltaFrom="1506" length="2715254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oIeluBDS/vkToecsrznERFcls3rzcsCrW7iHKfxA0CkRrrWkXupnS1iWEANPqN9lSWY6e50uQwUD2R4eH8FwCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1600-1505.delta" sparkle:deltaFrom="1505" length="2730918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dv7hv/oAM/J4lLRrrcVBYcegrKU+r028LLNKdbmTsYk0AEHPLTBpOF7kCnRhmZmvG+H6Q/HT/SVElNO3/9SvBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1600-1504.delta" sparkle:deltaFrom="1504" length="2797782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5BnVLAaubdEz/w2jbPMBNf+d2vkVhwlAz7TTWF/vf64Og0quRyduUKF7o4CMWna6y0rc7iC1PKZ0vXsouztbCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1600-1503.delta" sparkle:deltaFrom="1503" length="2750222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qoQQhLlOyTFIjMq3lEY9lPZMhbQyiEAGxeyH10GA3YGmuIkcVXU6MoINRCop8/ajnHgb9fDSlVvEiy7VxgUDCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1600-1502.delta" sparkle:deltaFrom="1502" length="2754886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y0mWEl44CUreJVYgJgvjeTq/hoOT8tlvwGyDLSXqUpRCYbfFfTKPtiYFWY8PsE7Dv7Jd+mIJ59/tjvxaZVhsAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.15.6</title>
             <pubDate>Fri, 18 Sep 2026 11:50:51 +0200</pubDate>
             <sparkle:version>1506</sparkle:version>
@@ -40,15 +72,6 @@ open the app.</p>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.5.dmg" length="546375382" type="application/octet-stream" sparkle:edSignature="NLILrinYBR4a2asJMX+xv8KPon00ViAeLer7dGMYeksJhoiKgP6TQgN9/MXzVBAhAhlNutaGHjremo+fptYKAQ=="/>
-        </item>
-        <item>
-            <title>0.15.4</title>
-            <pubDate>Fri, 18 Sep 2026 11:49:07 +0200</pubDate>
-            <sparkle:version>1504</sparkle:version>
-            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.4.dmg" length="546333011" type="application/octet-stream" sparkle:edSignature="rx6Njcnbo6DUefHhbGAVh3sjzGhJ9IPHmWGAXXmubpX+boZZUzm7E6uoXd+WBZRe3GAy3FoMf8g1lhtLdNy6Bg=="/>
         </item>
     </channel>
 </rss>

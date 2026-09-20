@@ -3,6 +3,42 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.17.0</title>
+            <pubDate>Sun, 20 Sep 2026 13:54:56 +0200</pubDate>
+            <sparkle:version>1700</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.17.0</h2>
+<p><b>Jarvis stays with you all day now.</b> Closing the window no longer quits
+the app — Jarvis moves to the menu bar, keeps watching your sources, and greets
+you once each morning with what the day holds.</p>
+<ul>
+  <li><b>Jarvis lives in the menu bar.</b> The red button hides the window
+      instead of quitting. Your day, your route and an unsent note survive it.
+      Click the menu-bar owl to bring it back; the menu's first line says what
+      needs you and when your sources last synced. Quit with ⌘Q.</li>
+  <li><b>A morning greeting.</b> Once a day, when you wake your Mac, a small
+      panel says good morning and counts your meetings. Click it to open your
+      day, or ignore it and it leaves on its own. Switch it off in
+      Settings → Focus, where you can also start Jarvis at login.</li>
+  <li><b>Updates install themselves.</b> From this version on, a new release
+      downloads quietly in the background and installs the next time you quit
+      Jarvis. No more update dialogs to click through.</li>
+  <li><b>A sign-in window that opens at a readable size</b>, with the owl awake
+      while it waits for you.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.17.0.dmg" length="547339569" type="application/octet-stream" sparkle:edSignature="B/FMJ/zKWdBiAvM55u81J6mceatw8i4ChQexQHwlE94Qp3FZ8U7fKu++7Wj/soNz//Xqbkl7zPgOOJQ+VUOmAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1700-1600.delta" sparkle:deltaFrom="1600" length="2556270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lYdFL/J9cMsmTh02NePyhUXV+K8NoYhER51FBFULGrD3b6I/GV7na5FYQqhkcbs5qCl+9KNjPIBjCAgueyQSDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1700-1506.delta" sparkle:deltaFrom="1506" length="3312862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yXh4ATSWg3EL8MR23MOmIABrmsZFOBkt6afSAF2Uebf3TDLDCk8aIiHvlC5r8pc5BV8JpEnEk5xPh4M7Jd3bCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1700-1505.delta" sparkle:deltaFrom="1505" length="3366702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KEgdc9Xfp6px4Z1iWxS37z0sjwUsTcwiJzSzertjgGrQ21l66Tfi3dyhZlq5Z1qioTQFk9DhH43tjh1eY8I4BA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1700-1504.delta" sparkle:deltaFrom="1504" length="3384574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PHs5vKFcyTbuPvEQ6xLYngb+fxAgABh3We9socewwjjnDSgbOyp4Xv/dBUSNYrRlrjcvFVCYqArdS4j9j0xlDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1700-1503.delta" sparkle:deltaFrom="1503" length="3374722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9CYh7JZG4Ucew5jM2o0+6PSkom1Yz9vTsofsl/d+PSfBa81ZBDf+qjpm7IZCi5Svn6AJG4iv/gG4fuC8uzblDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.16.0</title>
             <pubDate>Fri, 18 Sep 2026 14:02:44 +0200</pubDate>
             <sparkle:version>1600</sparkle:version>
@@ -63,15 +99,6 @@ open the app.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1506-1502.delta" sparkle:deltaFrom="1502" length="1729834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nY7Z4/ESRcBYRWUbwb8aNe89lChl4Im+A/uSqOtSucGNaIYsMcazW1+oxrjq4iOVX2ayHrsT42w+a+yirhX/Ag=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1506-1501.delta" sparkle:deltaFrom="1501" length="1942950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I0J04u1nvbNulgDjlYciwtZBad54ViFWanSThel0Bv8sJ6mgtKF5MRyiyMqCbl7mrtxLjGFQCv0ZsxgWZ7I5BQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.15.5</title>
-            <pubDate>Fri, 18 Sep 2026 11:49:59 +0200</pubDate>
-            <sparkle:version>1505</sparkle:version>
-            <sparkle:shortVersionString>0.15.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.15.5.dmg" length="546375382" type="application/octet-stream" sparkle:edSignature="NLILrinYBR4a2asJMX+xv8KPon00ViAeLer7dGMYeksJhoiKgP6TQgN9/MXzVBAhAhlNutaGHjremo+fptYKAQ=="/>
         </item>
     </channel>
 </rss>

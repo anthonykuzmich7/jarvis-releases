@@ -3,6 +3,31 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.18.2</title>
+            <pubDate>Tue, 22 Sep 2026 18:49:59 +0200</pubDate>
+            <sparkle:version>1802</sparkle:version>
+            <sparkle:shortVersionString>0.18.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.18.2</h2>
+<p>One fix to the Focus screen.</p>
+<ul>
+  <li><b>The empty task list reads cleanly again.</b> On a day with meetings
+      and no tasks, the "Your day is clear" line was drawn on top of the
+      TASKS heading. It now sits under the heading, where the first task
+      would be.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.18.2.dmg" length="14040311" type="application/octet-stream" sparkle:edSignature="uzIYSwpzz9c4i15ZZjoNyWDcfIeHeMroYnIar0zmkXGUvFlOCBjbQQKWP0XoLSoZt7LpFK57+GvbFDeOI22YAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1801.delta" sparkle:deltaFrom="1801" length="769814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uQL6ppN6bRBjQO4z7E41OSss1K/vLdGaFxG3zU5kImp1oneSfVtgInCBskZWgXfRLniJDl0p04ppwcMzZoyXAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1800.delta" sparkle:deltaFrom="1800" length="1241958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="11YJSLoGWBJbMUIjTh84NaqZW6d+HDRGf6/2UHSaz49suPjKwd66z/FU9JFgjzEwi90LOZbyr1eUg6pV6ImvDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1702.delta" sparkle:deltaFrom="1702" length="1634530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wxcGErFOSWHHZe8u+ShBgeuHbe0ugDtnCozqYeF9eoSZbNl1RyxjgrbK6JAljnfDRlKKW/Z2wB81M6mzyCfpCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1700.delta" sparkle:deltaFrom="1700" length="2083930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9JrNz5mOZRjeI2C2JO57q5C2MZMrAjZt6/NLMCbCD/31RnGNx97zPNgacsw6caBGhkuw2mV6HXmG/ikE6q98Bw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1600.delta" sparkle:deltaFrom="1600" length="2468802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x6E4851Ulwoe0vg7y+mRXO6t+BR8zaCHNzE0Wg4Yej5wxMBRPzb+lTYMFbFGnT/nLJpHhkZcNgPKx3cqpUNJAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.18.1</title>
             <pubDate>Mon, 21 Sep 2026 20:51:17 +0200</pubDate>
             <sparkle:version>1801</sparkle:version>
@@ -75,15 +100,6 @@ catching those too.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1506.delta" sparkle:deltaFrom="1506" length="2622090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ov1rPtXsSrONVpKK3imT3ia4vaUJeQTuwCRs/zh7403jituoFhLWaL8l9q7PFkCtzhn4d6Vsaqg6YQxHe0jYCg=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1505.delta" sparkle:deltaFrom="1505" length="2635270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fj1lVkZM6Q1VQUvjoLgefnSNdFN/FdmdzcjfP3kT7uc3SaAsU0VMgfCzYVpDZy7R+vyHdNfp4241NITpbdPkDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.17.2</title>
-            <pubDate>Mon, 21 Sep 2026 20:01:23 +0200</pubDate>
-            <sparkle:version>1702</sparkle:version>
-            <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.17.2.dmg" length="13836233" type="application/octet-stream" sparkle:edSignature="uBIAy/pDke5EUSnvs20fyv/FnCtxy9SiiAB6eaVfokLd71l+BPyUxGu6/Ll0tp/+sn6ojdMqbAd/yQqneWR+BA=="/>
         </item>
     </channel>
 </rss>

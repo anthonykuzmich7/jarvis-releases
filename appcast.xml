@@ -3,66 +3,54 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.4</title>
+            <pubDate>Wed, 23 Sep 2026 23:49:14 +0200</pubDate>
+            <sparkle:version>1904</sparkle:version>
+            <sparkle:shortVersionString>0.19.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.4</h2>
+<ul>
+  <li><b>Jarvis lives in the notch while he takes notes.</b> The floating
+      "listening" pill is gone. While a meeting records, Jarvis sits beside
+      the notch with a red dot and the time. Hover or click him for Pause and
+      Stop &amp; save. On a screen without a notch he hangs from the middle of
+      the menu bar.</li>
+  <li><b>"Take notes?" asks from the notch.</b> When you join a call, Jarvis
+      offers one button. Press it and he starts at once; ignore it and the
+      ring round him runs out after five seconds and nothing is recorded.</li>
+  <li><b>Stop &amp; save just saves.</b> No more "resume or discard?" step
+      after you press it.</li>
+  <li><b>No more "Need a hand on this call?"</b> Joining a call shows only the
+      take-notes question.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.4.dmg" length="20642823" type="application/octet-stream" sparkle:edSignature="IZRmYr+GYcbW97chpc5yMuKMA74NeXk16z9yRnN7kxEb5GDR4hW4D8eXW6/ZWfVrMC0id0SuQWZQ7ezjCgJsBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1904-1903.delta" sparkle:deltaFrom="1903" length="1906870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H2M09DXsTDbAd2NKLKgaKp9aF1i7sTQV7Z8s/DgZUYpzQivvkOkg5XOvk6iUwDB/YXMwJOg2nd+Kg/xMqSsUBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1904-1902.delta" sparkle:deltaFrom="1902" length="1994786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VgHr7wnLWysExYI73EbXjf4BCmOCgxf+3Q//R5Mq0mYGdFAa/bJwsolAb4Y5U2EJSr2W2WjWC3G/y3izGzFWBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1904-1901.delta" sparkle:deltaFrom="1901" length="2217254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/L9U1rPoVd+n6l+0OZBq49NGQxO5fw6yawuDpNdx+ocdozaorLhqBe0V+U8xsdQ12KReYTj6LEW2zMQOFDy0Dg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1904-1900.delta" sparkle:deltaFrom="1900" length="2382278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GzXdcODUq6onzDAju6SVpCsdIuK8DKsA606fZZ2mqy6xU5mW6xGXX8ZMzGR8Zcz5PyEhFabuRS8SsoffKWXJCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1904-1802.delta" sparkle:deltaFrom="1802" length="7424298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TR/xBKOyAjdnJbXIk7LJq8jLtjMJTE1HZj7wHD0Tgtx2L472uPYM6fOD8IhEDpu0mujUNTPRcQ2R0vp+CQ0dDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.3</title>
-            <pubDate>Wed, 23 Sep 2026 22:43:37 +0200</pubDate>
+            <pubDate>Wed, 23 Sep 2026 23:49:08 +0200</pubDate>
             <sparkle:version>1903</sparkle:version>
             <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.3</h2>
-<ul>
-  <li><b>A simpler Meetings screen.</b> The ⋯ menu is gone. Start a
-      recording from the Meetings button in Focus.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.3.dmg" length="20529154" type="application/octet-stream" sparkle:edSignature="HVIVeel9hRLZdnhP5Z+JlhEYGYQbtGyfCWoXo0r08iWDGr/onkxWmXUGEUI1gobYavKqDLvPgIuoqMSpV6neBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1902.delta" sparkle:deltaFrom="1902" length="1457258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BuYwcAHlvARfZF3nsYyslEd5DRbtvPsTNCX5DsJtglx2jaU5SRaLH/vxaUOeq1WzbJ5INqvva6Hy48iHmlsuCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1901.delta" sparkle:deltaFrom="1901" length="1888598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kJCQ7AYndjJT/wV3H43rqzUQcxuRe32a+gF2uTTrWWsuw48C7OZdl93elzJN4p2X3f6vIPec1BRP8xzviRQDAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1900.delta" sparkle:deltaFrom="1900" length="1975842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/NJBG7DYJLLUqIMrU1HA63T7Dp9WSU0dAjKHvymdTPgD781xZVi8gzpQ/Nvzm9YDtZsQqXswyodzGiUusgTYBQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1802.delta" sparkle:deltaFrom="1802" length="7275914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BJlS2O/TAiyKwCDEoYG2F9BAkptW4V174ttPvc2IEUW5vCBnE5AIweQ9jzF/zNUv2VJhIYmOL1/uKfi3Dk4DAA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1801.delta" sparkle:deltaFrom="1801" length="7279710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1iDFZ5HvmBcnzVG3qhKvoZ4Lp8W4fqG1WpSEA9QugzFMVyWCjd3nipChpDd4kxZqMlb6571CYe0af8tizavVBg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.2</title>
-            <pubDate>Wed, 23 Sep 2026 20:04:19 +0200</pubDate>
+            <pubDate>Wed, 23 Sep 2026 23:49:12 +0200</pubDate>
             <sparkle:version>1902</sparkle:version>
             <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.2</h2>
-<ul>
-  <li><b>Meetings, by week.</b> The Meetings screen now opens on this week,
-      the same size as Focus. Pick a day to see its meetings, and use the
-      magnifier (⌘F) to search titles, people and everything that was said.</li>
-  <li><b>A calmer meeting page.</b> Each meeting now has two tabs, Notes and
-      Transcript. Notes shows the summary and the action points, which you
-      can tick off as you go. While a meeting records, the timer sits next
-      to Finish and the transcript fills in live.</li>
-  <li><b>Copy a meeting.</b> The ⋯ menu copies the notes or the whole
-      transcript, ready to paste anywhere.</li>
-  <li><b>One clear link when a source disconnects.</b> Focus now offers a
-      single "Reconnect in Settings…" link.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.2.dmg" length="20587226" type="application/octet-stream" sparkle:edSignature="I/V+Pta/wAVXrgE3Y+AeesSIjGlhyzK/P1ROqhnj7kPPBFgKeL/fzUVFa4dlSGh2EFQFlsWTRoPkBE2jBa61Cw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1902-1901.delta" sparkle:deltaFrom="1901" length="1950690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bOolauPO1KFCq006bNSPHs2DL0IH5ySvZwWpZGZWa9y3maNwyCzt1o55KUZSaO66NCV7qdvNLkwqpiJIg5rvCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1902-1900.delta" sparkle:deltaFrom="1900" length="2143010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aCGYvsjzZnuTZfs0HfiLfY+gojFzw/qTUwtXu1hGRJjGi+GhKhCYf6h4HGqdGAmKUhgBOS8HD6mrC9mvT000AA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1902-1802.delta" sparkle:deltaFrom="1802" length="7223282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K6tAlnRaw0xHF7EeZnca63EPbPXt7UZOghgunlf21cDKzzYxkhWQFkfu4YqHgVfhIt5Nxb4oaaVAetUeCNLWAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1902-1801.delta" sparkle:deltaFrom="1801" length="7274638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8AdFIoQiR4QZ07HqtbGE1mBmM1/AIv0Rn8CJbE8kCYTvI8lm3gQ3+ojP9uv3V/i/9RsR0PPiyQ5je/3k99/XDw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1902-1800.delta" sparkle:deltaFrom="1800" length="7364466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S2fB0mr3V/BEqQ/6snQI5gtWZI0RgFYw1VFcm6OYH+fpT40C4aLfU8WjxZFTuK34OpuzmDicUlaJSbIQbQIGBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.19.1</title>
-            <pubDate>Wed, 23 Sep 2026 20:04:07 +0200</pubDate>
-            <sparkle:version>1901</sparkle:version>
-            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.1.dmg" length="20556093" type="application/octet-stream" sparkle:edSignature="3X3FVbuCh/lS7Lw5LseGHgO3KB5tL35uPvs99wTlr8/egaWXnL4OyPym+iewr17gYu8M71xi2hehTEux3LHVCg=="/>
         </item>
     </channel>
 </rss>

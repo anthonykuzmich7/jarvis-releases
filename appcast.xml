@@ -3,6 +3,33 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.1</title>
+            <pubDate>Wed, 23 Sep 2026 19:13:30 +0200</pubDate>
+            <sparkle:version>1901</sparkle:version>
+            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.1</h2>
+<ul>
+  <li><b>Connecting a Google account works again when another app is busy.</b>
+      Adding or reconnecting Gmail could fail with a plain "Couldn't connect"
+      when another app on your Mac happened to be using the connection Jarvis
+      signs in through. Jarvis now uses a free one instead. Microsoft Teams
+      gets the same fix.</li>
+  <li><b>A quieter Meetings popover.</b> The menu-bar Meetings popover is now
+      two rows and one button.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.1.dmg" length="20556093" type="application/octet-stream" sparkle:edSignature="3X3FVbuCh/lS7Lw5LseGHgO3KB5tL35uPvs99wTlr8/egaWXnL4OyPym+iewr17gYu8M71xi2hehTEux3LHVCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1901-1900.delta" sparkle:deltaFrom="1900" length="1424322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9urO6lyp23oOIKwtk2j/g0rGn0ygKi9c1SAY05ol18zHn9NZhd2qAeVYPYJrr0xuXUwC6seNbnCf2w/jOn9MAw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1901-1802.delta" sparkle:deltaFrom="1802" length="7124862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0+QwVhohGgsylSj5qjERdLk8Lm165N2Q08ZCmq/hQ3do2MCu+REEQikiJbQ+gWtytEUdVBQIr2jRYw/xe3OlCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1901-1801.delta" sparkle:deltaFrom="1801" length="7115898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tatWcFtFXev16QJwbvW+n1nOUip24rCZezWdoBqDd8JHANj6bLwUjvosNWfjVmIR8MByeYUPx3XgM+CBtydSAQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1901-1800.delta" sparkle:deltaFrom="1800" length="7169198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G9NRrZ6BCzDKWoJsuNRGx2nG91jLJA/VmGTCxgOEOCKpZB2pNtC9lMtdJbSPv5qC1C968c8bd1WTYTbgA09GDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1901-1702.delta" sparkle:deltaFrom="1702" length="7320198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jxZk5yqX2sCroPLDtKtNq0M/gTlYDt+Fi2/sibsx8LSmOJF9EQVEFbmJWuCYt/I6oUjIzdN1N77NbIiPlGarAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.0</title>
             <pubDate>Wed, 23 Sep 2026 14:08:15 +0200</pubDate>
             <sparkle:version>1900</sparkle:version>
@@ -70,39 +97,6 @@
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1702.delta" sparkle:deltaFrom="1702" length="1634530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wxcGErFOSWHHZe8u+ShBgeuHbe0ugDtnCozqYeF9eoSZbNl1RyxjgrbK6JAljnfDRlKKW/Z2wB81M6mzyCfpCQ=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1700.delta" sparkle:deltaFrom="1700" length="2083930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9JrNz5mOZRjeI2C2JO57q5C2MZMrAjZt6/NLMCbCD/31RnGNx97zPNgacsw6caBGhkuw2mV6HXmG/ikE6q98Bw=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1802-1600.delta" sparkle:deltaFrom="1600" length="2468802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x6E4851Ulwoe0vg7y+mRXO6t+BR8zaCHNzE0Wg4Yej5wxMBRPzb+lTYMFbFGnT/nLJpHhkZcNgPKx3cqpUNJAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.18.1</title>
-            <pubDate>Mon, 21 Sep 2026 20:51:17 +0200</pubDate>
-            <sparkle:version>1801</sparkle:version>
-            <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.18.1</h2>
-<p>Polish for the rule composer in Settings → Focus, all of it from looking at
-the thing on screen.</p>
-<ul>
-  <li><b>Examples are on demand now.</b> Three example rules used to sit under
-      the input with nothing saying what they were. They live behind
-      "Show me examples" instead, grouped by what they key off — who sent it,
-      what the message says, or something that happened — so you can see the
-      shape of a rule before writing your own. Pick one and it drops into the
-      box for you to edit.</li>
-  <li><b>The input is properly aligned.</b> A single line sat pinned to the top
-      of a box that was too tall for it.</li>
-  <li><b>A quieter composer.</b> Smaller placeholder, smaller Add button, and
-      the keyboard hint is gone — the button beside it already says what it
-      does. ⌘↵ still adds.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.18.1.dmg" length="14035186" type="application/octet-stream" sparkle:edSignature="IkptM6FUqWfhe/ElBfUcAfIVW2xFgt5KZQJz6GLHNSdZmvvYGiH3WlJhzf/k+uIUcpDB5hZ10TpzjN8iPB3KAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1800.delta" sparkle:deltaFrom="1800" length="1187674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9n4UOuMuCeKk8oJmfZwADH9mQyD8tzrYAYL+hgs/gaJpSW5E0XRFfB6vw2aY+oEvEMCfw+mUZNGAAseh0YNTBQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1702.delta" sparkle:deltaFrom="1702" length="1616370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IW/Zew+OhN8JE/pkEh0lay2Yd/+0ygRbVVpCKJrzHTqD5aqyD9yfGtYaqyDo30penDL5WywKjv4tXV2apUrwBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1700.delta" sparkle:deltaFrom="1700" length="2074482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DozBFivnnA2ZqAX0dnOOCondKoZmYwXir1Fv63d00/E3fbj/ayPNkWl/eiHYIHkd387CTdPQ8zVZpusKXd3IDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1600.delta" sparkle:deltaFrom="1600" length="2448982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="flubnwfVMvQ/1rhI11BboflpkKsE1Mn92mKkTNMO1bMNvQZOllKNbiD7wkbYozjSOnRM8AhUdmaO/FtmU5EPDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1506.delta" sparkle:deltaFrom="1506" length="2658542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C6u5U0UX9QE3/dtpZTBb2Voxhl47NEhtcANiQH/SiEVftaftkgqndeKF4qiuFveXzdRI46X457WXacGfCHHnBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

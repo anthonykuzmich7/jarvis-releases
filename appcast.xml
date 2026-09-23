@@ -3,6 +3,51 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.0</title>
+            <pubDate>Wed, 23 Sep 2026 14:08:15 +0200</pubDate>
+            <sparkle:version>1900</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.0</h2>
+<p>Meeting notes, rebuilt. Everything is transcribed on your Mac, faster and while you talk.</p>
+<ul>
+  <li><b>A faster, more accurate engine on your Mac.</b> Meetings are now
+      transcribed by Parakeet, which is much quicker than before and makes
+      fewer mistakes in English and 24 other European languages. Whisper
+      stays for everything else. <b>If you used meetings before:</b> open
+      Settings → Meetings and press <i>Download</i> next to Parakeet
+      (about 600 MB) — until then Jarvis keeps using Whisper.</li>
+  <li><b>See the transcript while the meeting runs.</b> Open the meeting in
+      Jarvis to watch lines appear as people speak. Nothing is drawn over
+      your call.</li>
+  <li><b>No more doubled lines on speakers.</b> When the other side leaks
+      from your speakers into your mic, Jarvis no longer writes their words
+      twice.</li>
+  <li><b>Notes in the meeting's language.</b> A Russian meeting gets Russian
+      notes.</li>
+  <li><b>Record now, pause and resume.</b> Start notes without a call, and
+      pause them as often as you like — nothing is recorded while paused.</li>
+  <li><b>Summary templates.</b> Standup, 1:1, Sales call and Retro, besides
+      the standard summary. Pick a default in Settings → Meetings, or switch
+      a single meeting from its ⋯ menu.</li>
+  <li><b>Keep audio (optional), re-transcribe, import.</b> Turn on
+      <i>Keep audio after transcribing</i> to re-transcribe a meeting later
+      with another engine or language; delete its audio any time. Import an
+      audio or video file from the Meetings ⋯ menu.</li>
+</ul>
+<p>Audio never leaves your Mac. Only the text transcript is sent for the summary, as before.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.0.dmg" length="20550704" type="application/octet-stream" sparkle:edSignature="kpOmdQW575BYysNP/o1dM4Q7B86amxscQMeJ719Yi4xus4ljupa2WNrxg0XnlcpaCQ2XhDIZuwz71TX56pGPCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1900-1802.delta" sparkle:deltaFrom="1802" length="7051950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JzWhJnYnwPom5MfwZBEahRSvMqoVayIpvZh+bgNjyO+sS9aQQWN/VFxu4/ergDeIbvvCZV5GZhrvuv2/lOGTCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1900-1801.delta" sparkle:deltaFrom="1801" length="6995362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CfU25SdWyoZiMUCQPmLTTe5AOhvpx1EWf/VePoz9MQepCL3xSNnecERFwUV/Tui55FkO6u1CyAuRwI2KCmgFCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1900-1800.delta" sparkle:deltaFrom="1800" length="7125006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="24ZS1TZm6eyjg8nnPuwnEYl/fqNnmKAknp4n881KFeDh7qJwufXmApAp378v7CL29w9LUdQFXjKLpgicBjOwDQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1900-1702.delta" sparkle:deltaFrom="1702" length="7265182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="98IeQWpwP4fppil9RwxghSVoAqtBSkj3u0jzu2yFayoPf+VM6UkrTWweRnIAcyxEDyDmeBrE3Z4ilIqJB7p9Aw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1900-1700.delta" sparkle:deltaFrom="1700" length="7439710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H6lZqBBEfSJdubxYa/EE31ES/YUjHF6KBmVQtUWqt77yEhKjZwlSPzKtDRqcgU8E1y6o0mY9b81oW3dNCVFmBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.18.2</title>
             <pubDate>Tue, 22 Sep 2026 18:49:59 +0200</pubDate>
             <sparkle:version>1802</sparkle:version>
@@ -58,47 +103,6 @@ the thing on screen.</p>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1700.delta" sparkle:deltaFrom="1700" length="2074482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DozBFivnnA2ZqAX0dnOOCondKoZmYwXir1Fv63d00/E3fbj/ayPNkWl/eiHYIHkd387CTdPQ8zVZpusKXd3IDA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1600.delta" sparkle:deltaFrom="1600" length="2448982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="flubnwfVMvQ/1rhI11BboflpkKsE1Mn92mKkTNMO1bMNvQZOllKNbiD7wkbYozjSOnRM8AhUdmaO/FtmU5EPDA=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1801-1506.delta" sparkle:deltaFrom="1506" length="2658542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C6u5U0UX9QE3/dtpZTBb2Voxhl47NEhtcANiQH/SiEVftaftkgqndeKF4qiuFveXzdRI46X457WXacGfCHHnBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.18.0</title>
-            <pubDate>Mon, 21 Sep 2026 20:04:40 +0200</pubDate>
-            <sparkle:version>1800</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.18.0</h2>
-<p><b>Tell Jarvis what else counts as a task.</b> Jarvis already catches the
-things people ask you for and the things you promise. Now you can write, in
-your own words, anything else it should treat as yours — and it starts
-catching those too.</p>
-<ul>
-  <li><b>Write it in Settings → Focus.</b> A new "What else counts as a task"
-      section, with one input that grows as you type — a rule can be a
-      sentence or a paragraph. ⌘↵ adds it. Your rules are listed above it, and
-      an ✕ removes one whenever it stops being true.</li>
-  <li><b>It works on mail you already have.</b> Adding a rule re-reads the
-      last week, so it proves itself straight away instead of waiting for the
-      next email to arrive.</li>
-  <li><b>The tasks it finds link to the thing to open.</b> When the email
-      names a ticket, a document or a review, that link sits on the task's
-      evidence — labelled with the site it goes to, so you can see where it
-      leads before you click.</li>
-  <li><b>Jarvis reads notification mail properly now.</b> Deploy notices,
-      billing mail and anything else wrapped in machine formatting used to be
-      skipped whole, and any real task inside them went with it. Jarvis now
-      reads past the noise and keeps the message.</li>
-  <li><b>Smaller switches in Settings</b>, drawn in Jarvis's own colour rather
-      than the system's.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.18.0.dmg" length="14003867" type="application/octet-stream" sparkle:edSignature="e+jIzQjIacw2JRRlLoyLa22XtMG0MPttpcFJVWVvk1TpP9tz2uZk+bULnOtm/aH7jocWhWj6uCG2xyAR/YO/DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1702.delta" sparkle:deltaFrom="1702" length="1581698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4MDnW/59NMRdwmJ8kxQznSdMAyuIUVQDItAInJn88m01/uvTNcdbY+Mu8xoelhxknL1vlupIyyx4lPWjoXxTBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1700.delta" sparkle:deltaFrom="1700" length="2019254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WcecX0Te9oeF5BuIFQaHKDNLfWm6DnjNi6GfQiHRoooprFtIo7+loF4l3dWrIi2ur6LycHcz8SP/IXgQwnkqAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1600.delta" sparkle:deltaFrom="1600" length="2398298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3SBhUQk5pjlPk4T6z9ojkAvIbZwCWLiGfK6WRXIrKlBqOuhMZGMVYJ7waVFprXqtzQDqJFisF/cp13S/EvsxCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1506.delta" sparkle:deltaFrom="1506" length="2622090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ov1rPtXsSrONVpKK3imT3ia4vaUJeQTuwCRs/zh7403jituoFhLWaL8l9q7PFkCtzhn4d6Vsaqg6YQxHe0jYCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1800-1505.delta" sparkle:deltaFrom="1505" length="2635270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fj1lVkZM6Q1VQUvjoLgefnSNdFN/FdmdzcjfP3kT7uc3SaAsU0VMgfCzYVpDZy7R+vyHdNfp4241NITpbdPkDA=="/>
             </sparkle:deltas>
         </item>
     </channel>

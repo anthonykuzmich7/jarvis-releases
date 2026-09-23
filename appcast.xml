@@ -3,6 +3,28 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.3</title>
+            <pubDate>Wed, 23 Sep 2026 22:43:37 +0200</pubDate>
+            <sparkle:version>1903</sparkle:version>
+            <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.3</h2>
+<ul>
+  <li><b>A simpler Meetings screen.</b> The ⋯ menu is gone. Start a
+      recording from the Meetings button in Focus.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.3.dmg" length="20529154" type="application/octet-stream" sparkle:edSignature="HVIVeel9hRLZdnhP5Z+JlhEYGYQbtGyfCWoXo0r08iWDGr/onkxWmXUGEUI1gobYavKqDLvPgIuoqMSpV6neBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1902.delta" sparkle:deltaFrom="1902" length="1457258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BuYwcAHlvARfZF3nsYyslEd5DRbtvPsTNCX5DsJtglx2jaU5SRaLH/vxaUOeq1WzbJ5INqvva6Hy48iHmlsuCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1901.delta" sparkle:deltaFrom="1901" length="1888598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kJCQ7AYndjJT/wV3H43rqzUQcxuRe32a+gF2uTTrWWsuw48C7OZdl93elzJN4p2X3f6vIPec1BRP8xzviRQDAw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1900.delta" sparkle:deltaFrom="1900" length="1975842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/NJBG7DYJLLUqIMrU1HA63T7Dp9WSU0dAjKHvymdTPgD781xZVi8gzpQ/Nvzm9YDtZsQqXswyodzGiUusgTYBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1802.delta" sparkle:deltaFrom="1802" length="7275914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BJlS2O/TAiyKwCDEoYG2F9BAkptW4V174ttPvc2IEUW5vCBnE5AIweQ9jzF/zNUv2VJhIYmOL1/uKfi3Dk4DAA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1903-1801.delta" sparkle:deltaFrom="1801" length="7279710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1iDFZ5HvmBcnzVG3qhKvoZ4Lp8W4fqG1WpSEA9QugzFMVyWCjd3nipChpDd4kxZqMlb6571CYe0af8tizavVBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.2</title>
             <pubDate>Wed, 23 Sep 2026 20:04:19 +0200</pubDate>
             <sparkle:version>1902</sparkle:version>
@@ -41,15 +63,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.1.dmg" length="20556093" type="application/octet-stream" sparkle:edSignature="3X3FVbuCh/lS7Lw5LseGHgO3KB5tL35uPvs99wTlr8/egaWXnL4OyPym+iewr17gYu8M71xi2hehTEux3LHVCg=="/>
-        </item>
-        <item>
-            <title>0.19.0</title>
-            <pubDate>Wed, 23 Sep 2026 20:04:09 +0200</pubDate>
-            <sparkle:version>1900</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.0.dmg" length="20550704" type="application/octet-stream" sparkle:edSignature="kpOmdQW575BYysNP/o1dM4Q7B86amxscQMeJ719Yi4xus4ljupa2WNrxg0XnlcpaCQ2XhDIZuwz71TX56pGPCQ=="/>
         </item>
     </channel>
 </rss>

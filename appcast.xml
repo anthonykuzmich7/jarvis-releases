@@ -3,6 +3,34 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.10</title>
+            <pubDate>Thu, 24 Sep 2026 12:44:18 +0200</pubDate>
+            <sparkle:version>1910</sparkle:version>
+            <sparkle:shortVersionString>0.19.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.10</h2>
+<ul>
+  <li><b>One quiet mark for meetings.</b> A meeting now shows the same small
+      purple waveform everywhere — under Sources, where a task came from, and
+      on a meeting that is recording.</li>
+  <li><b>Tasks open at the size of your day.</b> Opening a task from Focus no
+      longer shrinks the window.</li>
+  <li><b>Meetings shows the month</b> next to the week you are looking at.</li>
+  <li>Task details no longer say "seen in 2 places" above the places
+      themselves.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.10.dmg" length="20689597" type="application/octet-stream" sparkle:edSignature="31jiEb5amssL+344IidbyFZiop4I/iD3hK4d/dkmiFnDTMOuRxupzoSAwvZ9Cgho+W6hT7h0BpG5O0SceOHYDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1910-1909.delta" sparkle:deltaFrom="1909" length="1417622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ImclhzP6VBh315w78PsNacF+I31zRjHsj+ld2JcvDhDSNJXeN021Napq/BAf+OwWYA96e9yQzUqhwd7gkrjSAw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1910-1908.delta" sparkle:deltaFrom="1908" length="1468906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VN9KEByvp/dPMc7LMV8ZpKmc9kdPK5Dji2Q5UbLyGcMCvpcOkMKzpH3UeFXzH+tZ9+Rx4YgrDy8uUHBBkOPtCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1910-1907.delta" sparkle:deltaFrom="1907" length="1460882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="onMxk9rJy6T1gWuS38ydC8Cr4EDRsNU/eQTaWNPIHphffTtCPt7G1NjzquWFvs/J/APDi4OH8SbZrR+diKSbBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1910-1906.delta" sparkle:deltaFrom="1906" length="1724166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j8BH6DJDeno11TpPtw7vlNFYO1nVNDKsGYPP5lrr3piztb0ZGGPy0FmP7QtvrJ3d9aaVcLzyb+HvSHR5LQ/0Dg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1910-1905.delta" sparkle:deltaFrom="1905" length="1720090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NtSBJFJ1QBgCqaeWcLY6NkXMYHTBAGzBmLL+CaWYaipgdY1xUPdMkpX3JB6D0pMxtKsdixZ0Ppzmzf1fEcy1Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.9</title>
             <pubDate>Thu, 24 Sep 2026 12:20:52 +0200</pubDate>
             <sparkle:version>1909</sparkle:version>
@@ -48,33 +76,6 @@
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1908-1905.delta" sparkle:deltaFrom="1905" length="1486922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QuijGII9PRHGxulbobehoePhPut1T/8Vjif2HAW90O1nDST15BA4ToFbaaxGb/R2vt8eYTJz3xHCTTIz89C8Bw=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1908-1904.delta" sparkle:deltaFrom="1904" length="1753554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4jl+BKfLg51L9zb05Irsq5pjC9Y2f5Tp4Q3b01eExFevmQv/QeNhTV/9KD0XtUkXxXFX10YsZyLsTzxYvRruCg=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1908-1903.delta" sparkle:deltaFrom="1903" length="2077530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Kx0iXSZkcyv11BTInEcVDkOeT5/0cn42fn39qh0HfksTMpJNP8JpeyX3wMxAQmxkHtoEAXKD+ZB4vz3jNgtdCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.19.7</title>
-            <pubDate>Thu, 24 Sep 2026 11:51:02 +0200</pubDate>
-            <sparkle:version>1907</sparkle:version>
-            <sparkle:shortVersionString>0.19.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.7</h2>
-<ul>
-  <li><b>Meeting action points reach Focus.</b> When you say in a meeting that
-      you will do something, it now becomes a task — it could get lost when
-      other messages arrived during the call. Meetings from the last week are
-      checked once more when Jarvis opens.</li>
-  <li><b>Tasks remember the meeting.</b> If a task Jarvis already found in
-      Slack was also discussed in a meeting, the meeting now shows up under
-      where the task came from.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.7.dmg" length="20673682" type="application/octet-stream" sparkle:edSignature="XPhpiuXa9GhFd2Y82K37WnTwV1pWel3G1+2xYXzkqtMUXlVrl69cAjQk7FvrapuM2HgcWB01cQ3jwtUvcSSMBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1907-1906.delta" sparkle:deltaFrom="1906" length="1483734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CkHF/t4giyEJuTYz6yGqnhmOxCOfvfP8pBmIFqTwzLfaqQC/MWExReKTc+h5zo+xud+RvbTfXSCaVdnwVqfkCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1907-1905.delta" sparkle:deltaFrom="1905" length="1484662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="05JWpEeFgWGtk/283vBrNXsgdJ3EHQ7I6yfj+/EbLOLrw/QzzDGunrJuK8mZWBlvnP7ab5LOSjA+C1/hDNawAA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1907-1904.delta" sparkle:deltaFrom="1904" length="1766994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RY9kWtua4F+4/j6iqDGu6JjugSM9lVfZ3t7kTxOPlUJBKpsi921gDiP7pzGFBlAvj6YkhCy7EHgVA/KUExQ1Cw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1907-1903.delta" sparkle:deltaFrom="1903" length="2091426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="79Vb+NtzjKKwoHJIVprkDUr5lP+5fvnS3iDtsj6yTOHzzkwx+jRjKnj2sEPA/vel+zKGC/uSkXWnHrqNGP2mAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1907-1902.delta" sparkle:deltaFrom="1902" length="2085382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i2QJLity+At1RCRcV2DZVSnR7aT5t/L/jaLgjBreFhFWeImDk08OR9ipYRXZDjNKYJgK7jwpBAGKUX3bjYYsDg=="/>
             </sparkle:deltas>
         </item>
     </channel>

@@ -3,19 +3,38 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.17</title>
+            <pubDate>Fri, 25 Sep 2026 17:38:43 +0200</pubDate>
+            <sparkle:version>1917</sparkle:version>
+            <sparkle:shortVersionString>0.19.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.17</h2>
+<ul>
+  <li>A task you already answered no longer comes back. Jarvis now rereads the
+      conversation behind each task before deciding it is still open, and
+      leaves it closed when your last message hands the next step to someone else.</li>
+  <li>Settings → Meetings is now Meeting Notes: simpler cards, always on, and it
+      only speaks up when something needs fixing.</li>
+  <li>The app icon is rounded on macOS 14 and 15 instead of a black square.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.17.dmg" length="37506479" type="application/octet-stream" sparkle:edSignature="5wu6G9eoc8SpGN8n95LctcN8YeNbFwtMQcX/vztA2zqkVry9Hsvw9KSetN9NB7Z7roGlsWdxPTZMRMyvSmnkAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1917-1916.delta" sparkle:deltaFrom="1916" length="3221270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TlN9JEtQiKjDdPTPSh1QV+sRgLj7f3xBNF4JA93Rqm6fVDLX9xf8lF1LYA7XnnZgPxK7FUwzxjbXbg3VJbD8Bw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1917-1915.delta" sparkle:deltaFrom="1915" length="3210662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rvpXJkxA/fVFfKY3xusLsSkv3DyNqj5wBjtByL5QS8YVP7ShPaYfca+u7Olir46o46FIleYB2GuAO8g5US4eAA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1917-1914.delta" sparkle:deltaFrom="1914" length="12474190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XsBN47z+sjughChl4e59FgizTtmqt7uTPXNqxxMy3rn0UQhHHcUpGQsH5e//UlPH2zPUTFkKZxF0Eun9Y2FADw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1917-1913.delta" sparkle:deltaFrom="1913" length="12723066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s1yrUed3J3fEQjYeSSr2pRB8f9OBaZXLdhcCm9QANLWZd/4WqjalFQxlZrRFnTkVGS3ieDr1ALS7ShEb+vtfCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1917-1912.delta" sparkle:deltaFrom="1912" length="12823926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QVj7syixLw39LzF34vKhEkIpKxZoTdJW3qayH+FljtjnGtqtITY2WhEvS6OnYOSk9LnuSASidOdpBQM+AsiyBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.16</title>
             <pubDate>Fri, 25 Sep 2026 17:20:50 +0200</pubDate>
             <sparkle:version>1916</sparkle:version>
             <sparkle:shortVersionString>0.19.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.16</h2>
-<ul>
-  <li>Leave a call and come back quickly, and Jarvis asks "Take notes" again
-      instead of staying silent.</li>
-  <li>The "Take notes" question now waits 10 seconds for an answer, up from 5.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.16.dmg" length="36587961" type="application/octet-stream" sparkle:edSignature="FNZm0NTQyFg4wyGApeGlvZJgewJH0+TYXoPHqKKddGQHILbzT56Xt6tEI/Fw+FLQJVyb9bm73Uj6K5ZX22lRBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1916-1915.delta" sparkle:deltaFrom="1915" length="1280262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1vH1TqMxu89xBvvrDF14/u0S4xWq/sEwDB09VlvDle0/xpBFEl/l0aQ70gyojnd5o4IhRXlgmgBGf/ULO4UbDw=="/>
@@ -33,15 +52,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.15.dmg" length="36587685" type="application/octet-stream" sparkle:edSignature="z/IRVWMVo9YXV5FLwYunfbEkObLZNZlDFsBL5NSH2nobgta6zlPm/RzrG05gyoQYtHclWwR+/x1vstXExWezAQ=="/>
-        </item>
-        <item>
-            <title>0.19.14</title>
-            <pubDate>Fri, 25 Sep 2026 17:14:00 +0200</pubDate>
-            <sparkle:version>1914</sparkle:version>
-            <sparkle:shortVersionString>0.19.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.14.dmg" length="20995587" type="application/octet-stream" sparkle:edSignature="053uaa+gBtInEXl4019g/Igq+4ch2pdX+INauM+ZllYxmWnMka8a6mRqnSIv89GX5Vp62ef89CAUhs2QpegKCw=="/>
         </item>
     </channel>
 </rss>

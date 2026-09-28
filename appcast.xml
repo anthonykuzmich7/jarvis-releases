@@ -3,59 +3,55 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.21</title>
+            <pubDate>Mon, 28 Sep 2026 20:15:37 +0200</pubDate>
+            <sparkle:version>1921</sparkle:version>
+            <sparkle:shortVersionString>0.19.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.21</h2>
+<ul>
+  <li><b>Sign in with an account.</b> Signing in opens your browser, where you
+      can use an email code or Google — and create an account if you don't have
+      one yet. You land back in Jarvis by yourself; the app comes to the front
+      when the browser is done.</li>
+  <li><b>You can back out of a sign-in.</b> If the browser goes nowhere — a
+      wrong link, a closed tab — a Stop button ends the attempt instead of
+      leaving the button spinning for three minutes.</li>
+  <li><b>The sign-in screen has a sky.</b> Stars drift behind Jarvis, and he
+      looks around while he waits for you. The tab your browser lands on after
+      signing in matches it.</li>
+  <li><b>Fixed:</b> returning from the browser could leave you with two Jarvis
+      windows open at once.</li>
+  <li><b>Fixed:</b> signing out could quietly fail and leave you signed in.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.21.dmg" length="37737625" type="application/octet-stream" sparkle:edSignature="gaYcdfUpSjVRYirWMU2aSKqhFjk3thHRF51q46n9ErcL7KtvPlh3gZgwOAT3fiDXkWWXhrhg6upoctumq9hUAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1921-1920.delta" sparkle:deltaFrom="1920" length="2048958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yqgJuEMDOn7lfbBOtRExT82QOK3RooWxJGdNn+OU42EQJeUdJbBntqQ2bvMEoX33nLAfiG2mXT/52JQUMLMsBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1921-1919.delta" sparkle:deltaFrom="1919" length="2110222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mpme1+6jCDtOOQlwkrWS0SAu7RxwJNTTxqg30jeTCmmjzLUI/iFqbwWewsZNiHPUPLhO/foWvXbFKgVo0h8UCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1921-1918.delta" sparkle:deltaFrom="1918" length="2366202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9zWjUqpSQDbt3O/6+/hcG+m0ZZLKGv6LI2U0BmLD6fyGHN46iYt6XZd5cN0URTd/JCqoyqBLGxu3X3LuZuzaDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1921-1917.delta" sparkle:deltaFrom="1917" length="2402570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Zqj1c+5JlLVNxriLriSKIxjpqkzd01JDMFX9ErxBorN25gn/bHZ7cQHvOWwLXrOiOlvdVvPRChNMeIth0aG0Aw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1921-1916.delta" sparkle:deltaFrom="1916" length="3987158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HMdWQHsAY6UE4uBXgMgqkEqPAJgd+uHRSY6CMtmvsHiNSpxbS3sEjifmbHNE1MLRtkdZM5xyXHwY5rZ360YgBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.20</title>
-            <pubDate>Mon, 28 Sep 2026 16:05:35 +0200</pubDate>
+            <pubDate>Mon, 28 Sep 2026 20:15:13 +0200</pubDate>
             <sparkle:version>1920</sparkle:version>
             <sparkle:shortVersionString>0.19.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.20</h2>
-<ul>
-  <li>The Telegram chat picker explains more plainly what Jarvis does with the
-      chats you pick.</li>
-  <li>Small buttons like Cancel now show the hand cursor.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.20.dmg" length="37650620" type="application/octet-stream" sparkle:edSignature="NPlDLcx9GDewow6xIsPE79i2DdjKAf/JafNQAFmH9QrEUQMcEeP+JyCv/O5mOb4fmiM1zfx1d94c+4H0rbXcAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1919.delta" sparkle:deltaFrom="1919" length="1030438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W/oEuLs4+8QplXiKGtxWZ+R/rA4Rg0dsF098Rpfs+3rx5IexopDffBLJo5nsmfkRjEIYHm7h+ToTYI1NX1GpCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1918.delta" sparkle:deltaFrom="1918" length="2005598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y77JmLibNrDGDqRcGn//qROZGVnpXvxVjtSu3Elp+Za9iJjbkacHY5pyQ49XLXkrMaFMHUcdA2Jgtp5rcnL+Dw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1917.delta" sparkle:deltaFrom="1917" length="2074670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JNMVyHCL7uzokEQZp4WJxS3SZl+vTbmnmutN26PFVOptphUMgeMJ1SXPXHKYJPIE9XKUq2dUf4KcsX89MIp7AA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1916.delta" sparkle:deltaFrom="1916" length="3641514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RhgD5/4nm7244VdjvxVosPf+84/lrRmZKI8YvEibfuQzEORgouRzv1H2C/bo55VEicZ8p8XAJYg3biz7mvWXCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1915.delta" sparkle:deltaFrom="1915" length="3634738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SWHMctdVIo6OQboTCCeW3jpWW7QIGiBppCtkY+i+n0YmrFbLLPJvdM8w4tLRu8zatcMfPhBR8dKnb8n8C3+dAw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.19</title>
-            <pubDate>Mon, 28 Sep 2026 15:36:17 +0200</pubDate>
+            <pubDate>Mon, 28 Sep 2026 20:15:18 +0200</pubDate>
             <sparkle:version>1919</sparkle:version>
             <sparkle:shortVersionString>0.19.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.19.dmg" length="37649956" type="application/octet-stream" sparkle:edSignature="5ybv7F5O2u4x98RQUbHTUXluhvqyAxLLfEjXmzu2amWwpMn33ZLTxVAXkZTjm2RkbKTeTqcOoV4wUb59TOqGCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1918.delta" sparkle:deltaFrom="1918" length="1907270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8E/FBJaqRmA9dVdWeJ8Ts2qp25bld7z7caiSU5R00vjY4jr/JKWa0+4iGaHy4euTZvbHKwc3NgbvrpQOCImCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1917.delta" sparkle:deltaFrom="1917" length="2024282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kmaRloJEMMRukogwx6uH7y742rO1ZZxXaunNXacVGWzEZ02GDaePH7Av7GFscM/yY55AqIY5XFkABhMj3HHWCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1916.delta" sparkle:deltaFrom="1916" length="3606610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nb3KskO148gg5V5KuOepnC19FlgqXgzq9PqJUFNvWjfBia12gr+giiquQVBeV+8VkE5cLLnmPt0tsT6JAArXCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1915.delta" sparkle:deltaFrom="1915" length="3602582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vxqCjiLj864XNpsvEpoLHZR+km43Al7ok6bfaQjE9UumIrk1ImNXucJTKren8ZAWp84+kGrznAB/u/uHBsnwAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1914.delta" sparkle:deltaFrom="1914" length="12638778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CR+0NHiPRTcnulGafmOeowKt8W14Uo7ZdlUvN2NFJWQ9qqEXyycmVQb+7+yyG7t9U0tek67YOc3VsvS1tB0hDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.19.18</title>
-            <pubDate>Fri, 25 Sep 2026 17:50:57 +0200</pubDate>
-            <sparkle:version>1918</sparkle:version>
-            <sparkle:shortVersionString>0.19.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.18.dmg" length="37498014" type="application/octet-stream" sparkle:edSignature="/BRrEMzc9A3H77ik1cU0KMYlp6Sp6CO9mnkzkqfzJHeayq1fQSVjRkZvzzqD2FJPHjxjj6EoWkl75Pw2z+doCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1917.delta" sparkle:deltaFrom="1917" length="1489194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cE8ErV+mlcki22+MgOOJYe3Hy8KrzgpZWgzPuTbhuEA9S+HT3ORsFPMtxat9luIUJr1yav+J64ORP9TwOLIhAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1916.delta" sparkle:deltaFrom="1916" length="3186590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yrz04TUskrn0gAAfFOF00AX9qjQ49ES+VI1gBRG5Y+Pyzu0LfU6sdAjAyMCE3JGgjvKG5Aof3HO05A/B2vdBAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1915.delta" sparkle:deltaFrom="1915" length="3257342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kOvTrIaPnNfFiXW6TXyaSC1vBiYI0TwAQdOrXgeI6WXQi9Qu2xE70YHMeNRilCcQOS0f8OYks5G7Ooa7abVSCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1914.delta" sparkle:deltaFrom="1914" length="12436882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3GrHQKGHx4llNgMNNk1T0mz5x5JtkdntocBJOnAllv9TfoRwU1VY+l+O8XPxFwR/96cyg8khCajYfzrVoNpJAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1913.delta" sparkle:deltaFrom="1913" length="12705070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BKJloB+iTZbYTJ1a61Yq/ErAmDCwfYb8orN0JQ9+hmRj+n5Unncyit3b6gv5Mtw7HnZQo0vr4tmFrbDhEDnFCQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>

@@ -3,18 +3,39 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.19</title>
+            <pubDate>Mon, 28 Sep 2026 15:36:17 +0200</pubDate>
+            <sparkle:version>1919</sparkle:version>
+            <sparkle:shortVersionString>0.19.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.19</h2>
+<ul>
+  <li>Telegram is here. Connect it in Settings → Telegram by scanning a QR code
+      with your phone, the way Telegram Desktop signs in.</li>
+  <li>Pick what Jarvis reads with People, Groups and Channels tabs, or turn on
+      All people / All groups so a new person who writes to you is read too.</li>
+  <li>Jarvis never stores your Telegram password or messages. Only the
+      encrypted sign-in session and your chat names stay on this Mac, and
+      Disconnect erases both.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.19.dmg" length="37649956" type="application/octet-stream" sparkle:edSignature="5ybv7F5O2u4x98RQUbHTUXluhvqyAxLLfEjXmzu2amWwpMn33ZLTxVAXkZTjm2RkbKTeTqcOoV4wUb59TOqGCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1918.delta" sparkle:deltaFrom="1918" length="1907270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8E/FBJaqRmA9dVdWeJ8Ts2qp25bld7z7caiSU5R00vjY4jr/JKWa0+4iGaHy4euTZvbHKwc3NgbvrpQOCImCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1917.delta" sparkle:deltaFrom="1917" length="2024282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kmaRloJEMMRukogwx6uH7y742rO1ZZxXaunNXacVGWzEZ02GDaePH7Av7GFscM/yY55AqIY5XFkABhMj3HHWCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1916.delta" sparkle:deltaFrom="1916" length="3606610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nb3KskO148gg5V5KuOepnC19FlgqXgzq9PqJUFNvWjfBia12gr+giiquQVBeV+8VkE5cLLnmPt0tsT6JAArXCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1915.delta" sparkle:deltaFrom="1915" length="3602582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vxqCjiLj864XNpsvEpoLHZR+km43Al7ok6bfaQjE9UumIrk1ImNXucJTKren8ZAWp84+kGrznAB/u/uHBsnwAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1914.delta" sparkle:deltaFrom="1914" length="12638778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CR+0NHiPRTcnulGafmOeowKt8W14Uo7ZdlUvN2NFJWQ9qqEXyycmVQb+7+yyG7t9U0tek67YOc3VsvS1tB0hDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.18</title>
             <pubDate>Fri, 25 Sep 2026 17:50:57 +0200</pubDate>
             <sparkle:version>1918</sparkle:version>
             <sparkle:shortVersionString>0.19.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.18</h2>
-<ul>
-  <li>Meeting Notes in Settings now shows the same purple waveform Focus uses
-      for a meeting.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.18.dmg" length="37498014" type="application/octet-stream" sparkle:edSignature="/BRrEMzc9A3H77ik1cU0KMYlp6Sp6CO9mnkzkqfzJHeayq1fQSVjRkZvzzqD2FJPHjxjj6EoWkl75Pw2z+doCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1917.delta" sparkle:deltaFrom="1917" length="1489194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cE8ErV+mlcki22+MgOOJYe3Hy8KrzgpZWgzPuTbhuEA9S+HT3ORsFPMtxat9luIUJr1yav+J64ORP9TwOLIhAw=="/>
@@ -32,15 +53,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.17.dmg" length="37506479" type="application/octet-stream" sparkle:edSignature="5wu6G9eoc8SpGN8n95LctcN8YeNbFwtMQcX/vztA2zqkVry9Hsvw9KSetN9NB7Z7roGlsWdxPTZMRMyvSmnkAw=="/>
-        </item>
-        <item>
-            <title>0.19.16</title>
-            <pubDate>Fri, 25 Sep 2026 17:35:19 +0200</pubDate>
-            <sparkle:version>1916</sparkle:version>
-            <sparkle:shortVersionString>0.19.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.16.dmg" length="36587961" type="application/octet-stream" sparkle:edSignature="FNZm0NTQyFg4wyGApeGlvZJgewJH0+TYXoPHqKKddGQHILbzT56Xt6tEI/Fw+FLQJVyb9bm73Uj6K5ZX22lRBQ=="/>
         </item>
     </channel>
 </rss>

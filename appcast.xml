@@ -3,23 +3,35 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.20</title>
+            <pubDate>Mon, 28 Sep 2026 16:05:35 +0200</pubDate>
+            <sparkle:version>1920</sparkle:version>
+            <sparkle:shortVersionString>0.19.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.20</h2>
+<ul>
+  <li>The Telegram chat picker explains more plainly what Jarvis does with the
+      chats you pick.</li>
+  <li>Small buttons like Cancel now show the hand cursor.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.20.dmg" length="37650620" type="application/octet-stream" sparkle:edSignature="NPlDLcx9GDewow6xIsPE79i2DdjKAf/JafNQAFmH9QrEUQMcEeP+JyCv/O5mOb4fmiM1zfx1d94c+4H0rbXcAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1919.delta" sparkle:deltaFrom="1919" length="1030438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W/oEuLs4+8QplXiKGtxWZ+R/rA4Rg0dsF098Rpfs+3rx5IexopDffBLJo5nsmfkRjEIYHm7h+ToTYI1NX1GpCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1918.delta" sparkle:deltaFrom="1918" length="2005598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y77JmLibNrDGDqRcGn//qROZGVnpXvxVjtSu3Elp+Za9iJjbkacHY5pyQ49XLXkrMaFMHUcdA2Jgtp5rcnL+Dw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1917.delta" sparkle:deltaFrom="1917" length="2074670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JNMVyHCL7uzokEQZp4WJxS3SZl+vTbmnmutN26PFVOptphUMgeMJ1SXPXHKYJPIE9XKUq2dUf4KcsX89MIp7AA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1916.delta" sparkle:deltaFrom="1916" length="3641514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RhgD5/4nm7244VdjvxVosPf+84/lrRmZKI8YvEibfuQzEORgouRzv1H2C/bo55VEicZ8p8XAJYg3biz7mvWXCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1920-1915.delta" sparkle:deltaFrom="1915" length="3634738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SWHMctdVIo6OQboTCCeW3jpWW7QIGiBppCtkY+i+n0YmrFbLLPJvdM8w4tLRu8zatcMfPhBR8dKnb8n8C3+dAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.19</title>
             <pubDate>Mon, 28 Sep 2026 15:36:17 +0200</pubDate>
             <sparkle:version>1919</sparkle:version>
             <sparkle:shortVersionString>0.19.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.19</h2>
-<ul>
-  <li>Telegram is here. Connect it in Settings → Telegram by scanning a QR code
-      with your phone, the way Telegram Desktop signs in.</li>
-  <li>Pick what Jarvis reads with People, Groups and Channels tabs, or turn on
-      All people / All groups so a new person who writes to you is read too.</li>
-  <li>Jarvis never stores your Telegram password or messages. Only the
-      encrypted sign-in session and your chat names stay on this Mac, and
-      Disconnect erases both.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.19.dmg" length="37649956" type="application/octet-stream" sparkle:edSignature="5ybv7F5O2u4x98RQUbHTUXluhvqyAxLLfEjXmzu2amWwpMn33ZLTxVAXkZTjm2RkbKTeTqcOoV4wUb59TOqGCg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1919-1918.delta" sparkle:deltaFrom="1918" length="1907270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8E/FBJaqRmA9dVdWeJ8Ts2qp25bld7z7caiSU5R00vjY4jr/JKWa0+4iGaHy4euTZvbHKwc3NgbvrpQOCImCQ=="/>
@@ -44,15 +56,6 @@
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1914.delta" sparkle:deltaFrom="1914" length="12436882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3GrHQKGHx4llNgMNNk1T0mz5x5JtkdntocBJOnAllv9TfoRwU1VY+l+O8XPxFwR/96cyg8khCajYfzrVoNpJAw=="/>
                 <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1918-1913.delta" sparkle:deltaFrom="1913" length="12705070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BKJloB+iTZbYTJ1a61Yq/ErAmDCwfYb8orN0JQ9+hmRj+n5Unncyit3b6gv5Mtw7HnZQo0vr4tmFrbDhEDnFCQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.19.17</title>
-            <pubDate>Fri, 25 Sep 2026 17:38:43 +0200</pubDate>
-            <sparkle:version>1917</sparkle:version>
-            <sparkle:shortVersionString>0.19.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.17.dmg" length="37506479" type="application/octet-stream" sparkle:edSignature="5wu6G9eoc8SpGN8n95LctcN8YeNbFwtMQcX/vztA2zqkVry9Hsvw9KSetN9NB7Z7roGlsWdxPTZMRMyvSmnkAw=="/>
         </item>
     </channel>
 </rss>

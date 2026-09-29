@@ -3,45 +3,45 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.26</title>
+            <pubDate>Tue, 29 Sep 2026 20:28:07 +0200</pubDate>
+            <sparkle:version>1926</sparkle:version>
+            <sparkle:shortVersionString>0.19.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.26</h2>
+<ul>
+<li>Settings → Focus: set your working day on a bar you drag, from 05:00 to 23:00 — days can now run longer than eight hours.</li>
+<li>One "Morning digest" switch: a banner with your day and a soft chime, the first time you sit down each morning.</li>
+<li>Meeting Notes uses the same white icon as the rest of Settings.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.26.dmg" length="37799450" type="application/octet-stream" sparkle:edSignature="upzEPC+D1Xz7xCnOnzv338k/Shf35OrC/3FSB6DwR6HnVHjvpYMbxh7FYU2DxqgxfnuuA0bzBnySaRH4krsNAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1925.delta" sparkle:deltaFrom="1925" length="1958262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KXzOoIOpknzvtBJ5kpMJSzpuUgCqzIZ9sjoIlWnp5iUrIytA3lHR0qELng2IWUtyRZydJL8Ju8dGsVrncoU0Dg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1924.delta" sparkle:deltaFrom="1924" length="2037926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fr+RUNtb5TRHuBlBLFXJZa7s+eNsC9xTJtPDEvsRMJQivamyewytcqeozLVAP7JSh8sQ+7fwehUknuksEwwgDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1923.delta" sparkle:deltaFrom="1923" length="2039598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M1D0XXAPKfnLBfpqvc7AHqiGq6Bw/X1y2d/aGOq37nuwCWWlzEhZoUYfQinWUyRXWekhOLWwdZdoQcA+5f4RDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1922.delta" sparkle:deltaFrom="1922" length="2012982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7/dxXwi5vDr8GtUhB6p7MZbDsnFNLNvTwSm+55JVOj6KGewLyepXjASZudyvRPIpfx6HVudiCtbUrpV/nvqQDw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1921.delta" sparkle:deltaFrom="1921" length="1957094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SSJrPbTtvgGy3rqI4yT2pip111n8luLKhvXB33CujA10vtX1o0uroE5pt/cAwCnQzmMQvmad5dKNQ56i4DyvAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.25</title>
-            <pubDate>Tue, 29 Sep 2026 19:34:47 +0200</pubDate>
+            <pubDate>Tue, 29 Sep 2026 20:25:11 +0200</pubDate>
             <sparkle:version>1925</sparkle:version>
             <sparkle:shortVersionString>0.19.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.25</h2>
-<ul>
-  <li>Fixes Jarvis sometimes not opening after a meeting: the window now
-      appears on the desktop you are on, including over a full-screen call.</li>
-  <li>Tapping a meeting notification now opens the Jarvis window.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.25.dmg" length="37741867" type="application/octet-stream" sparkle:edSignature="9ZDqVoTzJxHCPg0yCiOYayPeD2qOBF1h6m9+skzbgvaZwu+JbadexnuuI/9rWJfm2CCuZW3T04mkXUEX59WEAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1925-1924.delta" sparkle:deltaFrom="1924" length="1059982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jFIF5KF0XCINPNRLbuYkT3Huntj3jjlJ3MQq25o9Sj3NiGjGbFauuNfJZixe/kG2qBkmSDTuVFuckU12IbbBDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1925-1923.delta" sparkle:deltaFrom="1923" length="1257606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KEh4uWoAXMX2iB7zarraYuqXDeflksw29BOuLUtcKNe7yxo6GnNXclyYVeFC6gOz+JGCHlMBKPZXh3t+3lUyAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1925-1922.delta" sparkle:deltaFrom="1922" length="1299810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="knIZFLhkMLPGukZFrM5nm5VpZOumO9FYT7wjVwKiPrdgQkDevbIdk4hC/z8X2dfQo8Ma/o/3gVTaoQBFWIwsBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1925-1921.delta" sparkle:deltaFrom="1921" length="1347426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7QtTU45r4Lk4vzTmCBAarQbiP0Awb8VQo1ARmcANwlgEH7wmZLwfTAEt+WBDMGnGZn0MRRFyZzWt0Wwa8N3wAw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1925-1920.delta" sparkle:deltaFrom="1920" length="2044394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XmNQOn3vWXM+eR9N5IWEZbj2/zAmGEC/6mvaZ/Rm3mjXRA2/gh9yWEFG89ZTNqos9FbvRqfhYAq9IpyUXFslCw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.24</title>
-            <pubDate>Tue, 29 Sep 2026 19:30:32 +0200</pubDate>
+            <pubDate>Tue, 29 Sep 2026 20:25:11 +0200</pubDate>
             <sparkle:version>1924</sparkle:version>
             <sparkle:shortVersionString>0.19.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.24.dmg" length="37731106" type="application/octet-stream" sparkle:edSignature="7QR5eaU6KANOcSHbJoXcfKKSCGXBAYsx5i71Vm0isuTsW9ilz40bK3ByJY1Y6W8XSrhena2WmiBhtKwfQpEMBA=="/>
-        </item>
-        <item>
-            <title>0.19.23</title>
-            <pubDate>Tue, 29 Sep 2026 19:30:31 +0200</pubDate>
-            <sparkle:version>1923</sparkle:version>
-            <sparkle:shortVersionString>0.19.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.23.dmg" length="37734826" type="application/octet-stream" sparkle:edSignature="trXAIOcJ+CoAKleWWp037g6p53BurSE4VxFUVNn9XF9IX7w4xEWIkvJumBjbSburtDbAqhlOZRVvOZNs1z3KCw=="/>
         </item>
     </channel>
 </rss>

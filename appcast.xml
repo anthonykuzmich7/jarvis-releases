@@ -3,45 +3,44 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.27</title>
+            <pubDate>Thu, 01 Oct 2026 12:22:58 +0200</pubDate>
+            <sparkle:version>1927</sparkle:version>
+            <sparkle:shortVersionString>0.19.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.27</h2>
+<ul>
+<li>Every meeting action point that is yours now lands in your to-do list — none get merged away or hidden as a suggestion.</li>
+<li>Clicking Jarvis in the Dock after a meeting opens the window again, instead of doing nothing until you restart the app.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.27.dmg" length="37814070" type="application/octet-stream" sparkle:edSignature="CQU2f9muYws299fdTpaa1nDObgD5KsyuEg3+UKrfqOOWom43GpyrQmRm4TfT/1UhgYZh0xmEsjNQ2Nxdm+VhCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1927-1926.delta" sparkle:deltaFrom="1926" length="1275402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0f5jMo6iqBKrlO0NOFNiry/HpjiLO00eXw5Xhb+sWISn7snVzaf7e+T2mk2s8KZ6q1CEpSRnZTXfdoc8/4Y8Bw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1927-1925.delta" sparkle:deltaFrom="1925" length="2081462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MzHJb0/bVmrx2EI2ZG/PQtqQjmF/B0MB7PpcqydnRUoC0osH4mqXQMJzEBN9AVhYjUHHR1ZLE20Q+VORzhbpDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1927-1924.delta" sparkle:deltaFrom="1924" length="2059214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WyAz+f3iHcRVjKEWUY4tvJ7KQsGgeYWEbUqjXpqxEKzwuLGAHZqUMlT2HmZPw36Scqh5+pxAv7GlCtOjlvnWCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1927-1923.delta" sparkle:deltaFrom="1923" length="2070414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P5OqrXmHcGHx6XR+hT2or4/2gguwR+QWoHDbb5ZJQWJmu7DB1T/uyntcjHz6zPfKN4jrHTwpVfCPcA1LcLS8Cw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1927-1922.delta" sparkle:deltaFrom="1922" length="2079466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GnbDVQSk0kNPH0X4bFY158yCRnbwYYTYYQe/r+2Xzf8vps7vFNcipgqOGlBK4oX8Ls4sdHISKhnlZlozBjR5Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.26</title>
-            <pubDate>Tue, 29 Sep 2026 20:28:07 +0200</pubDate>
+            <pubDate>Thu, 01 Oct 2026 12:22:36 +0200</pubDate>
             <sparkle:version>1926</sparkle:version>
             <sparkle:shortVersionString>0.19.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.26</h2>
-<ul>
-<li>Settings → Focus: set your working day on a bar you drag, from 05:00 to 23:00 — days can now run longer than eight hours.</li>
-<li>One "Morning digest" switch: a banner with your day and a soft chime, the first time you sit down each morning.</li>
-<li>Meeting Notes uses the same white icon as the rest of Settings.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.26.dmg" length="37799450" type="application/octet-stream" sparkle:edSignature="upzEPC+D1Xz7xCnOnzv338k/Shf35OrC/3FSB6DwR6HnVHjvpYMbxh7FYU2DxqgxfnuuA0bzBnySaRH4krsNAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1925.delta" sparkle:deltaFrom="1925" length="1958262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KXzOoIOpknzvtBJ5kpMJSzpuUgCqzIZ9sjoIlWnp5iUrIytA3lHR0qELng2IWUtyRZydJL8Ju8dGsVrncoU0Dg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1924.delta" sparkle:deltaFrom="1924" length="2037926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fr+RUNtb5TRHuBlBLFXJZa7s+eNsC9xTJtPDEvsRMJQivamyewytcqeozLVAP7JSh8sQ+7fwehUknuksEwwgDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1923.delta" sparkle:deltaFrom="1923" length="2039598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M1D0XXAPKfnLBfpqvc7AHqiGq6Bw/X1y2d/aGOq37nuwCWWlzEhZoUYfQinWUyRXWekhOLWwdZdoQcA+5f4RDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1922.delta" sparkle:deltaFrom="1922" length="2012982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7/dxXwi5vDr8GtUhB6p7MZbDsnFNLNvTwSm+55JVOj6KGewLyepXjASZudyvRPIpfx6HVudiCtbUrpV/nvqQDw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1926-1921.delta" sparkle:deltaFrom="1921" length="1957094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SSJrPbTtvgGy3rqI4yT2pip111n8luLKhvXB33CujA10vtX1o0uroE5pt/cAwCnQzmMQvmad5dKNQ56i4DyvAw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.25</title>
-            <pubDate>Tue, 29 Sep 2026 20:25:11 +0200</pubDate>
+            <pubDate>Thu, 01 Oct 2026 12:22:40 +0200</pubDate>
             <sparkle:version>1925</sparkle:version>
             <sparkle:shortVersionString>0.19.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.25.dmg" length="37741867" type="application/octet-stream" sparkle:edSignature="9ZDqVoTzJxHCPg0yCiOYayPeD2qOBF1h6m9+skzbgvaZwu+JbadexnuuI/9rWJfm2CCuZW3T04mkXUEX59WEAA=="/>
-        </item>
-        <item>
-            <title>0.19.24</title>
-            <pubDate>Tue, 29 Sep 2026 20:25:11 +0200</pubDate>
-            <sparkle:version>1924</sparkle:version>
-            <sparkle:shortVersionString>0.19.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.24.dmg" length="37731106" type="application/octet-stream" sparkle:edSignature="7QR5eaU6KANOcSHbJoXcfKKSCGXBAYsx5i71Vm0isuTsW9ilz40bK3ByJY1Y6W8XSrhena2WmiBhtKwfQpEMBA=="/>
         </item>
     </channel>
 </rss>

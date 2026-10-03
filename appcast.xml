@@ -3,45 +3,46 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.33</title>
+            <pubDate>Sat, 03 Oct 2026 15:19:25 +0200</pubDate>
+            <sparkle:version>1933</sparkle:version>
+            <sparkle:shortVersionString>0.19.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.33</h2>
+<ul>
+  <li>The Chrome extension is now called Jarvis Context. It names who's speaking
+      in Google Meet and connects Slack when your workspace blocks apps.</li>
+  <li>New Settings → Chrome Extension: download it in one click, then follow a
+      short animated guide to add it to Chrome.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.33.dmg" length="38294020" type="application/octet-stream" sparkle:edSignature="cVAjZtJV2/TfhRTsnHXqGYHOZ2gJYv1UWPIFHNnd9dRyU/BeGtpRBLOOLgJkk+nNwUO47nOimFADrYHzDWF4Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1933-1932.delta" sparkle:deltaFrom="1932" length="2185638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i33G4BVA55dWHxBizHxhARCw3OQ8Sp9OqYTHjj7hm7K1B6w+9P+bUYkDNRZeXRt2QXXuqdcVzTipo7CtrLuaAA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1933-1931.delta" sparkle:deltaFrom="1931" length="2331146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WEQc3OtCNBm7PqiunXseHR2twsk0ejxd71CymJFEAzrhuKJh267UrXXq62q9oJ+R9F/5ONd9BIzskhC1JqkUBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1933-1930.delta" sparkle:deltaFrom="1930" length="2308110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oxakusoq7pvQs2pD3LlBTvHhEtU3R4+IR0wkWIcsIx/gtQdEt4thWdlb1OttXpKaCGGjy7QEvvCY//E2USPHCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1933-1929.delta" sparkle:deltaFrom="1929" length="2471450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BunnX28086KJcC0ICVPr2FiaC400WHj6kuGEOVwCUWc8jO8Ex9cEWhOWjlt7w30/rxxfjcMxly8HbifUlhlABg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1933-1928.delta" sparkle:deltaFrom="1928" length="2436294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y7dUFHEpcpiZ5jvF6rd62Y36/Q7tOTTDpBEvnKxQj3o38pjCqNo6/nGjl9s9MDf9yrT1gT5EI3LXbZNGBEzLBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.32</title>
-            <pubDate>Thu, 01 Oct 2026 20:47:02 +0200</pubDate>
+            <pubDate>Sat, 03 Oct 2026 15:16:02 +0200</pubDate>
             <sparkle:version>1932</sparkle:version>
             <sparkle:shortVersionString>0.19.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.32</h2>
-<ul>
-  <li>Mailbox: when Apple Mail stops responding, Jarvis now gives it time to
-      recover instead of asking again and again, which could keep Mail frozen.</li>
-  <li>Press Sync to try again right away once Mail is working.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.32.dmg" length="38013548" type="application/octet-stream" sparkle:edSignature="s1hTjlFt2xLalNFSEjb9t1jIrg2pYvgGF3P6eDkoBgrmzMv2GROFG/HKL0Ah+soKd/DiDmtnIc54aE5kLWXuBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1932-1931.delta" sparkle:deltaFrom="1931" length="1434250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qHE4hTd712w3AyqmT1CqGeZ6tudUXIHXur+hoK1cl3sPNXHCESu5heiS5v0w86LlUp21tMj9Sk9SlhqDZCw9Dw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1932-1930.delta" sparkle:deltaFrom="1930" length="1536366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yta3wLr3qsT5N0jqeSwW1qvZu1rVHcUDAYKQ8yTJ/kMmkpvu7MwXrHvO0gEDfx10A4rY7DQ3sJun22ouiWb6BA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1932-1929.delta" sparkle:deltaFrom="1929" length="1792590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wOH6qZmUWSYWWYAqkqPgvTbgv7g0aN6DXU4KDlSwjkPyvvDqVVcWDnfFOKz2C2pSK0SVjG6mvEBzN8teGIhXCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1932-1928.delta" sparkle:deltaFrom="1928" length="1849306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2M++kGbSABseQ5k+eBo5XyRKNYwt7d9JPOtP4rkQQmEqgWOeouL4Yc0gZC2kWMf0/E9YuP/suidhxNeoEs82AA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1932-1927.delta" sparkle:deltaFrom="1927" length="2507410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Zxx2wDpaBMj5i/BTzntjzYhKjz0SJXpkRmlrna+JlXlHwn66DxgF/261OR8IUX3lWbdYRKH6hXQoiMPQZTycCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.31</title>
-            <pubDate>Thu, 01 Oct 2026 20:15:24 +0200</pubDate>
+            <pubDate>Sat, 03 Oct 2026 15:16:02 +0200</pubDate>
             <sparkle:version>1931</sparkle:version>
             <sparkle:shortVersionString>0.19.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.31.dmg" length="38007183" type="application/octet-stream" sparkle:edSignature="KyFGRlBnDPTMkGCAeCe30MnSDAA8jiDT4Tcl8vQ7IfPWBTr7CVPZAvghiBNvojVTdY/8MiIw9C8Cy37uuh9zBQ=="/>
-        </item>
-        <item>
-            <title>0.19.30</title>
-            <pubDate>Thu, 01 Oct 2026 20:16:09 +0200</pubDate>
-            <sparkle:version>1930</sparkle:version>
-            <sparkle:shortVersionString>0.19.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.30.dmg" length="38003173" type="application/octet-stream" sparkle:edSignature="9L+UzqbPfuRWK8+mmShQtXWXad/biqlCKTah/5PP3sE/QFEJb1e+W2aP4jswLp1J+i0aPKKjH5yCqu8LvoH1Cg=="/>
         </item>
     </channel>
 </rss>

@@ -3,46 +3,46 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.19.35</title>
+            <pubDate>Sun, 04 Oct 2026 14:04:37 +0200</pubDate>
+            <sparkle:version>1935</sparkle:version>
+            <sparkle:shortVersionString>0.19.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Jarvis 0.19.35</h2>
+<ul>
+  <li>Settings → Slack shows each way to connect with a small picture of how it
+      works, and says plainly that messages are never saved.</li>
+  <li>Setting up the Chrome extension is simpler: download it here, then follow
+      one step at a time. Click any step to go back or skip ahead.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.35.dmg" length="38647641" type="application/octet-stream" sparkle:edSignature="RMsOe7IwuNAm8yC3HvZuTfEFz6hieGIbL4LM485R08/eRdd7raZti/qYiAVpE/suS9cQ4DcZD0fXV+Z+mog2Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1935-1934.delta" sparkle:deltaFrom="1934" length="2163650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bXToznJggD17sFhhJy2Rs7A3JptK4qZzH3JaTaSV5PzJHLDoUGg+KOSEBLAZn1kEBu22yBORt29EitebTeCCDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1935-1933.delta" sparkle:deltaFrom="1933" length="2331522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MWlI4iyFZoMOQXnx4Hg0A418BYAVYx8UC53sWDS5x7npkU0InjULrlNXt0G7IQrumWVlgBbyFWtokGsYpLXCDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1935-1932.delta" sparkle:deltaFrom="1932" length="2543078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hptaOv2j9u8oUUC4668bN4eV1t2ST7bpncKv43vH5ZKi+FMrC6puKbD3WnNx4Su4OUj6OZDkxHuWJKO0q/rjAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1935-1931.delta" sparkle:deltaFrom="1931" length="2662026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="c6uvExm0FncC1irRyrAF4OJxE3FuEPp9nVOrWC5iIYZH4jnJaw7q0h30+1P67YohoBkHu+8JokB5/vyFV8eLCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1935-1930.delta" sparkle:deltaFrom="1930" length="2523306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XOYbJJzlTm4BfGR0GyrwgBj9YQ3j1F8JGvxqHBlYg06TKscxXZdvy76IUN+4Gg36zVqKUeDxJti6GnSUilphCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.19.34</title>
-            <pubDate>Sun, 04 Oct 2026 13:01:01 +0200</pubDate>
+            <pubDate>Sun, 04 Oct 2026 14:04:15 +0200</pubDate>
             <sparkle:version>1934</sparkle:version>
             <sparkle:shortVersionString>0.19.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.19.34</h2>
-<ul>
-  <li>Settings → Slack now shows both ways to connect side by side: the Slack
-      app, or the Jarvis Context extension for workspaces that block apps.</li>
-  <li>Setting up the extension now walks you through every step, from installing
-      it to pressing Connect in Slack, with a short animated guide.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.34.dmg" length="38467400" type="application/octet-stream" sparkle:edSignature="OpkXfvb9RoG7xP//hKYLHHBO5OsGlFZb/2YmVd5NiEXCfT2/oZQTjU+8Xbu5nhdvpbrcxR5JG/NiwZuv5JxnBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1934-1933.delta" sparkle:deltaFrom="1933" length="2081582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+mvgo7//BRpLdkCrDMc5XmzK+j0kZJkEDoXByD0bpPbU0IlxEhypd7Wz6hOFgLq7GB0iaGBQE2ylRyr+OuA8DA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1934-1932.delta" sparkle:deltaFrom="1932" length="2458366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+Gp0M+sNzuYHmU2qOxED0hcF+6/z/9zEQwk62zaBviP0r8HKFA0fMXJup7hlXlMyPXq54MqI4AwdSr1kpgYDDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1934-1931.delta" sparkle:deltaFrom="1931" length="2467358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ME2jHKx5ZnQBGuFXoAwvowdXOhJo5NAgsbwQvkIXvWHjgW6KAir+1YI+gpWjgjcM32KrnQDXkR10RMsDX/ZhCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1934-1930.delta" sparkle:deltaFrom="1930" length="2500134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Awy+4gWykAKBiIryihfOTTjJvL/BF2svEvH5ZHy/pNulkFc3ceLEJRkRemIH9+3kixhrBSSjxcc4NvKntctVDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis1934-1929.delta" sparkle:deltaFrom="1929" length="2611982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+G8ZVHQu0RsX3xBSjvCWvaMSzzATRPU9pFA/bDDJ27A6FoCd6I/+8h06S0bjOEka13LAFGRZT0F3iB0MwNi8BA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.19.33</title>
-            <pubDate>Sat, 03 Oct 2026 15:19:25 +0200</pubDate>
+            <pubDate>Sun, 04 Oct 2026 14:04:20 +0200</pubDate>
             <sparkle:version>1933</sparkle:version>
             <sparkle:shortVersionString>0.19.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.33.dmg" length="38294020" type="application/octet-stream" sparkle:edSignature="cVAjZtJV2/TfhRTsnHXqGYHOZ2gJYv1UWPIFHNnd9dRyU/BeGtpRBLOOLgJkk+nNwUO47nOimFADrYHzDWF4Bg=="/>
-        </item>
-        <item>
-            <title>0.19.32</title>
-            <pubDate>Sat, 03 Oct 2026 15:16:02 +0200</pubDate>
-            <sparkle:version>1932</sparkle:version>
-            <sparkle:shortVersionString>0.19.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.19.32.dmg" length="38013548" type="application/octet-stream" sparkle:edSignature="s1hTjlFt2xLalNFSEjb9t1jIrg2pYvgGF3P6eDkoBgrmzMv2GROFG/HKL0Ah+soKd/DiDmtnIc54aE5kLWXuBw=="/>
         </item>
     </channel>
 </rss>

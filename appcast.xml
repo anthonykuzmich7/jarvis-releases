@@ -3,33 +3,36 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.5</title>
+            <pubDate>Tue, 06 Oct 2026 13:40:02 +0200</pubDate>
+            <sparkle:version>2005</sparkle:version>
+            <sparkle:shortVersionString>0.20.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">New versions reach you within the hour.</p>
+<h2>Jarvis 0.20.5</h2>
+<ul>
+  <li>Jarvis now checks for updates every hour instead of once a day, so
+      the “New version” card in Focus shows up soon after a release.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.5.dmg" length="40395279" type="application/octet-stream" sparkle:edSignature="k/2MHVqRxclEkhLv6rykioxNgr8tSUYxM+mPnRXYSG3ypaDsF06m0l/TqX8NkGz19dlgJiWy434gZii9vBYECA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2005-2004.delta" sparkle:deltaFrom="2004" length="32046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LqVKXaay/pCZZu7xiHKG94onqOqLlanyoLmVr0nGc+M0ax9kvgi+eKvB1pylXIHFN/gj2tKy4o1qQShDk5ptCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2005-2003.delta" sparkle:deltaFrom="2003" length="2065390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lC8He/ln/3o2bxTf+YzApB46b0kcNnzFHFaeG9Xw74mvIJd5KrtFuLtMwRcUwOQeSd/6Fu4Ides/Ie6TckNoDQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2005-2002.delta" sparkle:deltaFrom="2002" length="2314278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rkdfT6Eba5Ck39buyx0jYloWDUAyTFdemhWkUhvS5d0Ypdsv1mFQ5woW1YOVrDPKFSb0zzNAhntNbUFIan3/BQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2005-2001.delta" sparkle:deltaFrom="2001" length="2450686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7erX50vxmNKhC6GHSe8Uso3kAf3siZkn11tluSwoQZj8dLxKAXf2rl1y6IVN6/f3244PEyvQwgT32IAoWh7LAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2005-2000.delta" sparkle:deltaFrom="2000" length="2788714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3j9XIOLdCPPGRREJAaX0aJalTi+6mhN83/P4uMcyEO2CZ/urK90kjMyURASkkI8uJaIZPDeRlLI5TM9dOOh9Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.4</title>
             <pubDate>Tue, 06 Oct 2026 13:27:28 +0200</pubDate>
             <sparkle:version>2004</sparkle:version>
             <sparkle:shortVersionString>0.20.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Add Jira when you first set up Jarvis.</p>
-<h2>Jarvis 0.20.4</h2>
-<ul>
-  <li>Jira is now one of the places you can pick when you first set up
-      Jarvis, next to Mail and Slack.</li>
-  <li>Settings → Jira has a Sync now button, so you no longer wait up to
-      15 minutes for new issues to show up.</li>
-  <li>A new “All my open issues” switch in Settings → Jira brings in every
-      open issue assigned to you, not only the recent and active ones.</li>
-  <li>Issues you finish in Jira now close in Focus even when you have a
-      very large backlog.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.4.dmg" length="40395140" type="application/octet-stream" sparkle:edSignature="wpjraOlCXF+kZb4x1cItwS7szh4BZjrWcRYaa16gCuzxlv1kVAACIOjbsljNYmKzihKizdX5VasTMoYRPFDcDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2003.delta" sparkle:deltaFrom="2003" length="2064694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4keE4ildS21Yi0oNH3ZIs0AzTBzr+hrpXK+LWYALHAoewG9MbD0E5tQH4QK5wOBeMKyreM/jQi36Ov72qJnsBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2002.delta" sparkle:deltaFrom="2002" length="2312754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HKwj1xunt4Tas60cqt2KNTIjhNv6MwIRp0VzhEjm2+GctjxnHbn4/ftyeRAvq+mT9D2EMvuhMW9KV6fu9MrDCA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2001.delta" sparkle:deltaFrom="2001" length="2448150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JTTdDqP6zi8+WZyGb65S3tEQCg0Vkq666JgE8hV0Ac6rxVtnuFTFN0pnRO1ce3nGqRb4q8m0E8zxW9sYGxHpCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2000.delta" sparkle:deltaFrom="2000" length="2783462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N24LC5R79SOmE40zjjr4r2n+XEGQiE60mHZAJlXJuScp5ltXLy1LWcKDinSHDNGErt9XuaYJUw+YQe+177P8DQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-1936.delta" sparkle:deltaFrom="1936" length="8850034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ge29ZLD80NduW/vH3VZp4tCEJEZC9YKMVnqlBLtNgnrG0fwHIvRUBuio8vSynyxAP7BKr6wWQbxuGOSQLA8DBQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.3</title>
@@ -39,15 +42,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.3.dmg" length="40362183" type="application/octet-stream" sparkle:edSignature="xKvgKHOtfuxYLssCVBzIn2gbd3pzHE22lLN+kmyhlONjdwk7O2WEh9x6IeOEhbFCRlAEk6JParsifZuItbh8AA=="/>
-        </item>
-        <item>
-            <title>0.20.2</title>
-            <pubDate>Tue, 06 Oct 2026 12:15:38 +0200</pubDate>
-            <sparkle:version>2002</sparkle:version>
-            <sparkle:shortVersionString>0.20.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.2.dmg" length="40283736" type="application/octet-stream" sparkle:edSignature="Kp7vL0Tg4RItckOxdBDLe/PSNDQhdpMST6TOTsJbuElCgAZKArfXa/Izy8WYj5PJiKLjGiOd3V8qgTduflA0CA=="/>
         </item>
     </channel>
 </rss>

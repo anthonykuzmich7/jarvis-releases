@@ -3,29 +3,39 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.3</title>
+            <pubDate>Tue, 06 Oct 2026 13:10:45 +0200</pubDate>
+            <sparkle:version>2003</sparkle:version>
+            <sparkle:shortVersionString>0.20.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">Updates now ask you right in Focus.</p>
+<h2>Jarvis 0.20.3</h2>
+<ul>
+  <li>When a new version of Jarvis has downloaded, Focus shows a small
+      “New version” card. Press Restart to update and Jarvis reopens on the
+      new version; press Later and it asks again tomorrow. It never shows
+      while a meeting is recording, and quitting Jarvis still installs the
+      update as before.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.3.dmg" length="40362183" type="application/octet-stream" sparkle:edSignature="xKvgKHOtfuxYLssCVBzIn2gbd3pzHE22lLN+kmyhlONjdwk7O2WEh9x6IeOEhbFCRlAEk6JParsifZuItbh8AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2002.delta" sparkle:deltaFrom="2002" length="2148622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nDyA5eE8CFUN9SqbCZO95z/yNCa6q/ichTUhukuEI0uPyXQV+/xZGG7kDPH0H3q8zA+zkpBQ6877TEMyt6YpCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2001.delta" sparkle:deltaFrom="2001" length="2223950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="axJSIOFmWvtan6iJE2zaj8j/6BgAxsyoKkV3XjeQsCy0hKPBlZJjIS1mnDcbIWSCfcDc+47vTa0z61AAdT55Bw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2000.delta" sparkle:deltaFrom="2000" length="2729698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9o4ncetoA/1zm7OlGqGYbbD37Pw9kNqG76t/RFcpW6vGlgVQhFg/9VcrdV2e5z7r42VXCi49X3e/SnDl0pcBAQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-1936.delta" sparkle:deltaFrom="1936" length="8818850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KGb17Ws+uHGxSVcvKa8YC1eN9/xpsnVNDWV6Gj/ldxllIDz3jWFKmQs5maWfG9yYVTsCt2Owp/Zfq6WbT/PcBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-1935.delta" sparkle:deltaFrom="1935" length="8830210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IXYZwoVJ+09bg/SbMh7Fh/jJ20kVKXAWoeDdhj0tAiq54h4uF8AxIcr74hSgXeWet2mJLDZeZ3KB49F7tcAYDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.2</title>
             <pubDate>Tue, 06 Oct 2026 12:15:38 +0200</pubDate>
             <sparkle:version>2002</sparkle:version>
             <sparkle:shortVersionString>0.20.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Jarvis 0.20.2</h2>
-<ul>
-  <li>Meetings: when only your microphone was recorded, the transcript now
-      says so — everyone your mic picked up through the speakers is labelled
-      You — with a link to check the System Audio Recording permission.
-      Jarvis also keeps the reason system audio stopped, so the problem can
-      be diagnosed.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.2.dmg" length="40283736" type="application/octet-stream" sparkle:edSignature="Kp7vL0Tg4RItckOxdBDLe/PSNDQhdpMST6TOTsJbuElCgAZKArfXa/Izy8WYj5PJiKLjGiOd3V8qgTduflA0CA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2002-2001.delta" sparkle:deltaFrom="2001" length="1724222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dz9bH9OyT9cgcgLrzDLshLN4q7uk2MZkuyqK0o1YWz2xkYl0Dc6jJyb2wIgf2EkAfanKcjrAgkpke/dr5TJQBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2002-2000.delta" sparkle:deltaFrom="2000" length="2572330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IL1NqT51t1SaEFyFhvYQvRc9CTEkBgH6+EAP7C+aNFUK/4qLLiFxDCBjW1zo9O9wgCHKVkFvkazAH9Hx9hOEDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2002-1936.delta" sparkle:deltaFrom="1936" length="8757866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9KWnh/Coj7NmQjsrPA0QhB1SwrcNixw+RURR7R2hjPXnsdzmRQuUbOqd6tNyNnfkw6m/tj6Hl0br4fvBquTBBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2002-1935.delta" sparkle:deltaFrom="1935" length="8787726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CPPd7touVINslBqJIsoIOXhGfYJAH5ZbR+lUi+Hb5cO2zu6axfCXwFR5lv7IC+/Hw9Hty1Cjir3JsrBmg/rkBA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2002-1934.delta" sparkle:deltaFrom="1934" length="8965102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hLrQ4GxVLFI1zDb6oH/2W+vrDile6EtUtQARRGfzakgzniQMmrNW65QZHBBGM6eXEiQbZ1/MUcscNsPXIoj9Dg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.1</title>
@@ -35,15 +45,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.1.dmg" length="40282345" type="application/octet-stream" sparkle:edSignature="AbqxvPR3vyvmTYtghf+n2OS0JJLBf2IjQEYQPIO0z63oMxs9oFBp/pjkfNioeIWOu6UG6ILPwPCYMknwa3ttAw=="/>
-        </item>
-        <item>
-            <title>0.20.0</title>
-            <pubDate>Mon, 05 Oct 2026 20:04:09 +0200</pubDate>
-            <sparkle:version>2000</sparkle:version>
-            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.0.dmg" length="40027982" type="application/octet-stream" sparkle:edSignature="2Z1Dukph2pwhu/eyXGmoFyl9hPhGbjVZoE48e7LlXua7nlBPqfjhZMzxUo7P19dX136C/fUWtla3PqsYEXjgBw=="/>
         </item>
     </channel>
 </rss>

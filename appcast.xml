@@ -3,30 +3,42 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.4</title>
+            <pubDate>Tue, 06 Oct 2026 13:27:28 +0200</pubDate>
+            <sparkle:version>2004</sparkle:version>
+            <sparkle:shortVersionString>0.20.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">Add Jira when you first set up Jarvis.</p>
+<h2>Jarvis 0.20.4</h2>
+<ul>
+  <li>Jira is now one of the places you can pick when you first set up
+      Jarvis, next to Mail and Slack.</li>
+  <li>Settings → Jira has a Sync now button, so you no longer wait up to
+      15 minutes for new issues to show up.</li>
+  <li>A new “All my open issues” switch in Settings → Jira brings in every
+      open issue assigned to you, not only the recent and active ones.</li>
+  <li>Issues you finish in Jira now close in Focus even when you have a
+      very large backlog.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.4.dmg" length="40395140" type="application/octet-stream" sparkle:edSignature="wpjraOlCXF+kZb4x1cItwS7szh4BZjrWcRYaa16gCuzxlv1kVAACIOjbsljNYmKzihKizdX5VasTMoYRPFDcDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2003.delta" sparkle:deltaFrom="2003" length="2064694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4keE4ildS21Yi0oNH3ZIs0AzTBzr+hrpXK+LWYALHAoewG9MbD0E5tQH4QK5wOBeMKyreM/jQi36Ov72qJnsBw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2002.delta" sparkle:deltaFrom="2002" length="2312754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HKwj1xunt4Tas60cqt2KNTIjhNv6MwIRp0VzhEjm2+GctjxnHbn4/ftyeRAvq+mT9D2EMvuhMW9KV6fu9MrDCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2001.delta" sparkle:deltaFrom="2001" length="2448150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JTTdDqP6zi8+WZyGb65S3tEQCg0Vkq666JgE8hV0Ac6rxVtnuFTFN0pnRO1ce3nGqRb4q8m0E8zxW9sYGxHpCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-2000.delta" sparkle:deltaFrom="2000" length="2783462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N24LC5R79SOmE40zjjr4r2n+XEGQiE60mHZAJlXJuScp5ltXLy1LWcKDinSHDNGErt9XuaYJUw+YQe+177P8DQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2004-1936.delta" sparkle:deltaFrom="1936" length="8850034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ge29ZLD80NduW/vH3VZp4tCEJEZC9YKMVnqlBLtNgnrG0fwHIvRUBuio8vSynyxAP7BKr6wWQbxuGOSQLA8DBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.3</title>
             <pubDate>Tue, 06 Oct 2026 13:10:45 +0200</pubDate>
             <sparkle:version>2003</sparkle:version>
             <sparkle:shortVersionString>0.20.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Updates now ask you right in Focus.</p>
-<h2>Jarvis 0.20.3</h2>
-<ul>
-  <li>When a new version of Jarvis has downloaded, Focus shows a small
-      “New version” card. Press Restart to update and Jarvis reopens on the
-      new version; press Later and it asks again tomorrow. It never shows
-      while a meeting is recording, and quitting Jarvis still installs the
-      update as before.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.3.dmg" length="40362183" type="application/octet-stream" sparkle:edSignature="xKvgKHOtfuxYLssCVBzIn2gbd3pzHE22lLN+kmyhlONjdwk7O2WEh9x6IeOEhbFCRlAEk6JParsifZuItbh8AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2002.delta" sparkle:deltaFrom="2002" length="2148622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nDyA5eE8CFUN9SqbCZO95z/yNCa6q/ichTUhukuEI0uPyXQV+/xZGG7kDPH0H3q8zA+zkpBQ6877TEMyt6YpCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2001.delta" sparkle:deltaFrom="2001" length="2223950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="axJSIOFmWvtan6iJE2zaj8j/6BgAxsyoKkV3XjeQsCy0hKPBlZJjIS1mnDcbIWSCfcDc+47vTa0z61AAdT55Bw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-2000.delta" sparkle:deltaFrom="2000" length="2729698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9o4ncetoA/1zm7OlGqGYbbD37Pw9kNqG76t/RFcpW6vGlgVQhFg/9VcrdV2e5z7r42VXCi49X3e/SnDl0pcBAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-1936.delta" sparkle:deltaFrom="1936" length="8818850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KGb17Ws+uHGxSVcvKa8YC1eN9/xpsnVNDWV6Gj/ldxllIDz3jWFKmQs5maWfG9yYVTsCt2Owp/Zfq6WbT/PcBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2003-1935.delta" sparkle:deltaFrom="1935" length="8830210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IXYZwoVJ+09bg/SbMh7Fh/jJ20kVKXAWoeDdhj0tAiq54h4uF8AxIcr74hSgXeWet2mJLDZeZ3KB49F7tcAYDg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.2</title>
@@ -36,15 +48,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.2.dmg" length="40283736" type="application/octet-stream" sparkle:edSignature="Kp7vL0Tg4RItckOxdBDLe/PSNDQhdpMST6TOTsJbuElCgAZKArfXa/Izy8WYj5PJiKLjGiOd3V8qgTduflA0CA=="/>
-        </item>
-        <item>
-            <title>0.20.1</title>
-            <pubDate>Mon, 05 Oct 2026 23:42:27 +0200</pubDate>
-            <sparkle:version>2001</sparkle:version>
-            <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.1.dmg" length="40282345" type="application/octet-stream" sparkle:edSignature="AbqxvPR3vyvmTYtghf+n2OS0JJLBf2IjQEYQPIO0z63oMxs9oFBp/pjkfNioeIWOu6UG6ILPwPCYMknwa3ttAw=="/>
         </item>
     </channel>
 </rss>

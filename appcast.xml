@@ -3,44 +3,44 @@
     <channel>
         <title>Jarvis</title>
         <item>
-            <title>0.20.10</title>
-            <pubDate>Wed, 07 Oct 2026 23:58:42 +0200</pubDate>
-            <sparkle:version>2010</sparkle:version>
-            <sparkle:shortVersionString>0.20.10</sparkle:shortVersionString>
+            <title>0.20.11</title>
+            <pubDate>Thu, 08 Oct 2026 09:15:09 +0200</pubDate>
+            <sparkle:version>2011</sparkle:version>
+            <sparkle:shortVersionString>0.20.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<p class="jarvis-headline">Faster, smarter AI engine.</p>
-<h2>Jarvis 0.20.10</h2>
+<h2>Jarvis 0.20.11</h2>
 <ul>
   <li>AI engine improvements and performance optimizations.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.10.dmg" length="62502939" type="application/octet-stream" sparkle:edSignature="NOIEjkh5mb4wFFBweESePeJZxPaxnf3NKOarJtBv7lRRKrKoSLeSCEIKVkldYrjpLhhLZo2zCqSkqrYcMPdNAQ=="/>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.11.dmg" length="62524381" type="application/octet-stream" sparkle:edSignature="HA6AueJG9JeGdohJRERX1HFRhEUdfOqeFpQW/6cr/Yt/BAA4dMexdQGcmMmYZgbM3ETWe8XmjGzReTaStz+JDg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2010-2009.delta" sparkle:deltaFrom="2009" length="16206366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KRQiFmns0xpg5qFJzSMaTT5fISEUCCLB1cf0RwSl8a82SxOSqm0FnATokdnLaCf5VCildHncSmk3uFWAWmfKCQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2010-2008.delta" sparkle:deltaFrom="2008" length="16537706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LIrm/oD+lr3s/UffbxivietYL5DEQ4h62xopIorfLZPLb8xcoNce1Usd13/mBOrS77bhWyJzDFCwy8r1eQF1DQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2010-2007.delta" sparkle:deltaFrom="2007" length="16623802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WFaT+CrLQnvGUPMcA8SSn3qS8Vmcz1jRTDYH/jNSsKReUnWu1ZEOpRo91eQ5gn0ACVrtXlVwGInd5CuztlCqBg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2010-2006.delta" sparkle:deltaFrom="2006" length="17582166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7QoILuaYpojGvyoZSVu+JSwiBnqwr9NSDxWOK/ZyVbGf5gJCPfv+gfkBc3AUs8BOFW66i9fyBtgQ1jquzHfLCA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2010-2005.delta" sparkle:deltaFrom="2005" length="17592522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qa1BzStjDSSo835Eb/jA8XjMtQ6LfhbGRTBsJtkOp4N//cKKVv/hxbNzTQD1VaynyxWiH1yCdJ2X9jfaJsKACg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2010.delta" sparkle:deltaFrom="2010" length="4738678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8b7lk4ZyxGZS4vnYoDzP88r4ZNKBI+LxXCUC+Lh088+r+WvL6WcMDpoNx6CXnHAtCtZH4aTmMStjdHkFpeDHDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2009.delta" sparkle:deltaFrom="2009" length="16361074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vbqxJisskLTdJg2ECMx4XNms5tEUps8bXhTQQdnMNv0atjt1W6XW8T0JxPIcmqRLGVRg6tiOrX4CbtPe+5kWCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2008.delta" sparkle:deltaFrom="2008" length="16656422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mugbp9LoH1PpPX2AzP8TiNPWKuBoKca6DJ9eFCkghebuX6vTzSpmu3TMs36sqkDAFSF6zNnqbKp8Sqd19thADg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2007.delta" sparkle:deltaFrom="2007" length="16696506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="17u/DhI57hi6T3V2Oefmd4o9XA4xlNNGw1/uxeMofF7Bhy7SqFInpoSH1F/zFvJT0NyBxdMCiJis3omKAawOCA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2006.delta" sparkle:deltaFrom="2006" length="17632198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0wg1lcZNTGMxlHEqSIt11nlmiKgk2+6eQtckmVUvRR8qGXLwnTqC7oapZT3AuGkVmUaRbliTHEnfIl83zXzKBQ=="/>
             </sparkle:deltas>
         </item>
         <item>
+            <title>0.20.10</title>
+            <pubDate>Thu, 08 Oct 2026 09:14:44 +0200</pubDate>
+            <sparkle:version>2010</sparkle:version>
+            <sparkle:shortVersionString>0.20.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.10.dmg" length="62502939" type="application/octet-stream" sparkle:edSignature="NOIEjkh5mb4wFFBweESePeJZxPaxnf3NKOarJtBv7lRRKrKoSLeSCEIKVkldYrjpLhhLZo2zCqSkqrYcMPdNAQ=="/>
+        </item>
+        <item>
             <title>0.20.9</title>
-            <pubDate>Wed, 07 Oct 2026 23:58:18 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 09:14:50 +0200</pubDate>
             <sparkle:version>2009</sparkle:version>
             <sparkle:shortVersionString>0.20.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.9.dmg" length="42326075" type="application/octet-stream" sparkle:edSignature="wIBbbdi4c+VX4a4LeaFLK5JfNSeYHgV1n/D/qmFRbsIxMFtXLCLrwheQXbI7Ops2s1OsBFETii1h0Lm/z4AUCA=="/>
-        </item>
-        <item>
-            <title>0.20.8</title>
-            <pubDate>Wed, 07 Oct 2026 23:58:23 +0200</pubDate>
-            <sparkle:version>2008</sparkle:version>
-            <sparkle:shortVersionString>0.20.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.8.dmg" length="42086848" type="application/octet-stream" sparkle:edSignature="fLLo4mb9S1kpKIxplV15gvNE7UnO9c53S9S1d6Ji5uG/RLMVd4Adl0q+IlrWxRD+/qqbeSqb8weJv0lFQ6qRAA=="/>
         </item>
     </channel>
 </rss>

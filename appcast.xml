@@ -3,44 +3,47 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.12</title>
+            <pubDate>Thu, 08 Oct 2026 16:58:15 +0200</pubDate>
+            <sparkle:version>2012</sparkle:version>
+            <sparkle:shortVersionString>0.20.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">Smarter tasks, lighter on your Mac.</p>
+<h2>Jarvis 0.20.12</h2>
+<ul>
+  <li>Jarvis now uses newer Claude models for finding tasks, writing your Focus line and reading email and meetings.</li>
+  <li>Rules you type, like "anything from Anna is urgent", now reliably raise that person's tasks.</li>
+  <li>A note with two tasks in it now keeps both.</li>
+  <li>The on-device AI engine is paused for now, so Jarvis no longer downloads a large model.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.12.dmg" length="62675247" type="application/octet-stream" sparkle:edSignature="xjf+ct8Uktbot3MBjviTQmrG8NH+E3Ii2DFIOBiY3Wi/sRoVtfnGHEfU1R/d6JQISRRdVsXbKvvWh7jMvSuVBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2011.delta" sparkle:deltaFrom="2011" length="5786586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cjsO4+2444co4GDwd9PRnVFlysIxilf9WlKYMDx7gXaZDXBs4ugvoRL1igaQMzmKfG50yaRaq1BDqTb5He61Dg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2010.delta" sparkle:deltaFrom="2010" length="5796522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/qU+4tKwAi2dpqvJjjPrlZSkwruNmkwNR4xoIJ+879Gkzit52N55i0SHndD2kUzY/nLnPbqcd/tz+kmLpf0NCw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2009.delta" sparkle:deltaFrom="2009" length="16525010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P+m5/sWeVsAWzTJYEys/83zkTbedrEScUmPBsHx+o9eN0jgX4hbgeSiB0z00j5JiF9o7GWf4tkvLYRvBy1e7Bg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2008.delta" sparkle:deltaFrom="2008" length="16835238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0gKQRe3EEV0s8tNin71yh86eCxEvP52mpzfW4nJ/kbvXywjuhhqamihVVO6iUTGc1r3vC8CFcwharhr2PyeUAg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2007.delta" sparkle:deltaFrom="2007" length="16972714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5KpoTv72ei9+l+179M+WnnLKIeacDnSuEda1k1NNrvMxZTpbjIpU2zlnP/v0CuI/KmRLR28w8BWdK4MzfSA9Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.11</title>
-            <pubDate>Thu, 08 Oct 2026 09:15:09 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 16:57:46 +0200</pubDate>
             <sparkle:version>2011</sparkle:version>
             <sparkle:shortVersionString>0.20.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Faster, smarter AI engine.</p>
-<h2>Jarvis 0.20.11</h2>
-<ul>
-  <li>AI engine improvements and performance optimizations.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.11.dmg" length="62524381" type="application/octet-stream" sparkle:edSignature="HA6AueJG9JeGdohJRERX1HFRhEUdfOqeFpQW/6cr/Yt/BAA4dMexdQGcmMmYZgbM3ETWe8XmjGzReTaStz+JDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2010.delta" sparkle:deltaFrom="2010" length="4738678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8b7lk4ZyxGZS4vnYoDzP88r4ZNKBI+LxXCUC+Lh088+r+WvL6WcMDpoNx6CXnHAtCtZH4aTmMStjdHkFpeDHDA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2009.delta" sparkle:deltaFrom="2009" length="16361074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vbqxJisskLTdJg2ECMx4XNms5tEUps8bXhTQQdnMNv0atjt1W6XW8T0JxPIcmqRLGVRg6tiOrX4CbtPe+5kWCg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2008.delta" sparkle:deltaFrom="2008" length="16656422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mugbp9LoH1PpPX2AzP8TiNPWKuBoKca6DJ9eFCkghebuX6vTzSpmu3TMs36sqkDAFSF6zNnqbKp8Sqd19thADg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2007.delta" sparkle:deltaFrom="2007" length="16696506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="17u/DhI57hi6T3V2Oefmd4o9XA4xlNNGw1/uxeMofF7Bhy7SqFInpoSH1F/zFvJT0NyBxdMCiJis3omKAawOCA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2011-2006.delta" sparkle:deltaFrom="2006" length="17632198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0wg1lcZNTGMxlHEqSIt11nlmiKgk2+6eQtckmVUvRR8qGXLwnTqC7oapZT3AuGkVmUaRbliTHEnfIl83zXzKBQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.10</title>
-            <pubDate>Thu, 08 Oct 2026 09:14:44 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 16:57:53 +0200</pubDate>
             <sparkle:version>2010</sparkle:version>
             <sparkle:shortVersionString>0.20.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.10.dmg" length="62502939" type="application/octet-stream" sparkle:edSignature="NOIEjkh5mb4wFFBweESePeJZxPaxnf3NKOarJtBv7lRRKrKoSLeSCEIKVkldYrjpLhhLZo2zCqSkqrYcMPdNAQ=="/>
-        </item>
-        <item>
-            <title>0.20.9</title>
-            <pubDate>Thu, 08 Oct 2026 09:14:50 +0200</pubDate>
-            <sparkle:version>2009</sparkle:version>
-            <sparkle:shortVersionString>0.20.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.9.dmg" length="42326075" type="application/octet-stream" sparkle:edSignature="wIBbbdi4c+VX4a4LeaFLK5JfNSeYHgV1n/D/qmFRbsIxMFtXLCLrwheQXbI7Ops2s1OsBFETii1h0Lm/z4AUCA=="/>
         </item>
     </channel>
 </rss>

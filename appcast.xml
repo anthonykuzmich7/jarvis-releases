@@ -3,47 +3,47 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.13</title>
+            <pubDate>Thu, 08 Oct 2026 18:44:59 +0200</pubDate>
+            <sparkle:version>2013</sparkle:version>
+            <sparkle:shortVersionString>0.20.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">See what Jarvis is thinking.</p>
+<h2>Jarvis 0.20.13</h2>
+<ul>
+  <li>The owl glows while Jarvis looks for tasks. Click it to see what he is reading right now.</li>
+  <li>"See everything" shows each step in plain words: where he searched, what he read, what he thought, and the tasks he found.</li>
+  <li>Settings now opens from the gear next to the date on Focus.</li>
+  <li>The "Your context" history screen is gone. Your rules are still in Settings → Tasks.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.13.dmg" length="62606754" type="application/octet-stream" sparkle:edSignature="7HOnEouJ8VTeQKbxGkVBPO6hFWvorEZVa6CmlVq8vOm6hUr0uNFged/rIWKO7cJjvmyBV3HfShAwe7LG8/oxBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2013-2012.delta" sparkle:deltaFrom="2012" length="5725394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YQT58PVF6FOJXdXweBqZ8THcyusJLArMMkTHMXeff6EZgE1lK5i9jkQuZ9ocSRCzHwCrXGU1lueDbZKuZ2Y2Dw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2013-2011.delta" sparkle:deltaFrom="2011" length="6149130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EHskuRO5IrGWwoDOfowCkP7ProB8SpCdvG7GFvJegr8KuX1qasDD3oz8j038/gsdZInt7XswQPsVOEKYNdMfBA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2013-2010.delta" sparkle:deltaFrom="2010" length="6202410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTq7FiYacc0Xg0YTGg6Hn2qcb09E+fknoDzWml7FaGtwWmZWBRnw8KS56xnzANlRUnJtySTff2k3wllOszjRCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2013-2009.delta" sparkle:deltaFrom="2009" length="16773998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4v5LcIRRN74Mtt2Y4vXKSL9ABszaMYkinLeZMHDSpgGGrDSEeMHXwvDf03yYumkKGyZC1sq0Fu6sYnGKc+gbDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2013-2008.delta" sparkle:deltaFrom="2008" length="17144874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IaJ6gPCSNo5wtmcuwbe0/blMLw3Jh4EQZuqH9v6mnuygxf1WoAnlOP6TL+HEelUYsEAJAe+3FKwxOVYDlSlJCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.12</title>
-            <pubDate>Thu, 08 Oct 2026 16:58:15 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 18:41:10 +0200</pubDate>
             <sparkle:version>2012</sparkle:version>
             <sparkle:shortVersionString>0.20.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Smarter tasks, lighter on your Mac.</p>
-<h2>Jarvis 0.20.12</h2>
-<ul>
-  <li>Jarvis now uses newer Claude models for finding tasks, writing your Focus line and reading email and meetings.</li>
-  <li>Rules you type, like "anything from Anna is urgent", now reliably raise that person's tasks.</li>
-  <li>A note with two tasks in it now keeps both.</li>
-  <li>The on-device AI engine is paused for now, so Jarvis no longer downloads a large model.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.12.dmg" length="62675247" type="application/octet-stream" sparkle:edSignature="xjf+ct8Uktbot3MBjviTQmrG8NH+E3Ii2DFIOBiY3Wi/sRoVtfnGHEfU1R/d6JQISRRdVsXbKvvWh7jMvSuVBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2011.delta" sparkle:deltaFrom="2011" length="5786586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cjsO4+2444co4GDwd9PRnVFlysIxilf9WlKYMDx7gXaZDXBs4ugvoRL1igaQMzmKfG50yaRaq1BDqTb5He61Dg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2010.delta" sparkle:deltaFrom="2010" length="5796522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/qU+4tKwAi2dpqvJjjPrlZSkwruNmkwNR4xoIJ+879Gkzit52N55i0SHndD2kUzY/nLnPbqcd/tz+kmLpf0NCw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2009.delta" sparkle:deltaFrom="2009" length="16525010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P+m5/sWeVsAWzTJYEys/83zkTbedrEScUmPBsHx+o9eN0jgX4hbgeSiB0z00j5JiF9o7GWf4tkvLYRvBy1e7Bg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2008.delta" sparkle:deltaFrom="2008" length="16835238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0gKQRe3EEV0s8tNin71yh86eCxEvP52mpzfW4nJ/kbvXywjuhhqamihVVO6iUTGc1r3vC8CFcwharhr2PyeUAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2012-2007.delta" sparkle:deltaFrom="2007" length="16972714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5KpoTv72ei9+l+179M+WnnLKIeacDnSuEda1k1NNrvMxZTpbjIpU2zlnP/v0CuI/KmRLR28w8BWdK4MzfSA9Ag=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.11</title>
-            <pubDate>Thu, 08 Oct 2026 16:57:46 +0200</pubDate>
+            <pubDate>Thu, 08 Oct 2026 18:41:10 +0200</pubDate>
             <sparkle:version>2011</sparkle:version>
             <sparkle:shortVersionString>0.20.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.11.dmg" length="62524381" type="application/octet-stream" sparkle:edSignature="HA6AueJG9JeGdohJRERX1HFRhEUdfOqeFpQW/6cr/Yt/BAA4dMexdQGcmMmYZgbM3ETWe8XmjGzReTaStz+JDg=="/>
-        </item>
-        <item>
-            <title>0.20.10</title>
-            <pubDate>Thu, 08 Oct 2026 16:57:53 +0200</pubDate>
-            <sparkle:version>2010</sparkle:version>
-            <sparkle:shortVersionString>0.20.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.10.dmg" length="62502939" type="application/octet-stream" sparkle:edSignature="NOIEjkh5mb4wFFBweESePeJZxPaxnf3NKOarJtBv7lRRKrKoSLeSCEIKVkldYrjpLhhLZo2zCqSkqrYcMPdNAQ=="/>
         </item>
     </channel>
 </rss>

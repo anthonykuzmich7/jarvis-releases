@@ -3,45 +3,46 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.20</title>
+            <pubDate>Fri, 09 Oct 2026 15:13:28 +0200</pubDate>
+            <sparkle:version>2020</sparkle:version>
+            <sparkle:shortVersionString>0.20.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">Meeting summaries point out what matters.</p>
+<h2>Jarvis 0.20.20</h2>
+<ul>
+  <li>The crucial points in a meeting summary are underlined, the same way Focus marks your tasks.</li>
+  <li>"In Focus" next to one of your next steps opens that task.</li>
+  <li>Renaming a speaker shows that it's working, and the people row lines up.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.20.dmg" length="62790044" type="application/octet-stream" sparkle:edSignature="QpXsz1UvpiZv8x8jhVjubLCwV73lWOXBgxOI7YxNOnmwOxkvVCjJUVYb69WtlprE5g/VEnWDNxgmR15iTOxVBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2020-2019.delta" sparkle:deltaFrom="2019" length="4619266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P3Dn3vgA50zBp90TBY1I7lOGrjiwBXKkBUModoAc5KIKbP3+VSdUmZ29umBKNKje9bpWV86w9EzhTT4ubzODAw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2020-2018.delta" sparkle:deltaFrom="2018" length="4678482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DjIQlxJ0sEpQBUEY0kEAsUeZ2dPSACl2Hy2zaWVewZ+4RKal5XytWf5XIQxR3f6MFUWt1e6aRZlJGIBkWNESBQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2020-2017.delta" sparkle:deltaFrom="2017" length="5136558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WRbJWYPSpeRQ4oVi8vfWS1hfaVwDrtBJu3I3nNCSQdVe+ml8mpN1UJNsvHU/Z93/b0CbCkEx2n0/on9xMNo8Aw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2020-2016.delta" sparkle:deltaFrom="2016" length="5675514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K4vgUJGOG8pUwxZwSoKtX9QZ2iKA9zlxfAQPNgpprBgRB7HkNurS0zb7nW65BzO596rZ2QVQ3zPwTMHOVRTTCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2020-2015.delta" sparkle:deltaFrom="2015" length="5642326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OPPk8F0PdPRaZ5e3iUuV5s00W/txnfPLCybBm5FLj6k+GYquMnFG4/uIdUr1xHy+4DTYJFNYS2ajmMFuMcTuDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.19</title>
-            <pubDate>Fri, 09 Oct 2026 14:19:04 +0200</pubDate>
+            <pubDate>Fri, 09 Oct 2026 15:10:11 +0200</pubDate>
             <sparkle:version>2019</sparkle:version>
             <sparkle:shortVersionString>0.20.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Meetings take their calendar event's name.</p>
-<h2>Jarvis 0.20.19</h2>
-<ul>
-  <li>A call you record during a calendar event is named after the event, like "Growth Team", instead of "Google Chrome meeting".</li>
-  <li>Meetings you already recorded are renamed the next time Jarvis starts.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.19.dmg" length="62761915" type="application/octet-stream" sparkle:edSignature="33p5hGXLRYDkz6rGAZA519xAE/j3k3MdL3WiYr/mmtxglQUvPTYd9TGdOQnLMd2lHlaxHNbtT5rgvHPwczPoBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2019-2018.delta" sparkle:deltaFrom="2018" length="2542890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Srf6tHH+MHgQv0DRAbTovwVBaqawn+y+uVrJMR3Zmfk2f8/sOmjIk1vfqcWv+iCI/TlKzgeTTztenKxviTJSDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2019-2017.delta" sparkle:deltaFrom="2017" length="3445794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3R7wSfnNJBsWaJ4aR+qAurFlChxz+HqCagDnfY8Sh6fvtaBD+iMRhNiNxQDE+JKq7FyNCirHryyZeJbJtvA7Bg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2019-2016.delta" sparkle:deltaFrom="2016" length="5526014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yRpgQfPdC4LEM6dGYeqet55m5lHgKukomcxa2LJvxI20D17gkvut+rR3RraNQ38T5G8UwpXjBVL3lFGgMH4eAQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2019-2015.delta" sparkle:deltaFrom="2015" length="5695130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vCwdqsoEgpeG9FxuXHKjuAxQi9/K73RJ54lJpf9GREVrnLy1fglPJIJLE5wi0app/cj0CQ+uf/1MZrE+Gcj9Ag=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2019-2014.delta" sparkle:deltaFrom="2014" length="5538746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jD35XPFNtz6iHRcCLhK5m8kVRPUYPfrfCPSiTrCgAaGXeu9l540pTbruYRtOLoq0ca647bMfsER5pZewfl22Dg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.18</title>
-            <pubDate>Fri, 09 Oct 2026 14:15:47 +0200</pubDate>
+            <pubDate>Fri, 09 Oct 2026 15:10:11 +0200</pubDate>
             <sparkle:version>2018</sparkle:version>
             <sparkle:shortVersionString>0.20.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.18.dmg" length="62757335" type="application/octet-stream" sparkle:edSignature="bLleAlmcFmqvptB19Cx8DwKQBrT66LKHFiaFUgstCA9wFou7vIem50TJXefU4KEQ7KW1Z83Z/tnMex8DQCzzBg=="/>
-        </item>
-        <item>
-            <title>0.20.17</title>
-            <pubDate>Fri, 09 Oct 2026 14:15:47 +0200</pubDate>
-            <sparkle:version>2017</sparkle:version>
-            <sparkle:shortVersionString>0.20.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.17.dmg" length="62726347" type="application/octet-stream" sparkle:edSignature="G2B0wQyQpB9b+64MkjfQ28SC8VhT2S+uc5iX8T1c9Y8p4X7VNS9eyLYh1wMdv0sz3VmWE7OI/ZUvRMBGTCr9Bw=="/>
         </item>
     </channel>
 </rss>

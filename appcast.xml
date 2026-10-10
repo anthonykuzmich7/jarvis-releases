@@ -3,46 +3,44 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.23</title>
+            <pubDate>Sat, 10 Oct 2026 16:54:06 +0200</pubDate>
+            <sparkle:version>2023</sparkle:version>
+            <sparkle:shortVersionString>0.20.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">A forgotten recording stops sooner.</p>
+<h2>Jarvis 0.20.23</h2>
+<ul>
+  <li>When Jarvis asks "Meeting over?" and nobody answers or speaks, it now stops and saves the notes 5 minutes later, instead of 10.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.23.dmg" length="62904513" type="application/octet-stream" sparkle:edSignature="RpAfvVA7Gi9ICf1CD4WwJHr+qFGu+gs+mIxbEYPklN8M2F2FgRb+/gn9Qn5/skUcnUUbOM2u2Vc+ryoMMjSEDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2023-2022.delta" sparkle:deltaFrom="2022" length="57758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PgwDCn4H5PjaEOnhdZYDNVoNH0a02CPU4wCT3+h/qtPYeYId3jHwdr+6O58St2VohGuzb7EDBfrbNpjZKWnACQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2023-2021.delta" sparkle:deltaFrom="2021" length="5241674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6cXWmc5pP8gGHrGLjbiPmL9/+2OtrcgX51GunQOzLwHg8JpWdytnFverz+6ZBHpRm7MxmqtarJRDLqLeTIB9Cg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2023-2020.delta" sparkle:deltaFrom="2020" length="5359090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GQcLVjDzqBhHxsxlTZJprMD8RFpt5c6AHf57Hpw6OEsnepY4vE8HOaAp/oH3EGRD+zxKBgdHb6ANwB3ioe4eCQ=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2023-2019.delta" sparkle:deltaFrom="2019" length="5571814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="D/raOVDyBVM99lc50aDWdtkE1yczAXuduqbvpF1B7WnS33Po9XS2IFfcrKzeMPOEtdPw4LmWhtTQAJQqPxELCg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2023-2018.delta" sparkle:deltaFrom="2018" length="5375374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rL3NltT/eYyfg0WvSISFq8D1Vk3TbJsYnF6XKKQ3tqSdxhqKcfnK8SY5dps6XTRh4bqJRXGo85GUwVgmuo6GDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.22</title>
-            <pubDate>Sat, 10 Oct 2026 16:36:25 +0200</pubDate>
+            <pubDate>Sat, 10 Oct 2026 16:50:56 +0200</pubDate>
             <sparkle:version>2022</sparkle:version>
             <sparkle:shortVersionString>0.20.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Jarvis asks to take notes where you'll see it.</p>
-<h2>Jarvis 0.20.22</h2>
-<ul>
-  <li>"Take notes" is now a bigger pill in the top-right corner, with Jarvis's owl and one round button to start.</li>
-  <li>While recording, the pill shows the owl, the voices on the call and the time. After you stop, "Saved ›" opens your notes.</li>
-  <li>If nobody has spoken for 5 minutes, Jarvis asks "Meeting over?". Still silent after 15 minutes, it stops and saves the notes.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.22.dmg" length="62904517" type="application/octet-stream" sparkle:edSignature="HERsGxrDUrQj9TLc87pKOmnKcinRkkEXpUFSYbOcLQywsPOiR7bye+U3KyTj5vaPapNrVChe/P+UIVrK+VakDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2022-2021.delta" sparkle:deltaFrom="2021" length="5273202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rElIcdc/fys94X9XRAo5yjWcMoUyALI8N9KvFeKo4YzUIQin4ZebwPlbbBXIDrJFubuX5lLpO9a/7WGILxkeDg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2022-2020.delta" sparkle:deltaFrom="2020" length="5374986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="McvfojOstFmnGVmUk7bOpm6g5UgeeElGzYtasd3D5AvGpN/Rc+lN2RxiVX7lsnr+vMRsSFS0ZRTxpN6DmOnmDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2022-2019.delta" sparkle:deltaFrom="2019" length="5540058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T118rafwenqFvlLlvL/gj9JmLzNuZo50aHvoU5bUbPRAWqtIht/BWp4EvdgudQ1CS6jl24QmrCUgzhIfCFgqBg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2022-2018.delta" sparkle:deltaFrom="2018" length="5399222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ftkdbWB5i/n8DbJ7RI+8hNHmiN9Ck7H2VtQG9A1rXJI8C8rTdIWGcIuQ9BPQrHx1hcCXod+O2a0UlL2wAGspAA=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2022-2017.delta" sparkle:deltaFrom="2017" length="5732398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="76rvolYD8737ZeMHCBGxVWzY89b1WThFWN1h+ORZV16Kv9ojpp0ZmPIQvTTlLEBilJ8qJhA8sQG+LWVFuVVVCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.21</title>
-            <pubDate>Sat, 10 Oct 2026 16:32:54 +0200</pubDate>
+            <pubDate>Sat, 10 Oct 2026 16:50:56 +0200</pubDate>
             <sparkle:version>2021</sparkle:version>
             <sparkle:shortVersionString>0.20.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.21.dmg" length="62800471" type="application/octet-stream" sparkle:edSignature="YIjH1eNQwd8meyaehd6825hF9LkrhQSFr/cvy4WwpNzH27zeJSlhrFRW+f3/xAlW9ULh3tbN5wtvtGiIvJ48Cg=="/>
-        </item>
-        <item>
-            <title>0.20.20</title>
-            <pubDate>Sat, 10 Oct 2026 16:32:54 +0200</pubDate>
-            <sparkle:version>2020</sparkle:version>
-            <sparkle:shortVersionString>0.20.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.20.dmg" length="62790044" type="application/octet-stream" sparkle:edSignature="QpXsz1UvpiZv8x8jhVjubLCwV73lWOXBgxOI7YxNOnmwOxkvVCjJUVYb69WtlprE5g/VEnWDNxgmR15iTOxVBA=="/>
         </item>
     </channel>
 </rss>

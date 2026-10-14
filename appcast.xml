@@ -3,45 +3,49 @@
     <channel>
         <title>Jarvis</title>
         <item>
+            <title>0.20.27</title>
+            <pubDate>Wed, 14 Oct 2026 19:43:15 +0200</pubDate>
+            <sparkle:version>2027</sparkle:version>
+            <sparkle:shortVersionString>0.20.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p class="jarvis-headline">Meeting transcripts spell names right.</p>
+<h2>Jarvis 0.20.27</h2>
+<ul>
+  <li>Transcripts now spell the names of the people in your meeting, your contacts and your products correctly, using a small extra model on this Mac. Add your own in Settings → Meetings → "Words Jarvis should know".</li>
+  <li>Every meeting is now transcribed from the whole recording after the call, which is more accurate than the live preview.</li>
+  <li>On a call without headphones, the other side's voice coming out of your speakers is removed from your microphone before it is transcribed, so their words no longer show up as yours.</li>
+  <li>Speaker names from the Google Meet extension now attach to each voice more reliably, including short replies and quick turn-taking.</li>
+  <li>Stray "&lt;unk&gt;" marks no longer appear in transcripts.</li>
+</ul>
+<p>Everything still happens on your Mac. Audio never leaves it.</p>
+]]></description>
+            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.27.dmg" length="63136151" type="application/octet-stream" sparkle:edSignature="ddUeB+Ztn9ma+iMgKvKa0z1Ip5Tor4VdhJS6ZhY/CNt1XQIwB5k729kExRkHqNV2+wdFDsjab1SS9d2AZZ3SBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2027-2026.delta" sparkle:deltaFrom="2026" length="5638450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cv3Ti8uUA9DXBlIpvk4+y8PnMxFYTlzzMHYzTcZGt9Rb/+yP51Lgp/LSRdSQH0UPYA1VEkM0+gZAUfEP2HknDg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2027-2025.delta" sparkle:deltaFrom="2025" length="5567946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+9NVhAPN+qFf1i9HjyUyGjEMqTwXw1pp7hkXY16MAgAMV/SgLALIh8ev7nJOaPnyyEUVtWM+2UU0lMjZDJL+Bg=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2027-2024.delta" sparkle:deltaFrom="2024" length="5419094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/9H4xQ46CM6wpQCSfYF0dLeKFQmuA4JlO0frxwFWuXxbcxQslIHBpnmCqnohjYPlEa5qtmMJ4uDgoZZWdzU6Aw=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2027-2023.delta" sparkle:deltaFrom="2023" length="5901150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lgp3phD9/Av+xeTa8SD0QZZEDJDiTf2RiYcoD/z1shlbHug699fjTvW46uW53uOolWXRHBvzvb3CwiwIjT2tDA=="/>
+                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2027-2022.delta" sparkle:deltaFrom="2022" length="5904342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vPSCzGh+1oRcho3XcueoK/ZVSCqQgfy5lw6AS0LRUrr0GknMxRWbKI+M/7gTE8QotYB+9oKzYRSx1dNWP58yCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.20.26</title>
             <pubDate>Wed, 14 Oct 2026 15:57:03 +0200</pubDate>
             <sparkle:version>2026</sparkle:version>
             <sparkle:shortVersionString>0.20.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p class="jarvis-headline">Meeting transcripts stop repeating the other side.</p>
-<h2>Jarvis 0.20.26</h2>
-<ul>
-  <li>On a call without headphones, your microphone picks up the other person from your speakers. Jarvis used to show those lines twice, once as them and once as you, especially short ones like "Hi" or "Okay". It now recognises and drops the copy, and past meetings show clean too.</li>
-  <li>If Jarvis is no longer signed in, it now shows the sign-in screen instead of carrying on quietly without meeting summaries or task updates. Summaries skipped while signed out are written as soon as you sign in.</li>
-</ul>
-]]></description>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.26.dmg" length="62984970" type="application/octet-stream" sparkle:edSignature="AKas4P4gB0i1Ozy7aC5ot0zF1lfUMIBiYAwURWKRydy6ghsHFsinsgrzrV6j0hsFc8s/PrnpPIcF7hltwQsYCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2026-2025.delta" sparkle:deltaFrom="2025" length="2898146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YZrIj4QjAAclWY8uHhbiLBZqqYYjjLaTMhqhmB8a7YC0W21uNANRj9BUQzNGoajURd8GH0oSwAr4lYQxGh2zAg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2026-2024.delta" sparkle:deltaFrom="2024" length="3558746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rZ/LTB0aYZCYFN08/QROqMUvC3yALIE8+5Dvddvqbp8ajYObZx4q3wLhlMJZF2AV3//n9s0tildiY9kuON1oDQ=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2026-2023.delta" sparkle:deltaFrom="2023" length="5011514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F7/whPoqeEXnx8hMvzXl/ebNPwZM5UDEawKA22CGpwLU5Kul0YRDYJxTzhAUWcnMq6EbgHj1s6pdStgM6N91Dg=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2026-2022.delta" sparkle:deltaFrom="2022" length="5015194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A5LW0JXgLeZKA75HwZPiz13299Hro2GHzdXEY1JEWhTJTLTIvQRD56H3qVSb5pUsyOJ4T/GGEYdTx4m0/UPHBw=="/>
-                <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis2026-2021.delta" sparkle:deltaFrom="2021" length="5440802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7dy7uNwo3n4KEZ42QuDD9MWT41cEVmJ9SSA+3VUsoPKwSlUD0SJO/8BnLwq21G1d7r+ymsM/gW3dPBa6FpzGAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.20.25</title>
-            <pubDate>Mon, 12 Oct 2026 11:10:53 +0200</pubDate>
+            <pubDate>Mon, 12 Oct 2026 11:11:57 +0200</pubDate>
             <sparkle:version>2025</sparkle:version>
             <sparkle:shortVersionString>0.20.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.25.dmg" length="62976835" type="application/octet-stream" sparkle:edSignature="lXawuHAgVvFwYbm/1t8ygpEB7rW28Hv5CHi63HhRgwxCK6O5eI5So3vU9E+GO37tiM9Q9dsqN1yrFPeA0js/BQ=="/>
-        </item>
-        <item>
-            <title>0.20.24</title>
-            <pubDate>Sun, 11 Oct 2026 14:15:07 +0200</pubDate>
-            <sparkle:version>2024</sparkle:version>
-            <sparkle:shortVersionString>0.20.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anthonykuzmich7/jarvis-releases/releases/download/downloads/Jarvis-0.20.24.dmg" length="62973566" type="application/octet-stream" sparkle:edSignature="f1PQW2B3ahwp9QvXT/lJWByulzn8Fse2R3iqFntg+wIKSSXhzmMzNvlhVoU6Ht9o/j3nMUNTYNibz6XeawYzBQ=="/>
         </item>
     </channel>
 </rss>
